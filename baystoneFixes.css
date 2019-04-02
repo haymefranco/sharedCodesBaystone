@@ -19,7 +19,7 @@ QUIN FIX
     height:0;
 }
 .logo__summary{
-    max-width:auto;
+    max-width:fit-content;
 }
 /********************************************/
 
