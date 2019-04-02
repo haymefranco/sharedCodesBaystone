@@ -1,0 +1,49 @@
+/********************************************/
+Custom FIX baystonemedia
+/********************************************/
+
+
+$('.clear_col, .col_1_2, .col_2_2, .cntwrp.feature_image, .cntwrpInner, .col_1_3, .col_2_3, .col_3_3, .col_header ').removeClass();
+
+
+/********************************************/
+QUIN FIX
+/********************************************/
+.wrap__logo .logo, .wrap__footer .logo, .logo__inner .logo{
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.wrap__header .location__phone{
+    height:0;
+}
+/********************************************/
+
+
+
+
+
+
+
+
+/********************************************/
+SCRATCH
+/********************************************/
+.three-parts{
+  width:33%;
+  display:inline-block;
+  vertical-align: top;
+  text-align:center;
+}
+
+.two-parts{
+  width:33%;
+  display:inline-block;
+  vertical-align: top;
+
+}
+.two-parts.big{
+  width:66%;
+}
+/********************************************/

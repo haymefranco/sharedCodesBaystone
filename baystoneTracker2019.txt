@@ -1,22 +1,34 @@
 /********************************************/
 1-April-2019
-Ticket #: 377682
-Theme: Julia Blue
-Site: http://www.edgewaterbeachfootandankle.com
-WebID: 15670
-
-JUNE CONTINUED
-
-/********************************************/
-1-April-2019
 Ticket #: 377680
 Theme: Quinn Blue
 Site: http://www.footandankleinstitute.org
-WebID: 2349
-Portal: https://my.onlinepodiatrysites.com/0036756/site/cms
+WebID: 36756
+Portal: https://my.onlinepodiatrysites.com/0036756/site/editor/cms
+
+MIGRATION COMPLETED
+
+/********************************************/
+2-April-2019
+Ticket #: 377682
+Theme: Julia Blue
+Site: http://www.edgewaterbeachfootandankle.com
+WebID: 36757
+Portal: https://my.onlinepodiatrysites.com/0036757/site/editor/cms
 
 
 /********************************************/
+2-April-2019
+Ticket #: 377685
+Theme: Quinn Blue
+Site: http://www.hoffmanestateschiro.com
+WebID: 36757
+Portal: https://my.onlinechiro.com/0036759/site/editor/cms
+
+
+/********************************************/
+
+
 
 
 
