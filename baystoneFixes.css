@@ -33,6 +33,61 @@ QUIN FIX
 /********************************************/
 SCRATCH
 /********************************************/
+
+
+
+
+
+
+
+/*==================CUSTOM CSS======================*/
+
+.logo__link {
+    display: block!important;
+}
+#content_sublinks{
+    display:none;
+}
+#content_sublinks{
+    clear:both!important;
+}
+#content_sublinks ul{
+    clear:none!important;
+}
+.wrappage-content ul, .wrapeditable ul, .wrapeditable ol, .wrap__page-content ul{
+    clear: none;
+}
+.staff ul#staff__list{
+    list-style-type:none!important;
+}
+.wrap__page-content img{
+    padding: 10px;
+}
+@media(max-width:425px){
+    .wrap__container img, .wrap--inner img{
+        width:auto;
+        height:auto!important;
+        float:none!important;
+        display:block!important;
+        margin:0 auto!important;
+    }
+    .wrap__page-content img:not(.leaflet-tile), .wrap__editable img:not(.leaflet-tile), .wrap__editable-content img:not(.leaflet-tile), .staff-member img{
+        width:auto;
+        margin:0 auto!important;
+        height:auto!important;
+        display:block!important;
+        float:none;
+    }
+    iframe{
+        width:auto!important;
+    }
+}
+/*==================CUSTOM CSS======================*/
+
+
+
+
+
 .three-parts{
   width:33%;
   display:inline-block;
