@@ -18,6 +18,9 @@ QUIN FIX
 .wrap__header .location__phone{
     height:0;
 }
+.logo__summary{
+    max-width:auto;
+}
 /********************************************/
 
 
