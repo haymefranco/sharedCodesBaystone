@@ -1,0 +1,68 @@
+Quinn Blue FIX
+
+
+
+
+
+
+.wrap__logo .logo, .wrap__footer .logo, .logo__inner .logo{
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+}
+.wrap__header .location__phone{
+    height:0;
+}
+
+
+
+
+
+
+/*==================CUSTOM CSS======================*/
+
+/* .logo__link {
+    display: block!important;
+} */
+#content_sublinks{
+    display:none;
+}
+#content_sublinks{
+    clear:both!important;
+}
+#content_sublinks ul{
+    clear:none!important;
+}
+.wrappage-content ul, .wrapeditable ul, .wrapeditable ol, .wrap__page-content ul{
+    clear: none;
+}
+.staff ul#staff__list{
+    list-style-type:none!important;
+}
+.wrap__page-content img{
+    padding: 10px;
+    height: auto;
+}
+@media(max-width:1024px){
+    .wrap__header .location__phone{
+        height:auto;
+    }
+}
+@media(max-width:425px){
+    .wrap__container img, .wrap--inner img{
+        width:auto;
+        height:auto!important;
+        float:none!important;
+        display:block!important;
+        margin:0 auto!important;
+    }
+    .wrap__page-content img:not(.leaflet-tile), .wrap__editable img:not(.leaflet-tile), .wrap__editable-content img:not(.leaflet-tile), .staff-member img{
+        width:auto;
+        margin:0 auto!important;
+        height:auto!important;
+        display:block!important;
+    }
+    iframe{
+        width:auto!important;
+    }
+}
