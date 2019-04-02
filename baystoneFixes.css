@@ -76,7 +76,7 @@ SCRATCH
         margin:0 auto!important;
         height:auto!important;
         display:block!important;
-        float:none;
+        float:none!important;
     }
     iframe{
         width:auto!important;
