@@ -1,22 +1,30 @@
 /********************************************/
-1-April-2019
-Ticket #: 377680
+3-April-2019
+Ticket #: 377677
 Theme: Quinn Blue
-Site: http://www.footandankleinstitute.org
-WebID: 36756
-Portal: https://my.onlinepodiatrysites.com/0036756/site/editor/cms
+Site: http://www.friendswoodchiros.com
+WebID: 36753
+Portal: http://my.onlinechiro.com/0036753/site/editor/cms
 
-MIGRATION COMPLETED
-
+3-April-2019
 /********************************************/
-2-April-2019
-Ticket #: 377682
-Theme: Julia Blue
-Site: http://www.edgewaterbeachfootandankle.com
-WebID: 36757
-Portal: https://my.onlinepodiatrysites.com/0036757/site/editor/cms
-
-
+3-April-2019
+Ticket #: 377679
+Theme: Wendy Blue
+Site: http://www.footdocchattanooga.com
+WebID: 36754
+Portal: https://my.onlinepodiatrysites.com/0036754/site/editor/cms
+MIGRATION COMPLETED
+3-April-2019
+/********************************************/
+3-April-2019
+Ticket #: 377683
+Theme: Zoe Blue
+Site: http://www.farahpodiatryassociates.com
+WebID: 36758
+Portal: https://my.onlinepodiatrysites.com/0036758/site/editor/cms
+MIGRATION COMPLETED
+3-April-2019
 /********************************************/
 2-April-2019
 Ticket #: 377685
@@ -24,8 +32,26 @@ Theme: Quinn Blue
 Site: http://www.hoffmanestateschiro.com
 WebID: 36757
 Portal: https://my.onlinechiro.com/0036759/site/editor/cms
-
-
+MIGRATION COMPLETED
+3-April-2019
+/********************************************/
+2-April-2019
+Ticket #: 377682
+Theme: Julia Blue
+Site: http://www.edgewaterbeachfootandankle.com
+WebID: 36757
+Portal: https://my.onlinepodiatrysites.com/0036757/site/editor/cms
+MIGRATION COMPLETED
+2-April-2019
+/********************************************/
+1-April-2019
+Ticket #: 377680
+Theme: Quinn Blue
+Site: http://www.footandankleinstitute.org
+WebID: 36756
+Portal: https://my.onlinepodiatrysites.com/0036756/site/editor/cms
+MIGRATION COMPLETED
+2-April-2019
 /********************************************/
 
 
@@ -56,9 +82,12 @@ Portal: https://my.onlinechiro.com/0036759/site/editor/cms
 
 
 
+
+
+
+
+
 /********************************************/
-
-
 
 justin.ca6rep@gmail.com
 
@@ -66,6 +95,9 @@ justin.ca6rep@gmail.com
 Franclin James Lim
 franclin.ca6rep@gmail.com
 Production55!
+franclin.cr54rep@gmail.com
+Gma1l!p@ss#4682
+
 /********************************************/
 
 Copyright (c) 2019 Franclin James Lim documents All Rights Reserved.

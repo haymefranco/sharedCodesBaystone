@@ -77,14 +77,13 @@ SCRATCH
         height:auto!important;
         display:block!important;
         float:none!important;
+        padding-left:10px!important;
     }
     iframe{
         width:auto!important;
     }
 }
 /*==================CUSTOM CSS======================*/
-
-
 
 
 
