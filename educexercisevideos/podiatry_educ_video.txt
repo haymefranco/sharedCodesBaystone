@@ -1,0 +1,33 @@
+<br>
+<span class="embeddedVideo" style="display: block; margin: 0 auto; max-width: 600px;">
+    <span class="embeddedVideo--iframe">
+        <iframe width="560" height="315" src="
+        https://www.youtube.com/embed/videoseries?list=PLWv8selpOe1OoMJvSh-IaEfkBdh67r0hM" frameborder="0" allow="autoplay; encrypted-media"
+            allowfullscreen></iframe>
+    </span>
+</span>
+<br>
+<span class="embeddedVideo" style="display: block; margin: 0 auto; max-width: 600px;">
+    <span class="embeddedVideo--iframe">
+        <iframe width="560" height="315" src="
+        https://www.youtube.com/embed/videoseries?list=PLWv8selpOe1MXJeXsk5NFEnnBd5lWnVjO" frameborder="0" allow="autoplay; encrypted-media"
+            allowfullscreen></iframe>
+    </span>
+</span>
+<br>
+<span class="embeddedVideo" style="display: block; margin: 0 auto; max-width: 600px;">
+    <span class="embeddedVideo--iframe">
+        <iframe width="560" height="315" src="
+        https://www.youtube.com/embed/videoseries?list=PLWv8selpOe1N4C6XpxhCRNRC9Bgc87EMj" frameborder="0" allow="autoplay; encrypted-media"
+            allowfullscreen></iframe>
+    </span>
+</span>
+<br>
+<span class="embeddedVideo" style="display: block; margin: 0 auto; max-width: 600px;">
+    <span class="embeddedVideo--iframe">
+        <iframe width="560" height="315" src="
+        https://www.youtube.com/embed/videoseries?list=PLWv8selpOe1Nubln43a5n9F6-JbpBBVZX" frameborder="0" allow="autoplay; encrypted-media"
+            allowfullscreen></iframe>
+    </span>
+</span>
+

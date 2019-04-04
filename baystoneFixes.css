@@ -1,5 +1,5 @@
 /********************************************/
-Custom FIX baystonemedia
+/* Custom FIX baystonemedia */
 /********************************************/
 
 
@@ -7,7 +7,7 @@ $('.clear_col, .col_1_2, .col_2_2, .cntwrp.feature_image, .cntwrpInner, .col_1_3
 
 
 /********************************************/
-QUIN FIX
+/* QUIN FIX */
 /********************************************/
 .wrap__logo .logo, .wrap__footer .logo, .logo__inner .logo{
     display: flex;
@@ -23,9 +23,16 @@ QUIN FIX
 }
 /********************************************/
 
-
-
-
+/********************************************/
+/* SANDRA FIX */
+/********************************************/
+.gallery-item--image.scale{
+  float:none;
+}
+.logo{
+  width:auto;
+}
+/********************************************/
 
 
 
@@ -33,7 +40,8 @@ QUIN FIX
 /********************************************/
 SCRATCH
 /********************************************/
-
+Educational videos embed code
+<embed src="http://www.creditviewfamilychiropractic.ca/interface/Exercise-Player/Video Player.swf" quality="high" scale="noscale" bgcolor="#000000" width="700" height="515" name="Video Player" align="middle" allowscriptaccess="always" allowfullscreen="false" wmode="transparent" flashvars="id_content=2996204" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer">
 
 
 

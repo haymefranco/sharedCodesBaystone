@@ -1,11 +1,29 @@
 /********************************************/
+4-April-2019
+Ticket #: 377675
+Theme: Zoe Purple
+Site: http://www.rwcchiro.com
+WebID: 36751
+Portal: http://my.onlinechiro.com/0036751/site/editor/cms
+MIGRATION COMPLETED
+4-April-2019
+/********************************************/
+4-April-2019
+Ticket #: 377676
+Theme: Sandra Green
+Site: http://www.creditviewfamilychiropractic.ca
+WebID: 36752
+Portal: https://my.onlinechiro.com/0036752/site/editor/cms
+MIGRATION COMPLETED
+4-April-2019
+/********************************************/
 3-April-2019
 Ticket #: 377677
 Theme: Quinn Blue
 Site: http://www.friendswoodchiros.com
 WebID: 36753
 Portal: http://my.onlinechiro.com/0036753/site/editor/cms
-
+MIGRATION COMPLETED
 3-April-2019
 /********************************************/
 3-April-2019
