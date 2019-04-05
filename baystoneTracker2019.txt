@@ -1,3 +1,47 @@
+5-April-2019
+Ticket #: 377832
+Theme: Julia Blue
+Site: http://www.mendykchiro.com/
+WebID: 36846
+Portal: http://my.onlinechiro.com/0036846/site/editor/cms
+MIGRATION COMPLETED
+5-April-2019
+/********************************************/
+5-April-2019
+Ticket #: 377833
+Theme: Quinn Blue
+Site: https://www.lauriebranchtherapist.com/
+WebID: 36847
+Portal: http://my.onlinechiro.com/0036847/site/editor/cms
+MIGRATION COMPLETED
+5-April-2019
+/********************************************/
+5-April-2019
+Ticket #: 377834
+Theme: Grace Dusk
+Site: http://www.raleighcatclinic.com
+WebID: 36849
+Portal: http://my.onlinechiro.com/0036849/site/editor/cms
+MIGRATION COMPLETED
+5-April-2019
+/********************************************/
+5-April-2019
+Ticket #: 377657
+Theme: Grace Dusk
+Site: http://www.walkerchiropracticpc.com
+WebID: 36743
+Portal: https://my.onlinechiro.com/0036743/site/editor/cms
+MIGRATION COMPLETED
+5-April-2019
+/********************************************/
+4-April-2019
+Ticket #: 377673
+Theme: Karen Gold
+Site: http://www.floridachiro.com
+WebID: 36749
+Portal: http://my.onlinechiro.com/0036749/site/editor/cms
+MIGRATION COMPLETED
+4-April-2019
 /********************************************/
 4-April-2019
 Ticket #: 377675
