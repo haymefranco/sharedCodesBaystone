@@ -1,3 +1,57 @@
+10-April-2019
+Ticket #: 377831
+Theme: Lola Green
+Site: https://www.hightowerchiro.com/
+WebID: 36845
+Portal: http://my.onlinechiro.com/0036845/site/editor/cms
+MIGRATION COMPLETED
+10-April-2019
+/********************************************/
+10-April-2019
+Ticket #: 377655
+Theme: Quinn Blue
+Site: https://www.healthinharmonychiro.com/
+WebID: 36742
+Portal: http://my.onlinechiro.com/0036742/site/editor/cms
+MIGRATION COMPLETED
+10-April-2019
+/********************************************/
+9-April-2019
+Ticket #: 377653
+Theme: Ellie Blue
+Site: http://www.buckscountywellnesscentre.com/
+WebID: 36741
+Portal: https://my.onlinechiro.com/0036741/site/editor/cms
+MIGRATION COMPLETED
+10-April-2019
+/********************************************/
+9-April-2019
+Ticket #: 377651
+Theme: Sapphire Ice Purple
+Site: http://www.grandchirocenter.com/
+WebID: 36740
+Portal: http://my.onlinechiro.com/0036740/site/editor/cms
+MIGRATION COMPLETED
+9-April-2019
+/********************************************/
+9-April-2019
+Ticket #: 377648
+Theme: Julia blue
+Site: https://www.deshonanimal.com/
+WebID: 36739
+Portal: http://my.onlinechiro.com/0036739/site/editor/cms
+MIGRATION COMPLETED
+9-April-2019
+/********************************************/
+8-April-2019
+Ticket #: 377646
+Theme: Ellie Blue
+Site: https://www.burnsvision.com/
+WebID: 36738
+Portal: http://my.onlinechiro.com/0036738/site/editor/cms
+MIGRATION COMPLETED
+9-April-2019
+/********************************************/
 5-April-2019
 Ticket #: 377832
 Theme: Julia Blue
@@ -5,7 +59,7 @@ Site: http://www.mendykchiro.com/
 WebID: 36846
 Portal: http://my.onlinechiro.com/0036846/site/editor/cms
 MIGRATION COMPLETED
-5-April-2019
+8-April-2019
 /********************************************/
 5-April-2019
 Ticket #: 377833

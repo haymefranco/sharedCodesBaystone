@@ -3,7 +3,7 @@
 /********************************************/
 
 
-$('.clear_col, .col_1_2, .col_2_2, .cntwrp.feature_image, .cntwrpInner, .col_1_3, .col_2_3, .col_3_3, .col_header ').removeClass();
+$('.clear_col, .col_1_2, .col_2_2, .cntwrp.feature_image, .cntwrpInner, .col_1_1, .col_1_3, .col_2_3, .col_3_3, .col_header ').removeClass();
 
 /********************************************/
 /* REQUIRED FIXES */
@@ -12,6 +12,64 @@ $('.clear_col, .col_1_2, .col_2_2, .cntwrp.feature_image, .cntwrpInner, .col_1_3
   width:auto;
 }
 /********************************************/
+/*==================CUSTOM CSS======================*/
+
+.logo__link {
+    display: block!important;
+}
+#content_sublinks{
+    display:none;
+}
+#content_sublinks{
+    clear:both!important;
+}
+#content_sublinks ul{
+    clear:none!important;
+}
+.wrappage-content ul, .wrapeditable ul, .wrapeditable ol, .wrap__page-content ul{
+    clear: none;
+}
+.staff ul#staff__list{
+    list-style-type:none!important;
+}
+.wrap__page-content img{
+    padding: 10px;
+}
+@media(min-width:480px){
+  .dflex{
+    display:flex;
+  }
+  .flexone{
+    flex:1;
+  }
+  .flextwo{
+    flex:2;
+  }
+  .wrap__header .location__phone{
+    height:0;
+  }
+}
+@media(max-width:425px){
+    .wrap__container img, .wrap--inner img{
+        width:auto;
+        height:auto!important;
+        float:none!important;
+        display:block!important;
+        margin:0 auto!important;
+    }
+    .wrap__page-content img:not(.leaflet-tile), .wrap__editable img:not(.leaflet-tile), .wrap__editable-content img:not(.leaflet-tile), .staff-member img{
+        width:auto;
+        margin:0 auto!important;
+        height:auto!important;
+        display:block!important;
+        float:none!important;
+        padding-left:10px!important;
+    }
+    iframe{
+        width:auto!important;
+    }
+}
+/*==================CUSTOM CSS======================*/
 
 
 /********************************************/
@@ -45,61 +103,10 @@ $('.clear_col, .col_1_2, .col_2_2, .cntwrp.feature_image, .cntwrpInner, .col_1_3
 
 
 
+
 /********************************************/
 SCRATCH
 /********************************************/
-Educational videos embed code
-<embed src="http://www.creditviewfamilychiropractic.ca/interface/Exercise-Player/Video Player.swf" quality="high" scale="noscale" bgcolor="#000000" width="700" height="515" name="Video Player" align="middle" allowscriptaccess="always" allowfullscreen="false" wmode="transparent" flashvars="id_content=2996204" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer">
-
-
-
-
-
-
-/*==================CUSTOM CSS======================*/
-
-.logo__link {
-    display: block!important;
-}
-#content_sublinks{
-    display:none;
-}
-#content_sublinks{
-    clear:both!important;
-}
-#content_sublinks ul{
-    clear:none!important;
-}
-.wrappage-content ul, .wrapeditable ul, .wrapeditable ol, .wrap__page-content ul{
-    clear: none;
-}
-.staff ul#staff__list{
-    list-style-type:none!important;
-}
-.wrap__page-content img{
-    padding: 10px;
-}
-@media(max-width:425px){
-    .wrap__container img, .wrap--inner img{
-        width:auto;
-        height:auto!important;
-        float:none!important;
-        display:block!important;
-        margin:0 auto!important;
-    }
-    .wrap__page-content img:not(.leaflet-tile), .wrap__editable img:not(.leaflet-tile), .wrap__editable-content img:not(.leaflet-tile), .staff-member img{
-        width:auto;
-        margin:0 auto!important;
-        height:auto!important;
-        display:block!important;
-        float:none!important;
-        padding-left:10px!important;
-    }
-    iframe{
-        width:auto!important;
-    }
-}
-/*==================CUSTOM CSS======================*/
 
 
 
