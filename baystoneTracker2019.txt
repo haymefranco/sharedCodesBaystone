@@ -1,10 +1,33 @@
 12-April-2019
+Ticket #: 378286
+Theme:
+Site: http://www.maximumhealthcenter.com
+WebID: 4823
+Portal: https://my.onlinechiro.com/0004823/site/editor/cms
+REGULAR TICKET COMPLETED
+- Added Logos and attached links
+- UPMC, Highmark BC/BS, Aetna, Cigna, United HealthCare, Medicare
+12-April-2019
+/********************************************/
+12-April-2019
+Ticket #: 378195
+Theme: N/A REGULAR TICKET
+Site: https://richardkimchiropractic.com/
+WebID: 13508
+Portal: https://preview.onlinechiro.com/13508/editor/my-website.cfm#
+REGULAR TICKET COMPLETED
+- Youtube Videos > Added to Home Page
+- Added scripts to fix the small Embedded videos to fit the maximum width relative to the screen width.
+12-April-2019
+/********************************************/
+12-April-2019
 Ticket #: 378194
 Theme: Quinn Blue
 Site: https://www.advancedphysicalhealthcenter.com/
 WebID: 37033
 Portal: http://my.onlinechiro.com/0037033/site/editor/cms
-MIGRATION COMPLETED
+MIGRATION INCOMPLETE
+- Site is under Maintenance
 12-April-2019
 /********************************************/
 11-April-2019
