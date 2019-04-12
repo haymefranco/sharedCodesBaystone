@@ -1,7 +1,7 @@
 12-April-2019
 Ticket #: 378286
 Theme:
-Site: http://www.maximumhealthcenter.com
+Site: https://www.maximumhealthcenter.com/
 WebID: 4823
 Portal: https://my.onlinechiro.com/0004823/site/editor/cms
 REGULAR TICKET COMPLETED
