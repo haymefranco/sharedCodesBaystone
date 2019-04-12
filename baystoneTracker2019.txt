@@ -1,3 +1,30 @@
+12-April-2019
+Ticket #: 378194
+Theme: Quinn Blue
+Site: https://www.advancedphysicalhealthcenter.com/
+WebID: 37033
+Portal: http://my.onlinechiro.com/0037033/site/editor/cms
+MIGRATION COMPLETED
+12-April-2019
+/********************************************/
+11-April-2019
+Ticket #: 377983
+Theme: Veronica Blue
+Site: https://www.drfrankaccardi.com/
+WebID: 36992
+Portal: https://my.onlinechiro.com/0036992/site/editor/cms
+MIGRATION COMPLETED
+12-April-2019
+/********************************************/
+11-April-2019
+Ticket #: 377962
+Theme: Paige Blue
+Site: https://www.atlantapainsolutions.com/
+WebID: 36911
+Portal: http://my.onlinechiro.com/0036911/site/editor/cms
+MIGRATION COMPLETED
+11-April-2019
+/********************************************/
 10-April-2019
 Ticket #: 377831
 Theme: Lola Green
@@ -204,6 +231,8 @@ MIGRATION COMPLETED
 
 
 /********************************************/
+bit.ly/2Voh04t
+
 
 justin.ca6rep@gmail.com
 
