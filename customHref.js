@@ -1,7 +1,3 @@
-
-
-
-
 // SEARCH A SPECIFIC LINK AND ADD / REMOVE THE FIRST WORDS ON HREF
 $(".wrap__page-content a").each(function(){
     var textHref = $(this).attr('href');
