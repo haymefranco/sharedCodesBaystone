@@ -1,4 +1,16 @@
 12-April-2019
+Ticket #: 378095
+Theme:
+Site: https://www.assuranceappraisals.com/
+WebID: 14230
+Portal: https://my.onlinechiro.com/0014230/site/editor/cms
+REGULAR TICKET COMPLETED
+- Privacy Policy on footer
+- Address on contact Us Hill
+- Company Name on Left sidebar
+15-April-2019
+/********************************************/
+12-April-2019
 Ticket #: 378286
 Theme:
 Site: https://www.maximumhealthcenter.com/
