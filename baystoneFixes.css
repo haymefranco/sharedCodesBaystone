@@ -5,6 +5,7 @@
 
 $('.clear_col, .col_1_2, .col_2_2, .cntwrp.feature_image, .cntwrpInner, .col_1_1, .col_1_3, .col_2_3, .col_3_3, .col_header ').removeClass();
 
+
 /********************************************/
 /* REQUIRED FIXES */
 /********************************************/
@@ -35,6 +36,7 @@ $('.clear_col, .col_1_2, .col_2_2, .cntwrp.feature_image, .cntwrpInner, .col_1_1
 .wrap__page-content img{
     padding: 10px;
 }
+
 @media(min-width:480px){
   .dflex{
     display:flex;
@@ -46,10 +48,18 @@ $('.clear_col, .col_1_2, .col_2_2, .cntwrp.feature_image, .cntwrpInner, .col_1_1
     flex:2;
   }
   .wrap__header .location__phone{
-    height:0;
+    height:0!important;
   }
 }
-@media(max-width:425px){
+@media(max-width:1024px){
+    .wrap__header .location__phone{
+        height:auto!important;
+    }
+    .location__phone, .location__fax{
+        margin:auto!important;
+    }
+}
+@media(max-width:480px){
     .wrap__container img, .wrap--inner img{
         width:auto;
         height:auto!important;
@@ -70,6 +80,7 @@ $('.clear_col, .col_1_2, .col_2_2, .cntwrp.feature_image, .cntwrpInner, .col_1_1
     }
 }
 /*==================CUSTOM CSS======================*/
+
 
 
 /********************************************/
@@ -127,3 +138,32 @@ SCRATCH
   width:66%;
 }
 /********************************************/
+
+
+
+
+
+
+
+/********************************************/
+/* REMOVE FONT TAG FIX */
+/********************************************/
+/* v1 */
+$('font').replaceWith($('<div>' + this.innerHTML + '</div>'));
+/* this is not working */
+/********************************************/
+/* v2 */
+var $span = $(".wrap__page-content span");
+  $span.replaceWith(function () {
+      return $('<div/>', {html: this.innerHTML});
+  });
+/* slightly working */
+/* cant understand */
+/* this is not working */
+/********************************************/
+var content = $('.contentAreaA span').text();
+$(content).each(function(){
+    $(this).replaceWith($('<div>' + this.innerHTML + '</div>'));
+    console.log(content);
+});
+/* this is not working */

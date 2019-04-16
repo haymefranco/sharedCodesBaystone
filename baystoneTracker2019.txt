@@ -1,11 +1,29 @@
+16-April-2019
+Ticket #: 378352
+Theme: 
+Site: https://www.londonnaturalhealthcare.com/
+WebID: 37186
+Portal: https://my.onlinechiro.com/0037186/site/editor/cms
+MIGRATION COMPLETED
+16-April-2019
+/********************************************/
+15-April-2019
+Ticket #: 378359
+Theme: Quinn Blue
+Site: tungatechiropractic.com
+WebID: 36962
+Portal: https://my.onlinechiro.com/0036962/site/editor/cms
+THEME CHANGE COMPLETE
+16-April-2019
+/********************************************/
 15-April-2019
 Ticket #: 378349
-Theme:N/A REGULAR TICKET
+Theme: N/A REGULAR TICKET
 Site: https://www.wyckoffchiropractor.com/
 WebID: 33229
-Portal:
+Portal: http://my.onlinechiro.com/0033229/site/editor/cms
 REGULAR TICKET COMPLETED
-
+All Massage related pages and/or Links, including Massage Hours are no longer visible.
 15-April-2019
 /********************************************/
 15-April-2019
