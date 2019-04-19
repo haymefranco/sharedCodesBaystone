@@ -1,6 +1,70 @@
+19-April-2019
+Ticket #: 378554
+Theme: N/A REGULAR TICKET
+Site: https://integrativehealthpdx.com/
+WebID: 2762
+Portal: http://my.onlinechiro.com/0002762/site/editor/cms
+REGULAR TICKET COMPLETED
+19-April-2019
+/********************************************/
+18-April-2019
+Ticket #: 378514
+Theme: N/A REGULAR TICKET
+Site: https://www.mavamedical.com/
+WebID: 29890
+Portal: http://my.onlinechiro.com/0029890/site/editor/cms
+REGULAR TICKET COMPLETED
+18-April-2019
+/********************************************/
+18-April-2019
+Ticket #: 378414
+Theme: N/A REGULAR TICKET
+Site: http://www.maryannelombardodc.com/
+WebID: 36868
+Portal: https://my.onlinechiro.com/0036868/site/editor/cms
+REGULAR TICKET COMPLETED
+18-April-2019
+/********************************************/
+17-April-2019
+Ticket #: 378381
+Theme: Diana Blue
+Site: http://www.lancasterfootandankle.com/
+WebID: 37191
+Portal: http://my.onlinepodiatrysites.com/0037191/site/editor/cms
+MIGRATION COMPLETED
+18-April-2019
+/********************************************/
+17-April-2019
+Ticket #: 378380
+Theme: South Peach Purple
+Site: http://www.scoliosistreatmentctr.com/
+WebID: 37190
+Portal: http://my.onlinechiro.com/0037190/site/editor/cms
+MIGRATION COMPLETED
+17-April-2019
+/********************************************/
+17-April-2019
+Ticket #: 378378
+Theme: Diana Blue
+Site: https://www.drlongchiropractic.com/
+WebID: 37189
+Portal: https://my.onlinechiro.com/0037189/site/editor/cms
+MIGRATION COMPLETED
+17-April-2019
+/********************************************/
+17-April-2019
+Ticket #: 378399
+Theme: N/A REGULAR TICKET
+Site: https://www.activelifechiropracticpa.com/
+WebID: 37186
+Portal: https://my.onlinechiro.com/0011088/site/editor/cms
+REGULAR TICKET INCOMPLETE
+Adding LD for $50/mo.
+16-April-2019
+/********************************************/
 16-April-2019
 Ticket #: 378352
-Theme: 
+Theme: Quinn Custom Purple
 Site: https://www.londonnaturalhealthcare.com/
 WebID: 37186
 Portal: https://my.onlinechiro.com/0037186/site/editor/cms
