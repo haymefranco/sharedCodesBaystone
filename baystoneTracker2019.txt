@@ -5,6 +5,7 @@ Site: https://integrativehealthpdx.com/
 WebID: 2762
 Portal: http://my.onlinechiro.com/0002762/site/editor/cms
 REGULAR TICKET COMPLETED
+ADDED CUSTOMIZED NAVIGATION BAR
 19-April-2019
 /********************************************/
 18-April-2019
