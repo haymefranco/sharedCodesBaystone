@@ -5,7 +5,13 @@ Site: https://integrativehealthpdx.com/
 WebID: 2762
 Portal: http://my.onlinechiro.com/0002762/site/editor/cms
 REGULAR TICKET COMPLETED
-ADDED CUSTOMIZED NAVIGATION BAR
+DONE 1. Please put the menu bar at the top
+UNABLE TO COMPLETE: (there is no specified still image.) 2. Add still image from previous site with same wording
+- NOTE: INSTEAD ADDED SLIDER AND FEATURED BLOCKS CONTENT
+DONE: 3. Add all 6 of the services to featured services
+- NOTE: Block Descriptions are too long for the component to be added, this was truncated.
+DONE: 4. Make the feat services boxes ovals with the pictures in from previous site
+- NOTE: Added ovals with Almost the same sized images.
 19-April-2019
 /********************************************/
 18-April-2019
