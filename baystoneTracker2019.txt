@@ -1,12 +1,204 @@
-19-April-2019
+26-April-2019
+Ticket #: 378655
+Theme: Christine Blue
+Site: https://www.backbenzchiropractic.com/
+WebID: 37333
+Portal: https://my.onlinechiro.com/0037333/site/editor/cms
+REGULAR TICKET COMPLETED
+26-April-2019
+/********************************************/
+26-April-2019
+Ticket #: 378790
+Theme: N/A REGULAR TICKET
+Site: https://www.springwaterchiropractic.com/
+WebID: 28299
+Portal: https://my.onlinechiro.com/0028299/site/editor/cms
+REGULAR TICKET COMPLETED
+26-April-2019
+/********************************************/
+26-April-2019
+Ticket #: 28299
+Theme: N/A REGULAR TICKET
+Site: https://www.beverlyhillsdecompression.com/
+WebID: 30557
+Portal: https://my.onlinechiro.com/0030557/site/editor/cms
+REGULAR TICKET COMPLETED
+26-April-2019
+/********************************************/
+26-April-2019
+Ticket #: 378836
+Theme: N/A REGULAR TICKET
+Site: https://www.davischiropracticde.com/
+WebID:
+Portal:
+REGULAR TICKET COMPLETED
+26-April-2019
+/********************************************/
+26-April-2019
+Ticket #: 378838
+Theme: N/A REGULAR TICKET
+Site: https://www.footpainnj.com/
+WebID: 37040
+Portal: https://my.onlinepodiatrysites.com/0037040/site/editor/cms
+REGULAR TICKET COMPLETED
+25-April-2019
+/********************************************/
+26-April-2019
+Ticket #: 378755
+Theme: N/A REGULAR TICKET
+Site: https://www.littletonchiropracticclinic.com/
+WebID: 9118
+Portal: http://my.onlinechiro.com/0009118/site/editor/cms
+REGULAR TICKET COMPLETED
+25-April-2019
+/********************************************/
+25-April-2019
+Ticket #: 378741
+Theme: N/A REGULAR TICKET
+Site: http://www.mthoodpodiatry.com
+WebID: 4108
+Portal: http://my.onlinepodiatrysites.com/0004108/site/editor/cms
+REGULAR TICKET COMPLETED
+25-April-2019
+/********************************************/
+25-April-2019
+Ticket #: 378708
+Theme: N/A REGULAR TICKET
+Site: http://www.valleycenterchiropractic.com
+WebID: 34140
+Portal: https://my.onlinechiro.com/0034140/site/editor/cms
+REGULAR TICKET COMPLETED
+25-April-2019
+/********************************************/
+25-April-2019
+Ticket #: 378682
+Theme: N/A REGULAR TICKET
+Site: http://www.keithclinicmonroe.com
+WebID: 22780
+Portal: https://my.onlinechiro.com/0022780/site/editor/cms
+REGULAR TICKET COMPLETED
+25-April-2019
+/********************************************/
+25-April-2019
+Ticket #: 378194
+Theme: Quinn Blue
+Site: https://www.advancedphysicalhealthcenter.com/
+WebID: 37033
+Portal: http://my.onlinechiro.com/0037033/site/editor/cms
+MIGRATION COMPLETE
+25-April-2019
+/********************************************/
+24-April-2019
+Ticket #: 378674
+Theme: N/A REGULAR TICKET
+Site: https://www.loganhealthcenters.com/
+WebID: 23034
+Portal: http://my.onlinechiro.com/0023034/site/editor/cms
+REGULAR TICKET COMPLETED
+24-April-2019
+/********************************************/
+24-April-2019
+Ticket #: 378764
+Theme: N/A REGULAR TICKET
+Site: https://www.drlisatotino.com/
+WebID: 36076
+Portal: https://my.onlinechiro.com/0036076/site/editor/cms
+REGULAR TICKET COMPLETED
+24-April-2019
+/********************************************/
+24-April-2019
+Ticket #: 378769
+Theme: N/A REGULAR TICKET
+Site: http://www.mthoodpodiatry.com/
+WebID: 0004108
+Portal: https://my.onlinepodiatrysites.com/0004108/site/editor/cms
+REGULAR TICKET COMPLETED
+24-April-2019
+/********************************************/
+23-April-2019
+Ticket #: 378658
+Theme: N/A REGULAR TICKET
+Site: https://www.nguyenclinic.com/
+WebID: N/A BASIC EDITOR
+Portal: N/A BASIC EDITOR
+REGULAR TICKET COMPLETED
+23-April-2019
+/********************************************/
+23-April-2019
+Ticket #: 378617
+Theme: N/A REGULAR TICKET
+Site: https://www.loganhealthcenters.com/
+WebID: 23034
+Portal: https://my.onlinechiro.com/0023034/site/editor/cms
+REGULAR TICKET COMPLETED
+23-April-2019
+/********************************************/
+23-April-2019
+Ticket #: 378616
+Theme: N/A REGULAR TICKET
+Site: https://www.mccartneyfamilychiropractic.com/
+WebID: 29897
+Portal: https://my.onlinechiro.com/0029897/site/editor/cms
+REGULAR TICKET COMPLETED
+23-April-2019
+/********************************************/
+23-April-2019
+Ticket #: 378609
+Theme: N/A REGULAR TICKET
+Site: http://www.fisher-chiropractic.com/
+WebID: N/A BASIC EDITOR
+Portal: N/A BASIC EDITOR
+REGULAR TICKET COMPLETED
+23-April-2019
+/********************************************/
+23-April-2019
+Ticket #: 378602
+Theme: N/A REGULAR TICKET
+Site: https://www.drzosche.com/
+WebID: 10575
+Portal: https://my.onlinechiro.com/0010575/site/editor/cms
+REGULAR TICKET COMPLETED
+23-April-2019
+/********************************************/
+23-April-2019
+Ticket #: 378586
+Theme: N/A REGULAR TICKET
+Site: https://www.dranthonypendolino.com/
+WebID: 37192
+Portal: http://my.onlinechiro.com/0037192/site/editor/cms
+REGULAR TICKET COMPLETED
+23-April-2019
+/********************************************/
+22-April-2019
+Ticket #: 378540
+Theme: Haley Orange
+Site: https://www.fountaincitychiropractic.com/
+WebID: 37280
+Portal: http://my.onlinechiro.com/0037280/site/editor/cms
+MIGRATION COMPLETE
+22-April-2019
+/********************************************/
+22-April-2019
+Ticket #: 378541
+Theme: Sapphire Ice Blue
+Site: http://www.spinalhealing.com/
+WebID: 37282
+Portal: https://my.onlinechiro.com/0037282/site/editor/cms
+MIGRATION COMPLETE
+22-April-2019
+/********************************************/
+22-April-2019
 Ticket #: 378559
 Theme: N/A REGULAR TICKET
 Site: http://www.drpaulkang.com/
 WebID: 35218
 Portal: http://my.onlinechiro.com/0035218/site/editor/cms
 REGULAR TICKET COMPLETED
-
-19-April-2019
+THEME CHANGE
+SOUTHERN-PEACH THEME
+DONE: Please make sure the addresses and text appear in the header the same way they are currently on the live site
+UNABLE TO COMPLETE: (Font used cannot be located.) Dr would like to have the same font on the new site that is on the old site
+22-April-2019
 /********************************************/
 19-April-2019
 Ticket #: 378554
