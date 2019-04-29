@@ -1,12 +1,67 @@
+29-April-2019
+Ticket #: 378194
+Theme: N/A REGULAR TICKET
+Site: https://www.advancedphysicalhealthcenter.com/
+WebID: 37033
+Portal: http://my.onlinechiro.com/0037033/site/editor/cms
+REGULAR TICKET COMPLETED
+29-April-2019
+/********************************************/
+29-April-2019
+Ticket #: 378927
+Theme: N/A REGULAR TICKET
+Site: http://www.docjulie.com
+WebID: 36563
+Portal: https://my.onlinechiro.com/0036563/site/editor/cms
+REGULAR TICKET COMPLETED
+29-April-2019
+/********************************************/
+29-April-2019
+Ticket #: 378936
+Theme: N/A REGULAR TICKET
+Site: https://www.camphillchiro.com/
+WebID: 4418
+Portal: https://my.onlinechiro.com/0004418/site/editor/cms
+REGULAR TICKET COMPLETED
+29-April-2019
+/********************************************/
+29-April-2019
+Ticket #: 378935
+Theme: N/A REGULAR TICKET
+Site: https://www.camphillchiro.com/
+WebID: 4418
+Portal: https://my.onlinechiro.com/0004418/site/editor/cms
+REGULAR TICKET COMPLETED
+29-April-2019
+/********************************************/
+29-April-2019
+Ticket #: 378927
+Theme: N/A REGULAR TICKET
+Site: http://www.docjulie.com
+WebID: 36563
+Portal: https://my.onlinechiro.com/0036563/site/editor/cms
+REGULAR TICKET COMPLETED
+29-April-2019
+/********************************************/
+29-April-2019
+Ticket #: 378790
+Theme: N/A REGULAR TICKET
+Site: https://www.springwaterchiropractic.com/
+WebID: 28299
+Portal: https://my.onlinechiro.com/0028299/site/editor/cms
+REGULAR TICKET COMPLETED
+29-April-2019
+/********************************************/
 26-April-2019
 Ticket #: 378655
 Theme: Christine Blue
 Site: https://www.backbenzchiropractic.com/
 WebID: 37333
 Portal: https://my.onlinechiro.com/0037333/site/editor/cms
-REGULAR TICKET COMPLETED
-26-April-2019
-/********************************************/
+MIGRATION COMPLETE
+29-April-2019
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
 26-April-2019
 Ticket #: 378790
 Theme: N/A REGULAR TICKET
