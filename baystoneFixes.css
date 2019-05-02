@@ -56,6 +56,14 @@ $('.clear_col, .col_1_2, .col_2_2, .cntwrp.feature_image, .cntwrpInner, .col_1_1
     }
 }
 @media(max-width:480px){
+    .flexone{
+        border-bottom: 1px solid;
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+    }
+    .fontsize{
+        font-size:5vw!important;
+    }
     .wrap__container img, .wrap--inner img{
         width:auto;
         height:auto!important;
