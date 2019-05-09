@@ -1,3 +1,154 @@
+9-May-2019
+Ticket #:
+Site:
+Portal:
+Theme: 
+9-May-2019
+/********************************************/
+8-May-2019
+Ticket #: 379367
+Site: https://www.eganfamilychiro.com/
+Portal: https://my.onlinechiro.com/0037834/site/editor/cms
+Theme: Ellie Green
+MIGRATION COMPLETE
+9-May-2019
+/********************************************/
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
+8-May-2019
+Ticket #: 379266
+Site: http://www.zacharychiropractic.com/
+Portal: https://my.onlinechiro.com/0037745/site/editor/cms
+Theme: Karen Brown
+MIGRATION COMPLETE
+8-May-2019
+/********************************************/
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
+7-May-2019
+Ticket #: 379313
+Site: https://www.georgetownctchiro.com/
+Portal: https://my.onlinechiro.com/0005454/site/editor/cms
+Theme: N/A REGULAR TICKET
+REGULAR TICKET COMPLETED
+7-May-2019
+/********************************************/
+7-May-2019
+Ticket #: 379193
+Site: https://www.caringfootcare.com/
+Portal: https://my.onlinepodiatrysites.com/0001307/site/editor/cms
+Theme: N/A REGULAR TICKET
+REGULAR TICKET COMPLETED
+7-May-2019
+/********************************************/
+7-May-2019
+Ticket #: 379231
+Site: https://www.drfrankaccardi.com/
+Portal: https://my.onlinechiro.com/0036992/site/editor/cms
+Theme: N/A REGULAR TICKET
+REGULAR TICKET COMPLETED
+7-May-2019
+/********************************************/
+7-May-2019
+Ticket #: 379262
+Site: https://www.fabchiro.com/
+Portal: http://my.onlinechiro.com/0005416/site/editor/cms
+Theme: N/A REGULAR TICKET
+REGULAR TICKET COMPLETED
+7-May-2019
+/********************************************/
+7-May-2019
+Ticket #: 379250
+Site: https://www.harwoodchiroclinic.com/
+Portal: http://my.onlinechiro.com/0036525/site/editor/cms
+Theme: N/A REGULAR TICKET
+REGULAR TICKET COMPLETED
+7-May-2019
+/********************************************/
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
+6-May-2019
+Ticket #: 379215
+Site: https://www.thibchiro.com/
+Portal: https://my.onlinechiro.com/0031961/site/editor/cms
+Theme: N/A REGULAR TICKET
+REGULAR TICKET COMPLETED
+6-May-2019
+/********************************************/
+6-May-2019
+Ticket #: 379232
+Site: https://www.advancedphysicalhealthcenter.com/
+Portal: http://my.onlinechiro.com/0037033/site/editor/cms
+Theme: N/A REGULAR TICKET
+REGULAR TICKET COMPLETED
+6-May-2019
+/********************************************/
+6-May-2019
+Ticket #: 379252
+Site: https://www.renaissance-wellness.com/
+Portal: http://my.onlinechiro.com/0014918/site/editor/cms
+Theme: N/A REGULAR TICKET
+REGULAR TICKET COMPLETED
+6-May-2019
+/********************************************/
+6-May-2019
+Ticket #: 379237
+Theme: N/A REGULAR TICKET
+Site: https://www.purelifechiro.com/
+WebID: 14918
+Portal: http://my.onlinechiro.com/0014918/site/editor/cms
+REGULAR TICKET COMPLETED
+6-May-2019
+/********************************************/
+6-May-2019
+Ticket #: 379235
+Theme: N/A REGULAR TICKET
+Site: https://www.reasorchiropracticcenter.com/
+WebID: 16569
+Portal: https://my.onlinechiro.com/0016569/site/editor/cms
+REGULAR TICKET COMPLETED
+6-May-2019
+/********************************************/
+6-May-2019
+Ticket #: 379114
+Theme: Julia Blue
+Site: https://www.rockyriverwellness.com/
+WebID: 37641
+Portal: http://my.onlinechiro.com/0037641/site/editor/cms
+MIGRATION COMPLETE
+6-May-2019
+/********************************************/
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
+3-May-2019
+Ticket #: 379203
+Theme: N/A REGULAR TICKET
+Site: https://www.renaissance-wellness.com/
+WebID: 8136
+Portal: http://my.onlinechiro.com/0008136/site/editor/cms
+REGULAR TICKET COMPLETED
+3-May-2019
+/********************************************/
+3-May-2019
+Ticket #: 379148
+Theme: Julia Blue
+Site: https://www.hermistonfootdoc.com/
+WebID: 37668
+Portal: http://my.onlinepodiatrysites.com/0037668/site/editor/cms
+MIGRATION COMPLETE
+3-May-2019
+/********************************************/
+3-May-2019
+Ticket #: 379161
+Theme: N/A REGULAR TICKET
+Site: https://www.andrewswellnesscenter.com/
+WebID: 5304
+Portal: http://my.onlinechiro.com/0005304/site/editor/cms
+REGULAR TICKET COMPLETED
+3-May-2019
+/********************************************/
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
 2-May-2019
 Ticket #: 379166
 Theme: N/A REGULAR TICKET

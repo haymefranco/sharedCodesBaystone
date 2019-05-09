@@ -1,9 +1,9 @@
 /********************************************/
-/* Custom FIX baystonemedia */
+/* Custom FIX migration */
 /********************************************/
 $('.clear_col, .col_1_2, .col_2_2, .cntwrp.feature_image, .cntwrpInner, .col_1_1, .col_1_3, .col_2_3, .col_3_3, .col_header ').removeClass();
 /********************************************/
-/* REQUIRED FIXES */
+/* MIGRATION CSS FIXES */
 /********************************************/
 .logo{
   width:auto;
