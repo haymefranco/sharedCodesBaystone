@@ -1,23 +1,106 @@
+Ticket #: 379727
+Site: http://www.panachiropractor.com/
+Portal: https://my.onlinechiro.com/0038087/site/editor/cms
+Theme: Chocolate Layers
+20-May-2019
+/********************************************/
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
+Ticket #: 379765
+Site: https://www.thechiropracticdoctor.com/
+Portal: https://my.onlinechiro.com/0017739/site/editor/cms
+Theme: N/A REGULAR TICKET
+20-May-2019
+/********************************************/
+Ticket #: 379780
+Site: https://www.care-chiro.net/
+Portal: https://my.onlinechiro.com/0026814/site/editor/cms
+Theme: N/A REGULAR TICKET
+20-May-2019
+/********************************************/
+Ticket #: 379781
+Site: https://www.care-chiro.net/
+Portal: https://my.onlinechiro.com/0026814/site/editor/cms
+Theme: N/A REGULAR TICKET
+20-May-2019
+/********************************************/
+Ticket #: 379790
+Site: https://www.restorehealthfl.com/
+Portal: https://my.onlinechiro.com/0027906/site/editor/cms
+Theme: N/A REGULAR TICKET
+20-May-2019
+/********************************************/
+Ticket #: 379726
+Site: https://www.ortegochiro.com/
+Portal: http://my.onlinechiro.com/0038086/site/editor/cms
+Theme: Chocolate Layers
+20-May-2019
+/********************************************/
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
+Ticket #: 379725
+Site: https://www.crcwoodbury.com/
+Portal: https://my.onlinechiro.com/0038085/site/editor/cms
+Theme: Chocolate Layers
+17-May-2019
+/********************************************/
+Ticket #: 379723
+Site: https://www.occhirohousecalls.com/
+Portal: https://my.onlinechiro.com/0035854/site/editor/cms
+Theme: N/A REGULAR TICKET
+17-May-2019
+/********************************************/
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
+Ticket #: 379712
+Site: https://www.integrative-health.com/
+Portal: http://my.onlinechiro.com/0027670/site/editor/cms
+Theme: N/A REGULAR TICKET
+16-May-2019
+/********************************************/
+Ticket #: 379677
+Site: http://finefootcarecenter.com/
+Portal: https://my.onlinepodiatrysites.com/0036900/site/editor/cms
+Theme: N/A REGULAR TICKET
+16-May-2019
+/********************************************/
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
+Ticket #: 379640
+Site: https://www.bodystructurela.com/
+Portal: https://my.onlinechiro.com/0037833/site/editor/cms
+Theme: N/A REGULAR TICKET
+15-May-2019
+/********************************************/
+Ticket #: 379603
+Site: https://www.integrativehealthpdx.com/
+Portal: https://my.onlinechiro.com/0002762/site/editor/cms
+Theme: N/A REGULAR TICKET
+15-May-2019
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
+/********************************************/
 Ticket #: 379563
 Site: https://www.suwaneechiro.com/
 Portal: https://my.onlinechiro.com/0008309/site/editor/cms#
 Theme: N/A REGULAR TICKET
-12-May-2019
+14-May-2019
 /********************************************/
 /************************************************************************************************************************************/
-/************************************************************************************************************************************/11-May-2019
+/************************************************************************************************************************************/
+13-May-2019
 Ticket #: 379525
 Site: https://www.footpainnj.com/
 Portal: https://my.onlinepodiatrysites.com/0037040/site/editor/cms
 Theme: N/A REGULAR TICKET
-11-May-2019
+13-May-2019
 /********************************************/
-11-May-2019
+13-May-2019
 Ticket #: 379104
 Site: https://www.beranekoptometry.com/
 Portal: http://my.onlinechiro.com/0037925/site/editor/cms
 Theme: Chocolate Layer
-11-May-2019
+13-May-2019
 /********************************************/
 /************************************************************************************************************************************/
 /************************************************************************************************************************************/
