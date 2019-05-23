@@ -1,8 +1,34 @@
+Ticket #: 379852
+Site: https://www.dclouviers.com/
+Portal: http://my.onlinechiro.com/0038264/site/editor/cms
+Theme: Clear-view
+22-May-2019
+/********************************************/
+Ticket #: 379728
+Site: https://www.spinalaidofallon.com/
+Portal: http://my.onlinechiro.com/0038088/site/editor/cms
+Theme: Chocolate Layers
+22-May-2019
+/********************************************/
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
+Ticket #: 379847
+Site: https://www.alternativewholistichealth.com/
+Portal: https://my.onlinechiro.com/0009479/site/editor/cms
+Theme: N/A REGULAR TICKET
+21-May-2019
+/********************************************/
+Ticket #: 379791
+Site: https://www.healthinharmonychiro.com/
+Portal: https://my.onlinechiro.com/0036742/site/editor/cms
+Theme: N/A REGULAR TICKET
+21-May-2019
+/********************************************/
 Ticket #: 379727
 Site: http://www.panachiropractor.com/
 Portal: https://my.onlinechiro.com/0038087/site/editor/cms
 Theme: Chocolate Layers
-20-May-2019
+21-May-2019
 /********************************************/
 /************************************************************************************************************************************/
 /************************************************************************************************************************************/
@@ -31,7 +57,7 @@ Theme: N/A REGULAR TICKET
 20-May-2019
 /********************************************/
 Ticket #: 379726
-Site: https://www.ortegochiro.com/
+Site:
 Portal: http://my.onlinechiro.com/0038086/site/editor/cms
 Theme: Chocolate Layers
 20-May-2019
