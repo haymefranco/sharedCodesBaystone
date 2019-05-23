@@ -1,7 +1,45 @@
+Ticket #: 379956
+Site: https://www.aligncareclinic.com/
+Portal: https://my.onlinechiro.com/0010569/site/editor/cms
+Theme:
+23-May-2019
+/********************************************/
+Ticket #: 379930
+Site: https://www.drajrouche.com/
+Portal: https://my.onlinepodiatrysites.com/0010356/site/editor/cms
+Theme:
+23-May-2019
+/********************************************/
+Ticket #: 379854
+Site: http://www.drtvt.com/
+Portal: https://my.onlinechiro.com/0038265/site/editor/cms
+Theme: Clear View
+23-May-2019
+/********************************************/
+Ticket #: 379895
+Site: https://www.chiropractor-woodstock.com/
+Portal: https://my.onlinechiro.com/0030274/site/editor/cms
+Theme:
+23-May-2019
+/********************************************/
+Ticket #: 379902
+Site: https://www.restorehealthfl.com/
+Portal: https://my.onlinechiro.com/0032669/site/editor/cms
+Theme:
+23-May-2019
+/********************************************/
+Ticket #: 379918
+Site: https://www.logcabinchiro.com/
+Portal: https://my.onlinechiro.com/0032669/site/editor/cms
+Theme:
+23-May-2019
+/********************************************/
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
 Ticket #: 379852
 Site: https://www.dclouviers.com/
 Portal: http://my.onlinechiro.com/0038264/site/editor/cms
-Theme: Clear-view
+Theme: Clear View
 22-May-2019
 /********************************************/
 Ticket #: 379728
