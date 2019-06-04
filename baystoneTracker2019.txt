@@ -1,3 +1,161 @@
+Ticket #: 380272
+Site: http://www.arnoldwellnesscenter.com/
+Portal: http://my.onlinechiro.com/0038694/site/editor/cms
+Theme:
+4-June-2019
+/********************************************/
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
+Ticket #: 380281
+Site: https://www.coronainjurycare.com/
+Portal:
+Theme:
+3-June-2019
+/********************************************/
+Ticket #: 380232
+Site: https://footandanklespecialistsofcentralpa.com/
+Portal: https://my.onlinepodiatrysites.com/0001300/site/editor/cms
+Theme:
+3-June-2019
+/********************************************/
+Ticket #: 380228
+Site: https://www.integrative-health.com/
+Portal: http://my.onlinechiro.com/0027670/site/editor/cms
+Theme:
+3-June-2019
+/********************************************/
+Ticket #: 380227
+Site: https://www.moliverchiro.com/
+Portal: https://my.onlinechiro.com/0032504/site/editor/cms
+Theme:
+3-June-2019
+/********************************************/
+Ticket #: 380213
+Site: https://www.rubinthompsondc.com/
+Portal: https://my.onlinechiro.com/0006636/site/editor/cms
+Theme:
+3-June-2019
+/********************************************/
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
+Ticket #: 380170
+Site: https://www.hermistonfootdoc.com/
+Portal: https://my.onlinepodiatrysites.com/0037668/site/editor/cms
+Theme:
+31-May-2019
+/********************************************/
+Ticket #: 380150
+Site: https://www.creechchiropractic.com/
+Portal: http://my.onlinechiro.com/0023032/site/editor/cms
+Theme:
+31-May-2019
+/********************************************/
+Ticket #: 380140
+Site: https://www.healthquestchiro.com/
+Portal: https://my.onlinechiro.com/0006361/site/editor/cms
+Theme:
+31-May-2019
+/********************************************/
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
+Ticket #: 380141
+Site: https://www.healthquestchiro.com/
+Portal: https://my.onlinechiro.com/0006361/site/editor/cms
+Theme:
+30-May-2019
+/********************************************/
+Ticket #: 380100
+Site: https://www.kalkerpodiatry.com/
+Portal: https://my.onlinepodiatrysites.com/0038527/site/editor/cms
+Theme: Roxy Blue
+30-May-2019
+/********************************************/
+Ticket #: 380107
+Site: https://www.currentchiro.com/
+Portal: https://my.onlinechiro.com/0035834/site/editor/cms
+Theme:
+30-May-2019
+/********************************************/
+Ticket #: 380108
+Site: https://www.currentchiro.com/
+Portal: https://my.onlinechiro.com/0035834/site/editor/cms
+Theme:
+30-May-2019
+/********************************************/
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
+Ticket #: 380095
+Site: http://finefootcarecenter.com/
+Portal: https://my.onlinepodiatrysites.com/0036900/site/editor/cms
+Theme:
+29-May-2019
+/********************************************/
+Ticket #: 380050
+Site: https://www.currentchiro.com/
+Portal: https://my.onlinechiro.com/0035834/site/editor/cms
+Theme:
+29-May-2019
+/********************************************/
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
+Ticket #: 380031
+Site: https://www.barrfamilychiropractic.com/
+Portal: https://my.onlinechiro.com/0035833/site/editor/cms
+Theme:
+28-May-2019
+/********************************************/
+Ticket #: 380011
+Site: https://www.brightchiro.net/
+Portal: https://my.onlinechiro.com/0037602/site/editor/cms
+Theme:
+28-May-2019
+/********************************************/
+Ticket #: 380020
+Site: https://www.yourhealthmatterstous.com/
+Portal: http://my.onlinechiro.com/0006630/site/editor/cms
+Theme:
+28-May-2019
+/********************************************/
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
+Ticket #: 380000
+Site: https://www.fishkillsmiles.com/
+Portal:
+Theme:
+24-May-2019
+/********************************************/
+Ticket #: 379860
+Site: https://www.spinecareofelpaso.com/
+Portal: https://my.onlinechiro.com/0038269/site/editor/cms
+Theme: Clear View
+24-May-2019
+/********************************************/
+Ticket #: 379857
+Site: https://www.mastertouchchiro.com/
+Portal: https://my.onlinechiro.com/0038266/site/editor/cms
+Theme: Clear View
+24-May-2019
+/********************************************/
+Ticket #: 379930
+Site: https://www.drajrouche.com/
+Portal: https://my.onlinepodiatrysites.com/0010356/site/editor/cms
+Theme:
+24-May-2019
+/********************************************/
+Ticket #: 379956
+Site: https://www.aligncareclinic.com/
+Portal: https://my.onlinechiro.com/0010569/site/editor/cms
+Theme:
+24-May-2019
+/********************************************/
+Ticket #: 379963
+Site: https://www.logcabinchiro.com/
+Portal: https://my.onlinechiro.com/0032669/site/editor/cms
+Theme:
+24-May-2019
+/********************************************/
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
 Ticket #: 379956
 Site: https://www.aligncareclinic.com/
 Portal: https://my.onlinechiro.com/0010569/site/editor/cms

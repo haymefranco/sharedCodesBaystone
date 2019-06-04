@@ -1,4 +1,4 @@
-/*****x***************************************/
+/********************************************/
 /* Custom FIX migration */
 /********************************************/
 $('.clear_col, .col_1_2, .col_2_2, .cntwrp.feature_image, .cntwrpInner, .col_1_1, .col_1_3, .col_2_3, .col_3_3, .col_header ').removeClass();
@@ -43,7 +43,13 @@ $('.wrap__page-content font').attr('face', '');
 .wrap__page-content img{
     padding: 10px;
 }
-
+#gmap{
+    width:100%!important;
+    height:520px!important;
+}
+.form_apt__container.form__container{
+    float:right!important;
+}
 @media(min-width:1200px){
     .cntxapp{
         width:initial;
@@ -105,6 +111,20 @@ $('.wrap__page-content font').attr('face', '');
     }
 }
 /*==================CUSTOM CSS======================*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
