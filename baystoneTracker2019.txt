@@ -1,7 +1,75 @@
+Ticket #: 380269
+Site: http://www.backtonaturechiro.com/
+Portal: http://my.onlinechiro.com/0038691/site/editor/cms
+Theme:
+5-June-2019
+/********************************************/
+Ticket #: 380401
+Site: https://www.getbackinline.com/
+Portal: http://my.onlinechiro.com/0004955/site/editor/cms
+Theme:
+5-June-2019
+/********************************************/
+Ticket #: 380281
+Site: http://www.coronainjurycare.com/
+Portal: https://my.onlinechiro.com/0027573/site/editor/cms
+Theme:
+5-June-2019
+/********************************************/
+Ticket #: 380270
+Site: https://www.mariosilvestridpm.com/
+Portal: https://my.onlinepodiatrysites.com/0038692/site/editor/cms
+Theme: Sapphire Ice
+5-June-2019
+/********************************************/
+Ticket #: 380271
+Site: https://www.waldroppodiatry.com/
+Portal: http://my.onlinepodiatrysites.com/0038693/site/editor/cms
+Theme:
+5-June-2019
+/********************************************/
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
+Ticket #: 380328
+Site: http://www.drwinkonline.com/
+Portal: https://my.onlinechiro.com/0001430/site/editor/cms
+Theme:
+4-June-2019
+/********************************************/
+Ticket #: 380327
+Site: https://www.kensingtonchiropractor.com/
+Portal: https://my.onlinechiro.com/0005798/site/editor/cms
+Theme:
+4-June-2019
+/********************************************/
+Ticket #: 380325
+Site: https://www.clevelandspinedr.com/
+Portal: https://my.onlinechiro.com/0028397/site/editor/cms
+Theme:
+4-June-2019
+/********************************************/
+Ticket #: 380311
+Site: https://www.backintomotionchiro.com/
+Portal: http://my.onlinechiro.com/0003165/site/editor/cms
+Theme:
+4-June-2019
+/********************************************/
+Ticket #: 380309
+Site: https://www.docmote.com/
+Portal: https://my.onlinechiro.com/0001561/site/editor/cms
+Theme:
+4-June-2019
+/********************************************/
+Ticket #: 380281
+Site: http://www.coronainjurycare.com/
+Portal: https://my.onlinechiro.com/0027573/site/editor/cms
+Theme:
+4-June-2019
+/********************************************/
 Ticket #: 380272
 Site: http://www.arnoldwellnesscenter.com/
 Portal: http://my.onlinechiro.com/0038694/site/editor/cms
-Theme:
+Theme: Southern Peach
 4-June-2019
 /********************************************/
 /************************************************************************************************************************************/

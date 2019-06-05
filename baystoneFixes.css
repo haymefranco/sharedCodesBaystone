@@ -12,16 +12,11 @@ $('.wrap__page-content font').attr('face', '');
     float:none;
     padding-right:initial;
 }
-
-
-
-
 .logo{
   width:auto;
 }
 /********************************************/
 /*==================CUSTOM CSS======================*/
-
 .logo__link {
     display: block!important;
 }
