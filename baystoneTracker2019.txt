@@ -1,9 +1,106 @@
+Ticket #: 380263
+Site: https://www.pugetsoundchiro.com/
+Portal: https://my.onlinechiro.com/0038688/site/editor/cms
+Theme: Sapphire Ice
+11-June-2019
+/********************************************/
+Ticket #: 380265
+Site: http://www.tablerockchiropractic.com/
+Portal: https://my.onlinechiro.com/0038689/site/editor/cms
+Theme: Sapphire Ice
+11-June-2019
+/********************************************************************/
+/********************************************************************/
+Ticket #: 380543
+Site: https://www.drdarocha.com/
+Portal: https://my.onlinechiro.com/0036974/site/editor/cms
+Theme:
+10-June-2019
+/********************************************/
+Ticket #: 380515
+Site: https://www.mfarestoration.com/
+Portal: https://my.onlinepodiatrysites.com/0005743/site/editor/cms
+Theme:
+10-June-2019
+/********************************************/
+Ticket #: 380511
+Site: https://www.simsburychiro.com/
+Portal: https://my.onlinechiro.com/0032422/site/editor/cms
+Theme:
+10-June-2019
+/********************************************/
+Ticket #: 380465
+Site: https://www.drloechinger.com/
+Portal: https://my.onlinechiro.com/0009343/site/editor/cms
+Theme:
+10-June-2019
+/********************************************/
+Ticket #: 380266
+Site: https://www.boydenfamilychiropractic.com/
+Portal: https://my.onlinechiro.com/0038687/site/editor/cms
+Theme:
+10-June-2019
+/********************************************/
+Ticket #: 380481
+Site: https://www.activehealthcc.com/
+Portal: https://my.onlinechiro.com/0037265/site/editor/cms
+Theme:
+10-June-2019
+/********************************************/
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
+Ticket #: 380458
+Site: https://www.championcavecreek.com/
+Portal: https://my.onlinechiro.com/0003501/site/editor/cms
+Theme:
+7-June-2019
+/********************************************/
+Ticket #: 380268
+Site: https://www.agimgashidpm.com/
+Portal: https://my.onlinepodiatrysites.com/0038690/site/editor/cms
+Theme:
+7-June-2019
+/********************************************/
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
+Ticket #: 380281
+Site: http://www.coronainjurycare.com/
+Portal: https://my.onlinechiro.com/0027573/site/editor/cms
+Theme:
+6-June-2019
+/********************************************/
+Ticket #: 380421
+Site: https://www.pastischiropractic.com/
+Portal: https://my.onlinechiro.com/0000905/site/editor/cms
+Theme:
+6-June-2019
+/********************************************/
+Ticket #: 380426
+Site: https://www.podiatryinthepines.com/
+Portal: https://my.onlinepodiatrysites.com/0011331/site/editor/cms
+Theme:
+6-June-2019
+/********************************************/
+Ticket #: 380439
+Site: http://www.walterschiropractic.com/
+Portal: https://my.onlinechiro.com/0020134/site/editor/cms
+Theme:
+6-June-2019
+/********************************************/
+Ticket #: 380438
+Site: https://www.yourhealthmatterstous.com/
+Portal: https://my.onlinechiro.com/0006630/site/editor/cms
+Theme:
+6-June-2019
+/********************************************/
 Ticket #: 380269
 Site: http://www.backtonaturechiro.com/
 Portal: http://my.onlinechiro.com/0038691/site/editor/cms
 Theme:
-5-June-2019
+6-June-2019
 /********************************************/
+/************************************************************************************************************************************/
+/************************************************************************************************************************************/
 Ticket #: 380401
 Site: https://www.getbackinline.com/
 Portal: http://my.onlinechiro.com/0004955/site/editor/cms

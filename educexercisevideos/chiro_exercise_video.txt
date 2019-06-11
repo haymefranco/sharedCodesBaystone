@@ -1,47 +1,25 @@
-<div style="display: block; margin: 0 auto; max-width: 600px;">
+<div class="">
+
+      <div style="display: block; margin: 0 auto; max-width: 600px;">
  <div class="videoWrapper">
     <!-- Copy & Pasted from YouTube -->
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/XHUg4g17uPk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/XHUg4g17uPk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
 </div>
-</div> 
+</div>
 <br>
 <br>
 <div style="display: block; margin: 0 auto; max-width: 600px;">
 <div class="videoWrapper">
     <!-- Copy & Pasted from YouTube -->
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/-D45FXTOj9s" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/-D45FXTOj9s" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
 </div>
-</div> 
+</div>
 <br>
 <br>
 <div style="display: block; margin: 0 auto; max-width: 600px;">
 <div class="videoWrapper">
     <!-- Copy & Pasted from YouTube -->
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/b8wVTPwT7JY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
-</div>
-<br>
-<br>
-<div style="display: block; margin: 0 auto; max-width: 600px;">
- <div class="videoWrapper">
-    <!-- Copy & Pasted from YouTube -->
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/K5Yxwh8kc-Y" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
-</div> 
-<br>
-<br>
-<div style="display: block; margin: 0 auto; max-width: 600px;">
-<div class="videoWrapper">
-    <!-- Copy & Pasted from YouTube -->
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/HlUDIvxJttY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
-</div> 
-<br>
-<br>
-<div style="display: block; margin: 0 auto; max-width: 600px;">
-<div class="videoWrapper">
-    <!-- Copy & Pasted from YouTube -->
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/PnWKRbTRPWo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/b8wVTPwT7JY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
 </div>
 </div>
 <br>
@@ -49,14 +27,44 @@
 <div style="display: block; margin: 0 auto; max-width: 600px;">
  <div class="videoWrapper">
     <!-- Copy & Pasted from YouTube -->
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/2VQwsaMy6NU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/K5Yxwh8kc-Y" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
 </div>
-</div> 
+</div>
 <br>
 <br>
 <div style="display: block; margin: 0 auto; max-width: 600px;">
 <div class="videoWrapper">
     <!-- Copy & Pasted from YouTube -->
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/dGsymClPH4w" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/HlUDIvxJttY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
 </div>
 </div>
+<br>
+<br>
+<div style="display: block; margin: 0 auto; max-width: 600px;">
+<div class="videoWrapper">
+    <!-- Copy & Pasted from YouTube -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/PnWKRbTRPWo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+</div>
+</div>
+<br>
+<br>
+<div style="display: block; margin: 0 auto; max-width: 600px;">
+ <div class="videoWrapper">
+    <!-- Copy & Pasted from YouTube -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2VQwsaMy6NU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+</div>
+</div>
+<br>
+<br>
+<div style="display: block; margin: 0 auto; max-width: 600px;">
+<div class="videoWrapper">
+    <!-- Copy & Pasted from YouTube -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dGsymClPH4w" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+</div>
+</div>
+      <div style="margin-top: 10px;">
+       <small>
+        These videos are for informational purposes only. Please do not perform any of these exercises without the proper supervision and training of a professional. We are not responsible for any action taken with regard to personal use of these videos or information.
+       </small>
+      </div>
+     </div>

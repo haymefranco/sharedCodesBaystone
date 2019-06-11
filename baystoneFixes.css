@@ -121,6 +121,85 @@ $('.wrap__page-content font').attr('face', '');
 
 
 
+/********************************************/
+
+/* theme fixes for white */
+body, p, span, div, li{
+    color:black!important;
+}
+
+
+#main-home, .wrap--inner, .wrap__page{
+    background:white;
+}
+hr{
+    border-color:black!important;
+}
+.wrap__hours-map{
+    background-color:white!important;
+}
+.wrap__hours{
+    border-color:#d7d7d7!important;
+}
+#main-home, .wrap__footer .wrap--inner{
+    background-color:transparent!important;
+}
+
+#main-home .col_footer{
+    display:none;
+}
+
+/* LOGO MOBILE AND PC */
+.wrap__logo_location .wrap__logo__header, .wrap__logo_location .locations, .wrap__logo_location .location{
+    display:block!important;
+}
+.wrap__logo_location .location__address, .wrap__logo_location .location__city-state-zip, .wrap__logo_location .location__phone a{
+    float:none!important;
+    font-size:24px;
+}
+.wrap__logo_location .wrap__locations__header{ margin-top:50px; }
+.wrap__logo_location .wrap__logo__header, .wrap__logo_location .wrap__locations__header{
+    float:none!important;
+    text-align:center!important;
+}
+.wrap__logo_location .location__address{
+    margin:0 auto!important;
+}
+.wrap__logo_location .logo {
+    margin-top:25px;
+}
+.logo__description{
+    font-size:18px;
+}
+header .component__title-caption-wrap, .wrap__logo_location .location__city-state-zip{
+    margin:0;
+}
+header .component__title-caption-wrap h2{ font-size:18px!important; }
+header .socialmedia__list, header .component__title-caption-wrap{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+/* main page fix */
+.wrap__image_home{
+    display:none;
+}
+.home-layout .wrap__page-content{
+    display:block;
+    width:100%;
+}
+
+
+/* navfix */
+#navigation_header > ul > li:nth-child(9), #navigation_header > ul > li:nth-child(10), #navigation_header > ul > li:nth-child(11), #navigation_header > ul > li:nth-child(12), #navigation_header > ul > li:nth-child(13), #navigation_header > ul > li:nth-child(14){
+    z-index:0;
+}
+
+
+
+
+
+/********************************************/
 
 
 /********************************************/

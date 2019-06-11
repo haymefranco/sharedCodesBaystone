@@ -3,16 +3,14 @@
     <!-- Copy & Pasted from YouTube -->
     <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLWv8selpOe1PtDadLF1ncyLkABBpxJNGG" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
 </div>
-</div> 
-<br>
+</div>
 <br>
 <div style="display: block; margin: 0 auto; max-width: 600px;">
 <div class="videoWrapper">
     <!-- Copy & Pasted from YouTube -->
     <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLWv8selpOe1MwBhU0b8VrC_qYVi95EpE4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
 </div>
-</div> 
-<br>
+</div>
 <br>
 <div style="display: block; margin: 0 auto; max-width: 600px;">
 <div class="videoWrapper">
