@@ -70,6 +70,21 @@ $('.wrap__page-content font').attr('face', '');
     height:0!important;
   }
 }
+
+@media(max-width:1199px){
+    .dnone{
+        display:none!important;
+    }
+    .wrap__locations__header{
+        float:none!important;
+    }
+    .wrap__logo__header{
+        float:none!important;
+    }
+    .wrap__logo__header--inner{
+        margin:0 auto!important;
+    }
+}
 @media(max-width:1024px){
     .wrap__header .location__phone{
         height:auto!important;

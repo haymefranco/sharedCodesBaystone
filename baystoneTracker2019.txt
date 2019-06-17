@@ -1,3 +1,59 @@
+Ticket #: 380252
+Site: https://www.drpatdower.com/
+Portal: https://my.onlinechiro.com/0038676/site/editor/cms#
+Theme: Sapphire Ice
+14-June-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 380253
+Site: http://www.drx9000elkgrove.com/
+Portal: https://my.onlinechiro.com/0038678/site/editor/cms
+Theme: Sapphire Ice
+14-June-2019
+/********************************************/
+Ticket #: 380254
+Site: https://www.eddychiropractic.com/
+Portal: https://my.onlinechiro.com/0038679/site/editor/cms
+Theme: Sapphire Ice
+14-June-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 380256
+Site: https://www.igetadjusted.com/
+Portal: https://my.onlinechiro.com/0038680/site/editor/cms
+Theme: Southern Peach
+13-June-2019
+/********************************************/
+Ticket #: 380258
+Site: https://www.kaplanchiro-nh.com/
+Portal: https://my.onlinechiro.com/0038682/site/editor/cms
+Theme: Sapphire Ice
+13-June-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 380259
+Site: http://www.gulfcoastbeautyinstitute.com/
+Portal: https://my.onlinechiro.com/0038681/site/editor/cms
+Theme: Southern Peach
+12-June-2019
+/********************************************/
+Ticket #: 380260
+Site: http://www.lauchiro.com/
+Portal: http://my.onlinechiro.com/0038684/site/editor/cms
+Theme: Sapphire Ice
+12-June-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 380261
+Site: http://www.drgouletchiro.com/
+Portal: http://my.onlinechiro.com/0038685/site/editor/cms
+Theme: Southern Peach
+11-June-2019
+/********************************************/
 Ticket #: 380262
 Site: https://www.nucciochiro.com/
 Portal: https://my.onlinechiro.com/0038686/site/editor/cms
@@ -17,7 +73,7 @@ Theme: Sapphire Ice
 11-June-2019
 /********************************************************************/
 /********************************************************************/
-Ticket #: 380543
+  Ticket #: 380543
 Site: https://www.drdarocha.com/
 Portal: https://my.onlinechiro.com/0036974/site/editor/cms
 Theme:
