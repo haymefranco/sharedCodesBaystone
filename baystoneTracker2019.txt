@@ -1,3 +1,168 @@
+Ticket #: 381168
+Site: http://www.baronechiro.com/
+Portal: https://my.onlinechiro.com/0039629/site/editor/cms
+Theme: Clearview
+5-July-2019
+/********************************************/
+Ticket #: 381381
+Site: https://www.reasorchiropracticcenter.com/
+Portal: https://my.onlinechiro.com/0016569/site/editor/cms
+Theme:
+5-July-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 381390
+Site: https://www.rusticiwellness.com/
+Portal: https://my.onlinechiro.com/0036224/site/editor/cms
+Theme:
+2-July-2019
+/********************************************/
+Ticket #: 381164
+Site: http://www.balancedhealthcarecenters.com/
+Portal: https://my.onlinechiro.com/0039622/site/editor/cms
+Theme: Zoe
+2-July-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/Ticket #: 381350
+Site: https://www.trentonchiropractic.com/
+Portal: https://my.onlinechiro.com/0039338/site/editor/cms
+Theme:
+2-July-2019
+/********************************************/
+Ticket #: 381334
+Site: https://www.trentonchiropractic.com/
+Portal: https://my.onlinechiro.com/0039338/site/editor/cms
+Theme:
+2-July-2019
+/********************************************/
+Ticket #: 381260
+Site: https://www.drdarocha.com/
+Portal: https://my.onlinechiro.com/0036974/site/editor/cms
+Theme:
+2-July-2019
+/********************************************/
+Ticket #: 381300
+Site: https://www.drschoene.com/
+Portal: http://my.onlinepodiatrysites.com/0005053/site/editor/cms
+Theme:
+2-July-2019
+/********************************************/
+Ticket #: 381292
+Site: https://www.penchiro.com/
+Portal: https://my.onlinechiro.com/0030275/site/editor/cms
+Theme:
+2-July-2019
+/********************************************/
+Ticket #: 381280
+Site: https://www.drmarkchiropractor.com/
+Portal: https://my.onlinechiro.com/0003206/site/editor/cms
+Theme:
+2-July-2019
+/********************************************/
+Ticket #: 381260
+Site: https://www.drdarocha.com/
+Portal: https://my.onlinechiro.com/0036974/site/editor/cms
+Theme:
+2-July-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 381252
+Site: https://www.apmr3.com/
+Portal: https://my.onlinechiro.com/0017970/site/editor/cms
+Theme:
+1-July-2019
+/********************************************/
+Ticket #: 381214
+Site: https://www.rangefootandankle.com/
+Portal: http://my.onlinepodiatrysites.com/0038752/site/editor/cms
+Theme:
+1-July-2019
+/********************************************/
+Ticket #: 381213
+Site: https://www.rangefootandankle.com/
+Portal: http://my.onlinepodiatrysites.com/0038752/site/editor/cms
+Theme:
+1-July-2019
+/********************************************/
+Ticket #: 381208
+Site: https://www.gallochiropractic.com/
+Portal: https://my.onlinechiro.com/0039273/site/editor/cms
+Theme:
+1-July-2019
+/********************************************/
+Ticket #: 381202
+Site: https://www.bpchiro.com/
+Portal: https://my.onlinechiro.com/0035626/site/editor/cms
+Theme:
+1-July-2019
+/********************************************/
+Ticket #: 381189
+Site: https://www.powersferryanimalhospital.com/
+Portal: https://my.onlinechiro.com/0035333/site/editor/cms
+Theme:
+1-July-2019
+/********************************************/
+Ticket #: 381001
+Site: https://www.drnordisacson.com/
+Portal: https://my.onlinechiro.com/0038671/site/editor/cms
+Theme: Southern Peach
+1-July-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 381128
+Site: https://www.drgitto.com/
+Portal: https://my.onlinechiro.com/0007044/site/editor/cms
+Theme:
+28-June-2019
+/********************************************/
+Ticket #: 381163
+Site: https://www.bacsclinic.com/
+Portal: https://my.onlinechiro.com/0039616/site/editor/cms
+Theme: Chocolate Layer Beige
+28-June-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 381133
+Site: https://www.healthquestohio.com/
+Portal: http://my.onlinechiro.com/0005426/site/editor/cms
+Theme:
+27-June-2019
+/********************************************/
+Ticket #: 381008
+Site: https://www.drnordisacson.com/
+Portal: http://my.onlinechiro.com/0038671/site/editor/cms
+Theme:
+27-June-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 380238
+Site: http://www.comprehensivefac.com/
+Portal: https://my.onlinepodiatrysites.com/0038659/site/editor/cms
+Theme: Southern Peach
+25-June-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 380956
+Site: https://www.firstcoastchiropractic.com/
+Portal: https://my.onlinechiro.com/0036002/site/editor/cms
+Theme:
+24-June-2019
+/********************************************/
+Ticket #: 380243
+Site: http://www.trihealthco.com/
+Portal: http://my.onlinechiro.com/0038661/site/editor/cms
+Theme: Southern Peach
+24-June-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
 Ticket #: 380244
 Site: https://www.sunrisechiropracticcenter.org/
 Portal: https://my.onlinechiro.com/0038665/site/editor/cms

@@ -1,9 +1,7 @@
 /********************************************/
 /* Custom FIX migration */
 /********************************************/
-$('.clear_col, .col_1_2, .col_2_2, .cntwrp.feature_image, .cntwrpInner, .col_1_1, .col_1_3, .col_2_3, .col_3_3, .col_header ').removeClass();
-$('.wrap__page-content span, .wrap__page-content p').attr('style', 'font-size:16px;');
-$('.wrap__page-content font').attr('face', '');
+
 /********************************************/
 /* MIGRATION CSS FIXES */
 /********************************************/
@@ -129,6 +127,11 @@ $('.wrap__page-content font').attr('face', '');
         float:none!important;
     }
 }
+
+
+$('.clear_col, .col_1_2, .col_2_2, .cntwrp.feature_image, .cntwrpInner, .col_1_1, .col_1_3, .col_2_3, .col_3_3, .col_header ').removeClass();
+$('.wrap__page-content span, .wrap__page-content p').attr('style', 'font-size:16px;');
+$('.wrap__page-content font').attr('face', '');
 /*==================CUSTOM CSS======================*/
 
 
