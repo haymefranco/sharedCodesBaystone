@@ -1,3 +1,87 @@
+Ticket #: 381696
+Site: http://www.calfeechiro.com/
+Portal: https://my.onlinechiro.com/0040073/site/editor/cms
+Theme: Yasmin Blue
+17-July-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 381639
+Site: https://www.burnthillschiropractic.com/
+Portal: https://my.onlinechiro.com/0040033/site/editor/cms
+Theme: Lilly Brown
+17-July-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 380255
+Site: http://www.freezechiropractic.com/
+Portal: https://my.onlinechiro.com/0039816/site/editor/cms
+Theme: Sapphire Ice
+16-July-2019
+/********************************************/
+Ticket #: 381632
+Site: https://www.bryanchiro.com/
+Portal: https://my.onlinechiro.com/0040030/site/editor/cms
+Theme: Isabella Yellow
+16-July-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 381518
+Site: http://www.brownandwilliamschiropracticclinic.com/
+Portal: https://my.onlinechiro.com/0039951/site/editor/cms
+Theme: Faith Orange
+15-July-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 381343
+Site: https://www.bodyinmotionchiro.com/
+Portal: https://my.onlinechiro.com/0039818/site/editor/cms
+Theme: Roxy
+11-July-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 381167
+Site: https://www.baritzwellness.com/
+Portal: https://my.onlinechiro.com/0039628/site/editor/cms
+Theme: Lily Zen Garden
+11-July-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 381165
+Site: http://www.backhandsforyou.com/
+Portal: https://my.onlinechiro.com/0039623/site/editor/cms
+Theme: Faith Orange
+10-July-2019
+/********************************************/
+Ticket #: 381500
+Site: https://www.bronxbackdoc.com/
+Portal: https://my.onlinechiro.com/0039932/site/editor/cms
+Theme: Grace
+10-July-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 381219
+Site: https://www.berkshirefamilychiropractic.com/
+Portal: https://my.onlinechiro.com/0039686/site/editor/cms
+Theme: ANJALI
+9-July-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 381373
+Site: https://www.bpinsdc.com/
+Portal: https://my.onlinechiro.com/0039846/site/editor/cms
+Theme: Clearview
+8-July-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
 Ticket #: 381168
 Site: http://www.baronechiro.com/
 Portal: https://my.onlinechiro.com/0039629/site/editor/cms
