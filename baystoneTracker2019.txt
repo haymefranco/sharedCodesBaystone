@@ -1,8 +1,127 @@
+Ticket #: 382942
+Site: https://www.greatfallschiropractor.com/
+Portal: https://my.onlinechiro.com/0011768/site/editor/cms
+Theme:
+16-August-2019
+/********************************************/
+Ticket #: 382951
+Site: https://www.loganhealthcenters.com/
+Portal: https://my.onlinechiro.com/0023034/site/editor/cms
+Theme:
+16-August-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************
+Ticket #: 382930
+Site: https://www.stevenkaufmandpm.com/
+Portal: https://my.onlinepodiatrysites.com/0040530/site/editor/cms
+Theme:
+15-August-2019
+/********************************************/
+Ticket #: 382885
+Site: https://www.cppcsalemor.com/
+Portal: http://my.onli*
+nechiro.com/0001226/site/editor/cms
+Theme:
+15-August-2019
+/********************************************/
+Ticket #: 382882
+Site: https://www.mysportchiropractic.com/
+Portal: http://my.onlinechiro.com/0014663/site/editor/cms
+Theme:
+15-August-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 382816
+Site: https://www.modernpodiatry.com/
+Portal: https://my.onlinepodiatrysites.com/0011464/site/editor/cms
+Theme:
+14-August-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 382807
+Site: https://www.beverlyhillsdecompression.com/
+Portal: https://my.onlinechiro.com/0030557/site/editor/cms
+Theme:
+13-August-2019j
+/********************************************/
+Ticket #: 382805
+Site: https://www.beverlyhillsdecompression.com/
+Portal: https://my.onlinechiro.com/0030557/site/editor/cms
+Theme:
+13-August-2019
+/********************************************/
+Ticket #: 382806
+Site: https://www.beverlyhillsdecompression.com/
+Portal: https://my.onlinechiro.com/0030557/site/editor/cms
+Theme:
+13-August-2019
+/********************************************/
+Ticket #: 382805
+Site: https://www.beverlyhillsdecompression.com/
+Portal: https://my.onlinechiro.com/0030557/site/editor/cms
+Theme:
+13-August-2019
+/********************************************/
+Ticket #: 382804
+Site: https://www.beverlyhillsdecompression.com/
+Portal: https://my.onlinechiro.com/0030557/site/editor/cms
+Theme:
+13-August-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 382553
+Site: https://www.coshoctonchiropractic.com/
+Portal: http://my.onlinechiro.com/0040793/site/editor/cms
+Theme: Veronica Blue
+12-August-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 382548
+Site: http://www.contracostachiropractic.net/
+Portal: http://my.onlinechiro.com/0040791/site/editor/cms
+Theme: Yasmin Blue
+9-August-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 382547
+Site: https://www.colletonchiropractic.com/
+Portal: http://my.onlinechiro.com/0040790/site/editor/cms
+Theme: Veronica Orange
+8-August-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 382546
+Site: https://www.coleychiropractic.com/
+Portal: http://my.onlinechiro.com/0040789/site/editor/cms
+Theme: Nina Brown
+7-August-2019
+/********************************************/
+Ticket #: 382545
+Site: http://www.cmcrhealth.com/
+Portal: http://my.onlinechiro.com/0040788/site/editor/cms
+Theme: Lilly Zen Garden
+7-August-2019
+/********************************************/
+Ticket #: 382408
+Site: https://www.clarkchiros.com/
+Portal: https://my.onlinechiro.com/0040677/site/editor/cms
+Theme: Yasmin Blue
+7-August-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
 Ticket #: 382377
 Site: http://www.gralewskichiropractic.com/
 Portal: https://my.onlinechiro.com/0040658/site/editor/cms
-Theme: Quinn Orange
-5-August-2019
+Theme: Sapphire Ice
+6-August-2019
 /********************************************/
 /********************************************************************/
 /********************************************************************/
