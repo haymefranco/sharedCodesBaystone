@@ -1,3 +1,69 @@
+Ticket #: 383211
+Site: http://www.sailerchiropractic.com/
+Portal: https://my.onlinechiro.com/0041313/site/editor/cms
+Theme: Eve Blue
+26-August-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 383208
+Site: https://www.taylorchiroms.com/
+Portal: https://my.onlinechiro.com/0041311/site/editor/cms
+Theme: Quinn Green
+23-August-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 383141
+Site: https://www.hawaiicenterforpsychology.com/
+Portal: https://my.onlinechiro.com/0015152/site/editor/cms
+Theme:
+22-August-2019
+/********************************************/
+Ticket #: 383140
+Site: https://www.hawaiicenterforpsychology.com/
+Portal: https://my.onlinechiro.com/0015152/site/editor/cms
+Theme:
+22-August-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 382582
+Site: https://www.sciullifootandankleclinics.com/
+Portal: https://my.onlinepodiatrysites.com/0040818/site/editor/cms
+Theme: Clearview Blue
+21-August-2019
+/********************************************/
+Ticket #: 383101
+Site: https://www.getwellwithatwell.com/
+Portal: https://my.onlinechiro.com/0006996/site/editor/cms
+Theme:
+21-August-2019
+/********************************************/
+Ticket #: 383075
+Site: https://www.caregiversconnection4u.com/
+Portal: https://my.onlinechiro.com/0036514/site/editor/cms
+Theme:
+21-August-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 382942
+Site: https://www.greatfallschiropractor.com/
+Portal: https://my.onlinechiro.com/0011768/site/editor/cms
+Theme:
+20-August-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 383010
+Site: https://www.loganhealthcenters.com/
+Portal: https://my.onlinechiro.com/0023034/site/editor/cms
+Theme:
+19-August-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
 Ticket #: 382942
 Site: https://www.greatfallschiropractor.com/
 Portal: https://my.onlinechiro.com/0011768/site/editor/cms
@@ -11,7 +77,7 @@ Theme:
 16-August-2019
 /********************************************/
 /********************************************************************/
-/********************************************************************
+/********************************************************************/
 Ticket #: 382930
 Site: https://www.stevenkaufmandpm.com/
 Portal: https://my.onlinepodiatrysites.com/0040530/site/editor/cms
