@@ -1,3 +1,133 @@
+Ticket #: 383586
+Site: https://www.dillonchiropractic.net/
+Portal: https://my.onlinechiro.com/0041628/site/editor/cms
+Theme: Karen Gold
+9-September-2019
+/********************************************/
+Ticket #: 383557
+Site: https://www.dennischiro.com/
+Portal: https://my.onlinechiro.com/0041625/site/editor/cms
+Theme: Faith Blue
+9-September-2019
+/********************************************/
+Ticket #: 383431
+Site: https://www.deervalleychiropractic.com/
+Portal: https://my.onlinechiro.com/0041484/site/editor/cms
+Theme: Lily Grey
+9-September-2019
+/********************************************/
+Ticket #: 383426
+Site: https://www.davidsonchiropracticclinic.net/
+Portal: https://my.onlinechiro.com/0041481/site/editor/cms
+Theme: Yasmin blue
+9-September-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 383425
+Site: http://www.davischirotexas.com/
+Portal: http://my.onlinechiro.com/0041479/site/editor/cms
+Theme: Grace Stone
+5-September-2019
+/********************************************/
+Ticket #: 383423
+Site: https://www.davekoschiro.com/
+Portal: http://my.onlinechiro.com/0041477/site/editor/cms
+Theme: Ursula Orange
+5-September-2019
+/********************************************/
+Ticket #: 383723
+Site: https://www.valley-chiro.com/
+Portal: https://my.onlinechiro.com/0041734/site/editor/cms
+Theme: Grace Stone
+5-September-2019
+/********************************************/
+Ticket #: 383361
+Site: https://www.dauerhealthsolutions.com/
+Portal: https://my.onlinechiro.com/0041417/site/editor/cms
+Theme: Karen Yellow
+5-September-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 383360
+Site: http://www.d-wittchiro.com/
+Portal: http://my.onlinechiro.com/0041416/site/editor/cms
+Theme: Sandra Blue
+4-September-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 383359
+Site: https://www.cupertinochiro.com/
+Portal: https://my.onlinechiro.com/0041415/site/editor/cms
+Theme: Sandra Blue
+3-September-2019
+/********************************************/
+Ticket #: 383318
+Site: http://www.csfamilychiro.com/
+Portal: http://my.onlinechiro.com/0041388/site/editor/cms
+Theme: Faith Blue
+3-September-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 383307
+Site: http://www.crownpointchiropractic.com/
+Portal: https://my.onlinechiro.com/0041387/site/editor/cms
+Theme: Olivia Red
+30-August-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 383422
+Site: https://www.lampsonfamilychiro.com/
+Portal: https://my.onlinechiro.com/0041473/site/editor/cms
+Theme: Olivia Orange
+29-August-2019
+/********************************************/
+Ticket #: 383223
+Site: https://www.cranmarschiro.com/
+Portal: https://my.onlinechiro.com/0041320/site/editor/cms
+Theme:
+27-August-2019
+/********************************************/
+Ticket #: 383372
+Site: http://westvalleywellness.com/
+Portal: https://my.onlinechiro.com/0041431/site/editor/cms
+Theme: Clearview Blue
+29-August-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 383236
+Site: https://www.crownplazadr.com/
+Portal: http://my.onlinechiro.com/0041333/site/editor/cms
+Theme: Faith Blue
+28-August-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 383224
+Site: http://www.crawfordsvillechiropractic.com/
+Portal: https://my.onlinechiro.com/0041321/site/editor/cms
+Theme: Grace Dusk
+27-August-2019
+/********************************************/
+Ticket #: 383223
+Site: https://www.cranmarschiro.com/
+Portal: https://my.onlinechiro.com/0041320/site/editor/cms
+Theme: Karen Brown
+27-August-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 383209
+Site: https://www.cottagegrovechiroclinic.com/
+Portal: https://my.onlinechiro.com/0041312/site/editor/cms
+Theme: Grace Dusk
+26-August-2019
+/********************************************/
 Ticket #: 383211
 Site: http://www.sailerchiropractic.com/
 Portal: https://my.onlinechiro.com/0041313/site/editor/cms

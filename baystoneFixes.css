@@ -132,6 +132,7 @@
 $('.clear_col, .col_1_2, .col_2_2, .cntwrp.feature_image, .cntwrpInner, .col_1_1, .col_1_3, .col_2_3, .col_3_3, .col_header ').removeClass();
 $('.wrap__page-content span, .wrap__page-content p').attr('style', 'font-size:16px;');
 $('.wrap__page-content font').attr('face', '');
+$('.wrap__page-content font').attr('size', '');
 /*==================CUSTOM CSS======================*/
 
 
@@ -148,6 +149,60 @@ $('.wrap__page-content font').attr('face', '');
 
 
 
+
+==========================================================================================================================
+/* CLEAR VIEW FIX */
+.wrap__locationsHeader .locations{
+    max-width:515px!important;
+    overflow:visible!important;
+}
+.wrap__locationsHeader .location{
+    overflow:visible!important;
+}
+.wrap__locationsHeader .location > p, .wrap__locationsHeader .location > p a{
+    display:block!important;
+}
+
+
+@media(max-width:480px){
+  .location__phone{
+      overflow:visible!important;
+  }
+  .wrap__header.fixed .wrap__locationsHeader .location{
+      width:100%!important;
+      padding-top:0px!important;
+  }
+}
+
+
+
+
+==========================================================================================================================
+
+/* OLIVIA FIX */
+.wrap__header .location__phone a:before{
+    transform:none!important;
+}
+.wrap__header p:last-child{
+    margin-bottom:0px!important;
+}
+.wrap__header .wrap__locations.phone__holder:before{
+    transform:none!important;
+    font-weight:bold!important;
+}
+
+
+@media(max-width:1024px){
+  .wrap__header .location__phone{
+      height:0!important;  /*  <===================NOTICE ME */
+  }
+}
+@media(max-width:767px){
+  .wrap__header .location__phone{
+      height:0!important;
+   }
+}
+==========================================================================================================================
 
 /* add modal to css*/
 #newsletterModal{
@@ -178,7 +233,7 @@ $('#backg').click(function(){
 
 
 
-
+==========================================================================================================================
 _cHiLLsPaRkzZz_ =( ^_- )= -eL_BiMbz-
 
 
@@ -264,7 +319,7 @@ label{
 /* REFRESHED MIGRATION FIX SAPPHIRE ICE */
 
 
-
+==========================================================================================================================
 
 
 
@@ -300,6 +355,9 @@ label{
 frvncvisualswebsite
 np(XqYtX5lW#%@Mc1GXP
 <h2 style=" font-weight: 100; text-align: center; "> Coming soon! </h2>
+
+
+==========================================================================================================================
 /********************************************/
 /* QUIN FIX */
 /********************************************/
@@ -317,6 +375,7 @@ np(XqYtX5lW#%@Mc1GXP
 }
 /********************************************/
 
+==========================================================================================================================
 /********************************************/
 /* SANDRA FIX */
 /********************************************/
@@ -329,7 +388,7 @@ np(XqYtX5lW#%@Mc1GXP
 /********************************************/
 
 
-
+==========================================================================================================================
 
 
 /********************************************/
@@ -393,7 +452,7 @@ $(content).each(function(){
 
 
 
-
+==========================================================================================================================
 
 /********************************************/
 /* CHOCOLATE GALLERY FEATURED BLOCK */
@@ -460,7 +519,7 @@ $(content).each(function(){
 </style>
 
 
-
+==========================================================================================================================
 
 
 
