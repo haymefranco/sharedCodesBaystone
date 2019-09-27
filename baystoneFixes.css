@@ -40,9 +40,24 @@
     width:100%!important;
     height:520px!important;
 }
+<style>
+Appointment Form Float Right Fix
 .form_appointment__container.form__container{
     float:right!important;
-} */
+}
+.form_appointment__container .form__group{
+    width:49%!important;
+}
+</style>
+@media(max-width:1199px){
+  .form_appointment__container.form__container{
+      float:none!important;
+  }
+  .form_appointment__container .form__group{
+      width:100%!important;
+  }
+}
+*/
 
 
 
@@ -60,9 +75,11 @@
   }
   .flexone{
     flex:1;
+    padding:10px;
   }
   .flextwo{
     flex:2;
+    padding:10px;
   }
   .wrap__header .location__phone{
     height:0!important;
@@ -96,7 +113,7 @@
       padding-top:0px!important;
   }
   .flexone, .flextwo{
-      border-bottom: 1px solid;
+      /* border-bottom: 1px solid; */
       padding-bottom: 10px;
       margin-bottom: 10px;
   }
@@ -142,12 +159,22 @@ $('.wrap__page-content font').attr('size', '');
 
 
 
+/*==================Contactus======================*/
 
+<div class="wrap__form contact">
+    <div class="wrap__form--inner">
+        <div class="wrap__editable">
+            {% component 'editable' file='contact-us.htm' %}
+        </div>
+        {% component 'form_contact' %}
+        <br>
+        {% component 'form_appointment' %}
+    </div>
+</div>
 
-
-
-
-
+==========================================================================================================================
+/* OBJECT SWF FILES */
+<object type="application/x-shockwave-flash" data="https://my.onlinechiro.com/0041703/storage/app/media/VideoPlayer.swf" width="502" height="306" id="videoplayer-content-5174551" style="visibility: visible;"><param name="salign" value="T"><param name="wmode" value="transparent"><param name="width" value="502"><param name="height" value="306"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="sameDomain"><param name="scale" value="noscale"><param name="flashvars" value="xml=https://preview.onlinechiro.com/8116/xml/getVideos.cfm?id_content=5174551"></object>
 
 
 ==========================================================================================================================

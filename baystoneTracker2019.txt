@@ -1,3 +1,235 @@
+Ticket #: 384376
+Site: http://www.drrichmond.com/
+Portal: https://my.onlinechiro.com/0042253/site/editor/cms
+Theme: Betty - Brown
+27-September-2019
+/********************************************/
+Ticket #: 384265
+Site: https://www.drraytrottier.com/
+Portal: https://my.onlinechiro.com/0042115/site/editor/cms
+Theme: Karen Gold
+27-September-2019
+/********************************************/
+Ticket #: 384262
+Site: https://www.drpieratti.com/
+Portal: https://my.onlinechiro.com/0042113/site/editor/cms
+Theme: Karen Brown
+27-September-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 384231
+Site: http://www.drnicolestoessel.com/
+Portal: http://my.onlinechiro.com/0042100/site/editor/cms
+Theme: Yasmin Brown
+26-September-2019
+/********************************************/
+Ticket #: 384198
+Site: http://www.drnicholasodette.com
+Portal: https://my.onlinechiro.com/0042079/site/editor/cms
+Theme: Jan Yellow
+26-September-2019
+/********************************************/
+Ticket #: 384194
+Site: https://www.drmikefiore.com/
+Portal: https://my.onlinechiro.com/0042076/site/editor/cms
+Theme: Chocolate Layers Beige
+26-September-2019
+/********************************************/
+Ticket #: 384187
+Site: https://www.drmarzo.com/
+Portal: https://my.onlinechiro.com/0042073/site/editor/cms
+Theme: Faith Blue
+26-September-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 384186
+Site: https://www.drmarkrodrigues.com/
+Portal: https://my.onlinechiro.com/0042071/site/editor/cms
+Theme: Zoe Purple
+25-September-2019
+/********************************************/
+Ticket #: 384185
+Site: https://www.drmajee.com/
+Portal: http://my.onlinechiro.com/0042070/site/editor/cms
+Theme: Gina Light Grey
+25-September-2019
+/********************************************/
+Ticket #: 384103
+Site: https://www.drlorimorris.com
+Portal: https://my.onlinechiro.com/0042019/site/editor/cms
+Theme: Gina Teal
+25-September-2019
+/********************************************/
+Ticket #: 384102
+Site: https://www.drlauralassiterdc.com/
+Portal: https://my.onlinechiro.com/0042018/site/editor/cms
+Theme: Paige Purple
+25-September-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 384094
+Site: http://www.drkatechiro.com/
+Portal: https://my.onlinechiro.com/0042017/site/editor/cms
+Theme: Haley Grey
+24-September-2019
+/********************************************/
+Ticket #: 383945
+Site: https://www.drkasic.com/
+Portal: http://my.onlinechiro.com/0041894/site/editor/cms
+Theme: Lola Red
+24-September-2019
+/********************************************/
+Ticket #: 383848
+Site: http://www.drjasonstucky.com/
+Portal: https://my.onlinechiro.com/0041843/site/editor/cms
+Theme: Wendy Tan
+24-September-2019
+/********************************************/
+Ticket #: 383854
+Site: https://www.drjoanjacobs.com/
+Portal: https://my.onlinechiro.com/0041847/site/editor/cms
+Theme: Faith Grey
+24-September-2019
+/********************************************/
+Ticket #: 383941
+Site: https://www.drkarensiupikchiro.com/
+Portal: https://my.onlinechiro.com/0041892/site/editor/cms
+Theme: Christine Green
+24-September-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 383845
+Site: https://www.drjackiemartinez.com/
+Portal: http://my.onlinechiro.com/0041839/site/editor/cms
+Theme: Lola Red
+23-September-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 383830
+Site: https://www.drheathersterling.com/
+Portal: https://my.onlinechiro.com/0041819/site/editor/cms
+Theme: Lily Blue
+20-September-2019
+/********************************************/
+Ticket #: 383804
+Site: http://www.drfady.com/
+Portal: https://my.onlinechiro.com/0041793/site/editor/cms
+Theme: Eve Blue
+20-September-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 383781
+Site: https://www.drdanyoung.com/
+Portal: https://my.onlinechiro.com/0041771/site/editor/cms
+Theme: Isabella Blue
+19-September-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 383779
+Site: https://www.drcherylgross.com
+Portal: https://my.onlinechiro.com/0041768/site/editor/cms
+Theme: Lily Green
+18-September-2019
+/********************************************/
+Ticket #: 383770
+Site: http://www.drcecilchiropractic.com/
+Portal: https://my.onlinechiro.com/0041761/site/editor/cms
+Theme: Lily Blue
+18-September-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 383769
+Site: https://www.drcebek.com/
+Portal: https://my.onlinechiro.com/0041760/site/editor/cms
+Theme: Isabella Dark Grey
+17-September-2019
+/********************************************/
+Ticket #: 384195
+Site: https://www.spinedoctorsbc.com/
+Portal: https://my.onlinechiro.com/0042077/site/editor/cms
+Theme: Ursula Rose
+17-September-2019
+/********************************************/
+Ticket #: 383752
+Site: https://www.drcalternativewellness.com/
+Portal: https://my.onlinechiro.com/0041749/site/editor/cms
+Theme: Gina Dark Grey
+17-September-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 383751
+Site: https://www.drbriangalas.com/
+Portal: https://my.onlinechiro.com/0041748/site/editor/cms
+Theme: Lily Brown
+16-September-2019
+/********************************************/
+Ticket #: 384092
+Site: http://www.faganfamilychiropractic.com/
+Portal: https://my.onlinechiro.com/0042013/site/editor/cms
+Theme: Southern Peach Orange
+16-September-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 383748
+Site: https://www.dralvey.com/
+Portal: http://my.onlinechiro.com/0041745/site/editor/cms
+Theme: Faith Green
+13-September-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 383698
+Site: https://www.downtownchirowpb.com/
+Portal: https://my.onlinechiro.com/0041704/site/editor/cms
+Theme: Dark Grey
+12-September-2019
+/********************************************/
+Ticket #: 383696
+Site: http://doctorbonnie.net/
+Portal: https://my.onlinechiro.com/0041703/site/editor/cms
+Theme: Faith Grey
+12-September-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 383693
+Site: http://www.doctorbackpain.com/
+Portal: http://my.onlinechiro.com/0041701/site/editor/cms
+Theme: Faith Blue
+11-September-2019
+/********************************************/
+Ticket #: 383688
+Site: http://www.docdolan.com
+Portal: https://my.onlinechiro.com/0041700/site/editor/cms
+Theme: Faith Blue
+11-September-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 383610
+Site: https://www.docackley.com/
+Portal: https://my.onlinechiro.com/0041651/site/editor/cms
+Theme: Paige Blue
+10-September-2019
+/********************************************/
+Ticket #: 383592
+Site: https://www.dobiaschiro.com/
+Portal: http://my.onlinechiro.com/0041638/site/editor/cms
+Theme: Yasmin Blue
+10-September-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
 Ticket #: 383586
 Site: https://www.dillonchiropractic.net/
 Portal: https://my.onlinechiro.com/0041628/site/editor/cms
