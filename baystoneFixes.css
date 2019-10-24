@@ -1,10 +1,6 @@
 /********************************************/
 /* Custom FIX migration */
 /********************************************/
-
-/********************************************/
-/* MIGRATION CSS FIXES */
-/********************************************/
 .cntxapp{
     width:100%;
     float:none;
@@ -59,6 +55,23 @@ Appointment Form Float Right Fix
 }
 */
 
+.tb{
+    display:block;
+}
+.tr{
+    display:block;
+    border-bottom: 1px solid lightgrey;
+
+}
+.td{
+    display:inline-block;
+    vertical-align: middle;
+    width: 15%;
+    padding-right:15px;
+}
+.tr .td:nth-child(1){
+  width:48%!important;
+}
 
 
 
@@ -109,16 +122,22 @@ Appointment Form Float Right Fix
     }
 }
 @media(max-width:767px){
-  .home-layout .wrap__page-content{
-      padding-top:0px!important;
-  }
-  .flexone, .flextwo{
-      /* border-bottom: 1px solid; */
-      padding-bottom: 10px;
-      margin-bottom: 10px;
-  }
+    .home-layout .wrap__page-content{
+        padding-top:0px!important;
+    }
+    .flexone, .flextwo{
+        /* border-bottom: 1px solid; */
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+    }
+    .td, .tr{
+      font-size:3vw;
+    }
 }
 @media(max-width:480px){
+    .td, .tr{
+        font-size:4vw;
+    }
     .fontsize{
         font-size:5vw!important;
     }
@@ -147,10 +166,11 @@ Appointment Form Float Right Fix
 
 
 $('.clear_col, .col_1_2, .col_2_2, .cntwrp.feature_image, .cntwrpInner, .col_1_1, .col_1_3, .col_2_3, .col_3_3, .col_header ').removeClass();
-$('.wrap__page-content span, .wrap__page-content p').attr('style', 'font-size:16px;');
+$('.wrap__page-content span, .wrap__page-content p,  .wrap__page-content li,  .wrap__page-content a').attr('style', 'font-size:16px;');
 $('.wrap__page-content font').attr('face', '');
 $('.wrap__page-content font').attr('size', '');
 /*==================CUSTOM CSS======================*/
+
 
 
 
@@ -176,6 +196,32 @@ $('.wrap__page-content font').attr('size', '');
 /* OBJECT SWF FILES */
 <object type="application/x-shockwave-flash" data="https://my.onlinechiro.com/0041703/storage/app/media/VideoPlayer.swf" width="502" height="306" id="videoplayer-content-5174551" style="visibility: visible;"><param name="salign" value="T"><param name="wmode" value="transparent"><param name="width" value="502"><param name="height" value="306"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="sameDomain"><param name="scale" value="noscale"><param name="flashvars" value="xml=https://preview.onlinechiro.com/8116/xml/getVideos.cfm?id_content=5174551"></object>
 
+==========================================================================================================================
+  /* LOLA FIX */
+.wrap__logoHeader .logo{
+    max-width:150px;
+}
+.logo__image{
+    max-height:150px;
+    height:150px;
+    min-height:100px;
+}
+@media(max-width:767px){
+  .logo__image{
+    display:block!important;
+    float:none!important;
+    margin:0 auto!important;
+  }
+  .wrap__logoHeader .logo{
+    max-width:100%!important;
+  }
+  .logo__summary{
+      text-align:center!important;
+  }
+  .slider__item.slider__image{
+      background-position:30%!important;
+  }
+}
 
 ==========================================================================================================================
 /* CLEAR VIEW FIX */
@@ -189,8 +235,25 @@ $('.wrap__page-content font').attr('size', '');
 .wrap__locationsHeader .location > p, .wrap__locationsHeader .location > p a{
     display:block!important;
 }
+.wrap__locationsHeader .locations__title:after{
+    display:none!important;
+}
+.location__address{
+    margin-bottom:0px!important;
+}
 
-
+@media(max-width:1024px){
+  .wrap__locationsHeader .locations .component__title-caption-wrap{
+    display:inline!important;
+  }
+  .logo__summary{
+      max-width:500px;
+      min-width:350px;
+  }
+  .locations__title, .location__name{
+      white-space:pre-wrap;
+  }
+}
 @media(max-width:480px){
   .location__phone{
       overflow:visible!important;
@@ -201,8 +264,26 @@ $('.wrap__page-content font').attr('size', '');
   }
 }
 
-
-
+==========================================================================================================================
+/* ISABELLA fix */
+.logo__link{
+    display:table;
+}
+==========================================================================================================================
+/* ANJALI CONTACT US PAGE -> REQUEST APPOINTMENT FIX */
+<script>
+setInterval(function(){
+    var x = $('.classinit').attr('class');
+    if (x === undefined){
+    	//$( append script here)
+    	$('.form_appointment__container.form__container').insertAfter('.form_contact__container .form').addClass('classinit');
+    	console.log(x);
+    }
+    else {
+        return;
+    }
+},500);
+</script>
 
 ==========================================================================================================================
 
