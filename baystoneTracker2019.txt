@@ -1,6 +1,70 @@
+Ticket #: 385706
+Site: http://www.idealfamilyhealthctr.com/
+Portal: https://my.onlinechiro.com/0043303/site/editor/cms
+Theme: Betty Green UNFINISHED
+25-October-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 385723
+Site: https://www.blvdchiro.com/
+Portal: https://my.onlinechiro.com/0006902/site/editor/cms
+Theme:
+25-October-2019
+/********************************************/
+Ticket #: 385722
+Site: https://www.upgradesinhealthandwellness.com/
+Portal: https://my.onlinechiro.com/0039769/site/editor/cms
+Theme:
+25-October-2019
+/********************************************/
+Ticket #: 385717
+Site: http://www.centerstchiro.com/
+Portal: https://my.onlinechiro.com/0041757/site/editor/cms#
+Theme:
+25-October-2019
+/********************************************/
+Ticket #: 385716
+Site: https://www.alignspinecenter.com/
+Portal: https://my.onlinechiro.com/0006950/site/editor/cms
+Theme:
+25-October-2019
+/********************************************/
+Ticket #: 385710
+Site: https://www.fairviewdc.com/
+Portal: https://my.onlinechiro.com/0023030/site/editor/cms/media
+Theme:
+25-October-2019
+/********************************************/
+Ticket #: 385678
+Site: https://www.gachirowoodstock.com/
+Portal: https://my.onlinechiro.com/0041866/site/editor/cms
+Theme:
+25-October-2019
+/********************************************/
+Ticket #: 385810
+Site: paindoc.us
+Portal: https://my.onlinechiro.com/0043070/site/editor/cms
+Theme:
+25-October-2019
+/********************************************/
+Ticket #: 385786
+Site: https://www.europeanreglazing.com/
+Portal: https://my.onlinechiro.com/0043380/site/editor/cms
+Theme: Lily Blue
+25-October-2019
+/********************************************/
+Ticket #: 385704
+Site: https://www.hylandfamilychiro.com/
+Portal: https://my.onlinechiro.com/0043302/site/editor/cms
+Theme: Veronica Blue
+25-October-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
 Ticket #: 385662
-Site:
-Portal:
+Site: https://www.alignspinecenter.com/
+Portal: https://my.onlinechiro.com/0006950/site/editor/cms
 Theme:
 24-October-2019
 /********************************************/
