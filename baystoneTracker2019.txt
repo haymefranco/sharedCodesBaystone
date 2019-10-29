@@ -1,8 +1,40 @@
 Ticket #: 385706
 Site: http://www.idealfamilyhealthctr.com/
 Portal: https://my.onlinechiro.com/0043303/site/editor/cms
-Theme: Betty Green UNFINISHED
-25-October-2019
+Theme: Betty Green
+29-October-2019
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Ticket #: 385833
+Site: https://www.alignspinecenter.com/
+Portal: https://my.onlinechiro.com/0006950/site/editor/cms
+Theme:
+28-October-2019
+/********************************************/
+Ticket #: 385787
+Site: https://www.landchiropractic.com/
+Portal: https://my.onlinechiro.com/0016773/site/editor/cms
+Theme:
+28-October-2019
+/********************************************/
+Ticket #: 385780
+Site: https://www.sourcechiroaz.com/
+Portal: https://my.onlinechiro.com/0042091/site/editor/cms
+Theme:
+28-October-2019
+/********************************************/
+Ticket #: 385779
+Site: http://www.brucetonwellness.com/
+Portal: https://my.onlinechiro.com/0001553/site/editor/cms
+Theme:
+28-October-2019
+/********************************************/
+Ticket #: 385736
+Site: http://www.lvspineinjurycenter.com/
+Portal: https://my.onlinechiro.com/0042504/site/editor/cms
+Theme:
+28-October-2019
 /********************************************/
 /********************************************************************/
 /********************************************************************/

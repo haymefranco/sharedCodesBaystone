@@ -165,15 +165,16 @@ Appointment Form Float Right Fix
 }
 
 
+
+
+
+$('font').replaceWith(function(){
+    return $("<p />").append($(this).contents());
+});
 $('.clear_col, .col_1_2, .col_2_2, .cntwrp.feature_image, .cntwrpInner, .col_1_1, .col_1_3, .col_2_3, .col_3_3, .col_header ').removeClass();
 $('.wrap__page-content span, .wrap__page-content p,  .wrap__page-content li,  .wrap__page-content a').attr('style', 'font-size:16px;');
 $('.wrap__page-content font').attr('face', '');
 $('.wrap__page-content font').attr('size', '');
-/*==================CUSTOM CSS======================*/
-
-
-
-
 
 
 
@@ -195,6 +196,51 @@ $('.wrap__page-content font').attr('size', '');
 ==========================================================================================================================
 /* OBJECT SWF FILES */
 <object type="application/x-shockwave-flash" data="https://my.onlinechiro.com/0041703/storage/app/media/VideoPlayer.swf" width="502" height="306" id="videoplayer-content-5174551" style="visibility: visible;"><param name="salign" value="T"><param name="wmode" value="transparent"><param name="width" value="502"><param name="height" value="306"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="sameDomain"><param name="scale" value="noscale"><param name="flashvars" value="xml=https://preview.onlinechiro.com/8116/xml/getVideos.cfm?id_content=5174551"></object>
+
+==========================================================================================================================
+  /* BETTY FIX */
+  .logo__description{
+    font-size:18px!important;
+  }
+  .logo__summary p, .location p{
+      margin-bottom:0px!important;
+  }
+  p.location__city-state-zip{
+      margin-bottom:15px!important;
+  }
+  .home-layout.home .wrap__header{
+      position:relative!important;
+      margin-bottom: -155px!important;
+  }
+  .day__time--wrap{
+      text-align:center!important;
+  }
+  .day__name{
+      margin: 0 !important;
+      padding: 9px 23px 9px 19px !important;
+  }
+  .day__time{
+      padding-top:0!important;
+  }
+  .day__time, .day__time--closed{
+      margin-bottom:0px!important;
+  }
+  @media(min-width:1200px){
+    .location p, .location a{
+      color:black;
+    }
+  }
+  @media(max-width:767px){
+    .home-layout.home .wrap__header{
+      position:relative!important;
+      margin-bottom: 155px!important;
+    }
+  }
+
+
+
+
+
 
 ==========================================================================================================================
   /* LOLA FIX */
