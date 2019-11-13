@@ -179,6 +179,18 @@ $('.wrap__page-content font').attr('size', '');
 
 
 
+/* table removals */
+$('td, tr, tbody, table').replaceWith(function(){
+    return $("<p />").append($(this).contents());
+});
+$('.col_1_2_l > .slot').removeClass().addClass('flexone');
+$('.col_1_2_l').removeClass().addClass('dflex');
+$('.col_2_2_g').insertAfter('.flexone');
+$('.col_2_2_g').replaceWith(side);
+$('.cntwrp.feature_button').html('');
+
+
+
 
 /*==================Contactus======================*/
 
@@ -193,10 +205,28 @@ $('.wrap__page-content font').attr('size', '');
     </div>
 </div>
 
+
+
+
 ==========================================================================================================================
 /* OBJECT SWF FILES */
 <object type="application/x-shockwave-flash" data="https://my.onlinechiro.com/0041703/storage/app/media/VideoPlayer.swf" width="502" height="306" id="videoplayer-content-5174551" style="visibility: visible;"><param name="salign" value="T"><param name="wmode" value="transparent"><param name="width" value="502"><param name="height" value="306"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="sameDomain"><param name="scale" value="noscale"><param name="flashvars" value="xml=https://preview.onlinechiro.com/8116/xml/getVideos.cfm?id_content=5174551"></object>
 
+
+==========================================================================================================================
+/* YASMIN FIX */
+@media(min-width:1140px){
+    .wrap__fullwidth--inner{
+        margin-top:100px!important;
+    }
+}
+
+==========================================================================================================================
+/* JESSIE FIX */
+
+body:after{
+    background:none!important;
+}
 ==========================================================================================================================
   /* BETTY FIX */
   .logo__description{
@@ -336,6 +366,8 @@ setInterval(function(){
 /* OLIVIA FIX */
 .wrap__header .location__phone a:before{
     transform:none!important;
+    position:relative!important;
+    margin:7px!important;
 }
 .wrap__header p:last-child{
     margin-bottom:0px!important;
@@ -343,18 +375,17 @@ setInterval(function(){
 .wrap__header .wrap__locations.phone__holder:before{
     transform:none!important;
     font-weight:bold!important;
+        line-height:0!important;
+}
+.location__address, .location__city-state-zip{
+    margin-bottom:0px!important;
 }
 
-
-@media(max-width:1024px){
-  .wrap__header .location__phone{
-      height:0!important;  /*  <===================NOTICE ME */
-  }
+.location__city-state-zip:before{
+    display:none;
 }
-@media(max-width:767px){
-  .wrap__header .location__phone{
-      height:0!important;
-   }
+.socials__holder:before, .location__holder:before, .phone__holder:before{
+    transform:translateY(-75%);
 }
 ==========================================================================================================================
 
@@ -607,20 +638,36 @@ $(content).each(function(){
 
 
 ==========================================================================================================================
+/* CSS on CHOCOLATE FIX */
 
-/********************************************/
+.wrap__page-content{
+    width:100%!important;
+}
+@media(max-width:1199px){
+  .wrap__gallery_home .flexone{
+    display:inline-block;
+    flex:unset;
+  }
+}
+@media(max-width:667px){
+.textvert{
+      line-height:0;
+  }
+}
+
+<!-- /********************************************/
 /* CHOCOLATE GALLERY FEATURED BLOCK */
-/********************************************/
+/********************************************/ -->
 <div class="dflex">
   <div class="flexone">
     <a href="services">
-      <div class="textvert dinline">COSMETIC</div>
+      <div class="textvert dinline">ADJUSTMENTS</div>
       <div class="dinline"><img src="https://my.onlinechiro.com/0036868/storage/app/media/_clientGalleryhm/gallery_1.jpg" alt=""></div>
     </a>
   </div>
   <div class="flexone">
     <a href="services">
-      <div class="textvert dinline">RESTORATIVE</div>
+      <div class="textvert dinline">WELLNESS</div>
       <div class="dinline"><img src="https://my.onlinechiro.com/0036868/storage/app/media/_clientGalleryhm/gallery_2.jpg" alt=""></div>
     </a>
   </div>
@@ -632,7 +679,7 @@ $(content).each(function(){
   </div>
   <div class="flexone">
     <a href="services">
-      <div class="textvert dinline">PEDIATRIC</div>
+      <div class="textvert dinline">SPINE CARE</div>
       <div class="dinline"><img src="https://my.onlinechiro.com/0036868/storage/app/media/_clientGalleryhm/gallery_4.jpg" alt=""></div>
     </a>
   </div>
@@ -671,7 +718,6 @@ $(content).each(function(){
     position:relative;
   }
 </style>
-
 
 ==========================================================================================================================
 
