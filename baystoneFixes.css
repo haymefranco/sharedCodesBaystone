@@ -1,28 +1,10 @@
 /********************************************/
 /* Custom FIX migration */
 /********************************************/
-.cntxapp{
-    width:100%;
-    float:none;
-    padding-right:initial;
-}
 .logo{
   width:auto;
 }
 /********************************************/
-/*==================CUSTOM CSS======================*/
-.logo__link {
-    display: block!important;
-}
-#content_sublinks{
-    display:none;
-}
-#content_sublinks{
-    clear:both!important;
-}
-#content_sublinks ul{
-    clear:none!important;
-}
 .wrappage-content ul, .wrapeditable ul, .wrapeditable ol, .wrap__page-content ul{
     clear: none;
 }
@@ -32,36 +14,12 @@
 .wrap__page-content img{
     margin: 10px;
 }
-/* #gmap{
-    width:100%!important;
-    height:520px!important;
-}
-<style>
-Appointment Form Float Right Fix
-.form_appointment__container.form__container{
-    float:right!important;
-}
-.form_appointment__container .form__group{
-    width:49%!important;
-}
-</style>
-@media(max-width:1199px){
-  .form_appointment__container.form__container{
-      float:none!important;
-  }
-  .form_appointment__container .form__group{
-      width:100%!important;
-  }
-}
-*/
-
 .tb{
     display:block;
 }
 .tr{
     display:block;
     border-bottom: 1px solid lightgrey;
-
 }
 .td{
     display:inline-block;
@@ -72,16 +30,16 @@ Appointment Form Float Right Fix
 .tr .td:nth-child(1){
   width:48%!important;
 }
-
-
-
-@media(min-width:1200px){
-    .cntxapp{
-        width:initial;
-        float:right;
-        padding-right:45px;
-    }
+.logo__summary{
+  max-width:550px;
 }
+.logo__image{
+    max-width:150px;
+}
+.seoTags{
+    clear:both!important;
+}
+
 @media(min-width:768px){
   .dflex{
     display:flex;
@@ -94,11 +52,7 @@ Appointment Form Float Right Fix
     flex:2;
     padding:10px;
   }
-  .wrap__header .location__phone{
-    height:0!important;
-  }
 }
-
 @media(max-width:1199px){
     .dnone{
         display:none!important;
@@ -154,7 +108,6 @@ Appointment Form Float Right Fix
         height:auto!important;
         display:block!important;
         float:none!important;
-        /* padding-left:10px!important; */
     }
     iframe{
         width:auto!important;
@@ -162,38 +115,322 @@ Appointment Form Float Right Fix
     .wrap__page-content div{
         float:none!important;
     }
+    .location__phone{
+        padding:0px!important;
+    }
 }
+/* Custom FIX migration End */
+
+
+
+=====================================================================================================
+cst.jsnormal{
+
+        $('.col_1_3 .slot').removeClass().addClass('flexone').attr('style', 'text-align:center;');
+        $('.col_2_3').insertAfter('.flexone').removeClass().addClass('flexone flexmorehere').attr('style', 'text-align:center;');
+        $('.col_3_3').insertAfter('.flexmorehere').removeClass().addClass('flexone').attr('style','text-align:center;');
+        $('.col_1_3').removeClass().addClass('dflex');
+        console.log('done');
+
+
+
+
+      $('.col_1_2 .slot').removeClass().addClass('flextwo');
+      $('.col_2_2').insertAfter('.flextwo').removeClass().addClass('flexone');
+      $('.col_1_2').removeClass().addClass('dflex');
 
 
 
 
 
-$('font').replaceWith(function(){
-    return $("<p />").append($(this).contents());
-});
-$('.clear_col, .col_1_2, .col_2_2, .cntwrp.feature_image, .cntwrpInner, .col_1_1, .col_1_3, .col_2_3, .col_3_3, .col_header ').removeClass();
-$('.wrap__page-content span, .wrap__page-content p,  .wrap__page-content li,  .wrap__page-content a').attr('style', 'font-size:16px;');
-$('.wrap__page-content font').attr('face', '');
-$('.wrap__page-content font').attr('size', '');
+    $('font').replaceWith(function(){
+        return $("<p />").append($(this).contents());
+    });
+
+    $('.clear_col, .col_1_2, .col_2_2, .cntwrp.feature_image, .cntwrpInner, .col_1_1, .col_1_3, .col_2_3, .col_3_3, .col_header, .col_footer').removeClass();
+    $('.wrap__page-content span, .wrap__page-content p,  .wrap__page-content li,  .wrap__page-content a, .wrap__editable p').attr('style', 'font-size:16px;');
+    $('.wrap__page-content font').attr('face', '');
+    $('.wrap__page-content font').attr('size', '');
+
+    /* table removals */
+    $('td, tr, tbody, table, thead, th').replaceWith(function(){
+        return $("<p />").append($(this).contents());
+    });
+    $('.col_1_2_l > .slot').removeClass().addClass('flexone');
+    $('.col_1_2_l').removeClass().addClass('dflex');
+    $('.col_2_2_g').insertAfter('.flexone');
+    // $('.col_2_2_g').replaceWith(side);
+    $('.cntwrp.feature_button').html('');
+
+}
+=====================================================================================================
+cst.Pod.js{
+
+
+  if(window.location.href.indexOf("our-practice") > -1) {
+      $('tr').replaceWith(function(){
+          return $("<div class='dflex' />").append($(this).contents());
+      });
+      $('td').replaceWith(function(){
+          return $("<div class='flexone' />").append($(this).contents());
+      });
+  }
+  if(window.location.href.indexOf("achilles-tendonitis") > -1) {
+      $('.slot img').attr('style','margin:10px;float:left;');
+  }
+  if(window.location.href.indexOf("plantar-warts") > -1) {
+      $('.slot img').attr('style','margin:10px;float:left;');
+  }
+  if(window.location.href.indexOf("hammertoes") > -1) {
+      $('.col_1_2 .slot').removeClass().addClass('flexone').attr('style','text-align:center;');
+      $('.col_2_2').insertAfter('.flexone').removeClass().addClass('flextwo');
+      $('.col_1_2').removeClass().addClass('dflex');
+  }
+  if(window.location.href.indexOf("heel-pain-fasciitis") > -1) {
+      $('.col_1_2 .slot').removeClass().addClass('flexone').attr('style','text-align:center;');
+      $('.col_2_2').insertAfter('.flexone').removeClass().addClass('flextwo');
+      $('.col_1_2').removeClass().addClass('dflex');
+  }
+  if(window.location.href.indexOf("onychomycosis") > -1) {
+      $('.col_1_2 .slot').removeClass().addClass('flexone').attr('style','text-align:center;');
+      $('.col_2_2').insertAfter('.flexone').removeClass().addClass('flextwo');
+      $('.col_1_2').removeClass().addClass('dflex');
+  }
+  if(window.location.href.indexOf("running-injuries") > -1) {
+      $('.col_1_2 .slot').removeClass().addClass('flexone').attr('style','text-align:center;');;
+      $('.col_2_2').insertAfter('.flexone').removeClass().addClass('flexone').attr('style','text-align:center;');
+      $('.col_1_2').removeClass().addClass('dflex');
+
+  }
+  if(window.location.href.indexOf("injuries") > -1) {
+      $('.col_1_2 .slot').removeClass().addClass('flexone').attr('style','text-align:center;');;
+      $('.col_2_2').insertAfter('.flexone').removeClass().addClass('flextwo');
+      $('.col_1_2').removeClass().addClass('dflex');
+  }
+  if(window.location.href.indexOf("athlete-s-foot") > -1) {
+      $('.slot img').attr('style', 'margin: 0 auto;display: block;');
+  }
+
+      $('.col_1_3 .slot').removeClass().addClass('flexone').attr('style', 'text-align:center;');
+      $('.col_2_3').insertAfter('.flexone').removeClass().addClass('flexone flexmorehere').attr('style', 'text-align:center;');
+      $('.col_3_3').insertAfter('.flexmorehere').removeClass().addClass('flexone').attr('style','text-align:center;');
+      $('.col_1_3').removeClass().addClass('dflex');
+      console.log('done');
+
+
+    $('.col_1_2 .slot').removeClass().addClass('flextwo');
+    $('.col_2_2').insertAfter('.flextwo').removeClass().addClass('flexone').attr('style','text-align:center;');
+    $('.col_1_2').removeClass().addClass('dflex');
 
 
 
 
-/* table removals */
-$('td, tr, tbody, table').replaceWith(function(){
-    return $("<p />").append($(this).contents());
-});
-$('.col_1_2_l > .slot').removeClass().addClass('flexone');
-$('.col_1_2_l').removeClass().addClass('dflex');
-$('.col_2_2_g').insertAfter('.flexone');
-$('.col_2_2_g').replaceWith(side);
-$('.cntwrp.feature_button').html('');
+
+  $('font').replaceWith(function(){
+      return $("<p />").append($(this).contents());
+  });
+
+  $('.clear_col, .col_1_2, .col_2_2, .cntwrp.feature_image, .cntwrpInner, .col_1_1, .col_1_3, .col_2_3, .col_3_3, .col_header, .col_footer').removeClass();
+  $('.wrap__page-content span, .wrap__page-content p,  .wrap__page-content li,  .wrap__page-content a, .wrap__editable p').attr('style', 'font-size:16px;');
+  $('.wrap__page-content font').attr('face', '');
+  $('.wrap__page-content font').attr('size', '');
+
+  /* table removals */
+  $('td, tr, tbody, table, thead, th').replaceWith(function(){
+      return $("<p />").append($(this).contents());
+  });
+
+  $('.col_1_2_l > .slot').removeClass().addClass('flexone');
+  $('.col_1_2_l').removeClass().addClass('dflex');
+  $('.col_2_2_g').insertAfter('.flexone');
+  // $('.col_2_2_g').replaceWith(side);
+  $('.cntwrp.feature_button').html('');
 
 
 
 
+
+
+}
+=====================================================================================================
+cst.Opt.js{
+  if(window.location.href.indexOf("retinal-detachment") > -1) {
+      var thisTle = $('.page__title').text();
+      console.log(thisTle);
+
+          $('.col_1_2 .slot').removeClass().addClass('flexone').attr('style', 'padding-left:0px;text-align:center;');
+          $('.flexone img').attr('style', 'max-width:max-content;');
+          $('.col_2_2').insertAfter('.flexone').removeClass().addClass('flextwo').attr('style','padding-left:10px;');
+          $('.col_1_2').removeClass().addClass('dflex');
+          console.log('done');
+  }
+  if(window.location.href.indexOf("hyperopia-farsightedness") > -1) {
+      var thisTle = $('.page__title').text();
+      console.log(thisTle);
+
+          $('.col_1_2 .slot').removeClass().addClass('flexone').attr('style', 'padding-left:0px;text-align:center;');
+          $('.flexone img').attr('style', 'max-width:max-content;');
+          $('.col_2_2').insertAfter('.flexone').removeClass().addClass('flextwo').attr('style','padding-left:10px;');
+          $('.col_1_2').removeClass().addClass('dflex');
+          console.log('done');
+  }
+  if(window.location.href.indexOf("cataracts") > -1) {
+      var thisTle = $('.page__title').text();
+      console.log(thisTle);
+
+          $('.col_1_2 .slot').removeClass().addClass('flexone').attr('style', 'padding-left:0px;text-align:center;');
+          $('.col_2_2').insertAfter('.flexone').removeClass().addClass('flextwo').attr('style','padding-right:0px;');
+          $('.col_1_2').removeClass().addClass('dflex');
+          console.log('done');
+  }
+  if(window.location.href.indexOf("macular-degeneration") > -1) {
+      var thisTle = $('.page__title').text();
+      console.log(thisTle);
+
+          $('.col_1_2 .slot').removeClass().addClass('flexone').attr('style', 'padding-left:0px;text-align:center;');
+          $('.col_2_2').insertAfter('.flexone').removeClass().addClass('flextwo').attr('style','padding-right:0px;');
+          $('.col_1_2').removeClass().addClass('dflex');
+          console.log('done');
+  }
+  if(window.location.href.indexOf("sunglasses") > -1) {
+      var thisTle = $('.page__title').text();
+      console.log(thisTle);
+      $('.col_1_2 .slot').removeClass().addClass('flexone').attr('style', 'padding-left:0px;text-align:center;');
+      $('.col_2_2').insertAfter('.flexone').removeClass().addClass('flexone').attr('style','padding-right:0px;text-align:center;');
+      $('.col_1_2').removeClass().addClass('dflex');
+  }
+  if(window.location.href.indexOf("reading-glasses") > -1) {
+      var thisTle = $('.page__title').text();
+      console.log(thisTle);
+      $('.col_1_2 .slot').removeClass().addClass('flextwo').attr('style', 'padding-left:0px;');
+      $('.col_2_2').insertAfter('.flextwo').removeClass().addClass('flexone').attr('style','padding-right:0px;text-align:center;');
+      $('.col_1_2').removeClass().addClass('dflex');
+  }
+  if(window.location.href.indexOf("glasses") > -1) {
+      var thisTle = $('.page__title').text();
+      console.log(thisTle);
+
+          $('.col_1_2 .slot').removeClass().addClass('flexone').attr('style', 'padding-left:0px;text-align:center;');
+          $('.col_2_2').insertAfter('.flexone').removeClass().addClass('flextwo').attr('style','padding-right:0px;');
+          $('.col_1_2').removeClass().addClass('dflex');
+          console.log('done');
+  }
+  if(window.location.href.indexOf("kids-frames") > -1) {
+      var thisTle = $('.page__title').text();
+      console.log(thisTle);
+      $('.col_1_2 .slot').removeClass().addClass('flextwo').attr('style', 'padding-left:0px;');
+      $('.col_2_2').insertAfter('.flextwo').removeClass().addClass('flexone').attr('style','padding-right:0px;text-align:center;');
+      $('.col_1_2').removeClass().addClass('dflex');
+  }
+  if(window.location.href.indexOf("frames") > -1) {
+      var thisTle = $('.page__title').text();
+      console.log(thisTle);
+
+          $('.col_1_2 .slot').removeClass().addClass('flexone').attr('style', 'padding-left:0px;text-align:center;');
+          $('.col_2_2').insertAfter('.flexone').removeClass().addClass('flextwo').attr('style','padding-right:0px;');
+          $('.col_1_2').removeClass().addClass('dflex');
+          console.log('done');
+  }
+  if(window.location.href.indexOf("progressive-no-line-lenses") > -1) {
+      var thisTle = $('.page__title').text();
+      console.log(thisTle);
+
+      $('.col_1_2 .slot').removeClass().addClass('flextwo').attr('style', 'padding-left:0px;');
+      $('.col_2_2').insertAfter('.flextwo').removeClass().addClass('flexone').attr('style','padding-right:0px;text-align:center;');
+      $('.col_1_2').removeClass().addClass('dflex');
+  }
+  if(window.location.href.indexOf("contact-lenses") > -1) {
+      var thisTle = $('.page__title').text();
+      console.log(thisTle);
+
+      $('.col_1_2 .slot').removeClass().addClass('flextwo').attr('style', 'padding-left:0px;');
+      $('.col_2_2').insertAfter('.flextwo').removeClass().addClass('flexone').attr('style','padding-right:0px;text-align:center;');
+      $('.col_1_2').removeClass().addClass('dflex');
+  }
+  if(window.location.href.indexOf("lenses") > -1) {
+      var thisTle = $('.page__title').text();
+      console.log(thisTle);
+
+          $('.col_1_2 .slot').removeClass().addClass('flexone').attr('style', 'padding-left:0px;text-align:center;');
+          $('.flexone img').attr('style', 'max-width:max-content;');
+          $('.col_2_2').insertAfter('.flexone').removeClass().addClass('flextwo').attr('style','padding-left:10px;');
+          $('.col_1_2').removeClass().addClass('dflex');
+          console.log('done');
+  }
+  if(window.location.href.indexOf("eyewear") > -1) {
+      var thisTle = $('.page__title').text();
+      console.log(thisTle);
+
+          $('.col_1_2 .slot').removeClass().addClass('flexone').attr('style', 'padding-left:0px;text-align:center;');
+          $('.col_2_2').insertAfter('.flexone').removeClass().addClass('flextwo').attr('style','padding-right:0px;');
+          $('.col_1_2').removeClass().addClass('dflex');
+          console.log('done');
+  }
+  if(window.location.href.indexOf("eye-examinations") > -1) {
+      $('.col_1_3 .slot').removeClass().addClass('flexone').attr('style', 'padding-left:0px;text-align:center;');
+      $('.col_2_3').insertAfter('.flexone').removeClass().addClass('flexone flexmorehere').attr('style','padding-right:0px;');
+      $('.col_3_3').insertAfter('.flexmorehere').removeClass().addClass('flexone').attr('style','padding-right:0px;');
+      $('.col_1_3').removeClass().addClass('dflex');
+      console.log('done');
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      $('.col_1_2 .slot').removeClass().addClass('flextwo').attr('style', 'padding-left:0px;');
+      $('.col_2_2').insertAfter('.flextwo').removeClass().addClass('flexone').attr('style','padding-right:0px;text-align:center;');
+      $('.col_1_2').removeClass().addClass('dflex');
+
+
+
+  $('font').replaceWith(function(){
+      return $("<p />").append($(this).contents());
+  });
+
+  $('.clear_col, .col_1_2, .col_2_2, .cntwrp.feature_image, .cntwrpInner, .col_1_1, .col_1_3, .col_2_3, .col_3_3, .col_header, .col_footer').removeClass();
+  $('.wrap__page-content span, .wrap__page-content p,  .wrap__page-content li,  .wrap__page-content a, .wrap__editable p').attr('style', 'font-size:16px;');
+  $('.wrap__page-content font').attr('face', '');
+  $('.wrap__page-content font').attr('size', '');
+
+  /* table removals */
+  $('td, tr, tbody, table, thead, th').replaceWith(function(){
+      return $("<p />").append($(this).contents());
+  });
+  $('.col_1_2_l > .slot').removeClass().addClass('flexone');
+  $('.col_1_2_l').removeClass().addClass('dflex');
+  $('.col_2_2_g').insertAfter('.flexone');
+  // $('.col_2_2_g').replaceWith(side);
+  $('.cntwrp.feature_button').html('');
+
+
+
+
+
+
+
+
+}
+=====================================================================================================
 /*==================Contactus======================*/
-
 <div class="wrap__form contact">
     <div class="wrap__form--inner">
         <div class="wrap__editable">
@@ -204,84 +441,372 @@ $('.cntwrp.feature_button').html('');
         {% component 'form_appointment' %}
     </div>
 </div>
+/*==================testimonials======================*/
+<div class="wrap__testimonials">
+    <div class="wrap__testimonials--inner">
+        <div class="wrap__editable">
+            {% component "editable" file="testimonials.htm" %}
+        </div>
+        {#{% component "testimonials_page" %}#}
+        {% component 'formtst' %}
+    </div>
+</div>
+<center>
+  <strong>Your opinion is important to us!<br>
+    Please let us know about your visit.
+  </strong>
+</center>
+<br>
 
 
 
 
-==========================================================================================================================
-/* OBJECT SWF FILES */
-<object type="application/x-shockwave-flash" data="https://my.onlinechiro.com/0041703/storage/app/media/VideoPlayer.swf" width="502" height="306" id="videoplayer-content-5174551" style="visibility: visible;"><param name="salign" value="T"><param name="wmode" value="transparent"><param name="width" value="502"><param name="height" value="306"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="sameDomain"><param name="scale" value="noscale"><param name="flashvars" value="xml=https://preview.onlinechiro.com/8116/xml/getVideos.cfm?id_content=5174551"></object>
 
 
-==========================================================================================================================
+
+
+
+
+=====================================================================================================
+/* Custom FIX End */
+/* EVE FIX */
+.locations {
+    padding-top:15px!important;
+}
+/* Add this css if no logo.
+.wrap__logoHeader{
+    margin-top:-20px!important;
+} */
+/* end Eve fix */
+=====================================================================================================
+/* ROXY THEME FIX */
+.day__time--wrap{
+    text-align:center!important;
+}
+.day__time{
+    width:100%!important;
+}
+
+/* JS */
+$(document).ready(function(){
+    setInterval(function(){
+        var x = $('.classinit').attr('class');
+        if (x === undefined){
+        	//$( append script here)
+        	$('.form_appointment__container.form__container').insertAfter('.inner__wrap .wrap__form--inner').addClass('classinit');
+        	console.log(x);
+        }
+        else {
+            return;
+        }
+    },500);
+});
+
+
+<!-- testimonial fix -->
+<script>
+setInterval(function(){
+    var x = $('.classinit').attr('class');
+    if (x === undefined){
+    	//$( append script here)
+    $('.form_body__container .form__container--inner').prepend($('.tst .form'));
+    	console.log(x);
+    }
+    else {
+        return;
+    }
+},500);
+</script>
+/* end */
+=====================================================================================================
+/* KAREN THEME FIX */
+.location__fax:before{
+    content: "\f1ac";
+    font: normal normal normal 14px/1 font-awesome;
+    margin: 0 10px 0 0;
+}
+.location__phone:before{
+    content: "\f095";
+    font: normal normal normal 14px/1 font-awesome;
+    margin: 0 10px 0 0;
+}
+=====================================================================================================
+/* CHELSEA THEME FIX */
+@media(min-width:768px){
+    .featuredblocks{
+        padding:32px;
+    }
+    .logo__title{
+        font-size:36px;
+    }
+    .logo__description{
+        font-size:28px;
+    }
+    .wrap__header--middle__left{
+        flex:3;
+    }
+    .wrap__header--top__right{
+        visibility:hidden;
+    }
+    .fullwidth-layout.layout{
+        padding-top:280px!important;
+    }
+}
+@media(max-width:1024px){
+    .wrap__featuredblocks .container{
+        width:100%!important;
+    }
+}
+@media(max-width:767px){
+    .logo__link.logo__left{
+        display:block!important;
+        text-align:center;
+    }
+    .logo__image{
+        margin:0 auto!important;
+    }
+    .logo__title, .logo__description{
+        text-align:center!important;
+    }
+    .wrap__header--top__right::before{
+        color:transparent!important;
+    }
+    .wrap__header--top__right:hover .wrap__locations{
+        background:transparent!important;
+        transition:unset!important;
+    }
+    .wrap__page-content img:not(.leaflet-tile), .wrap__editable img:not(.leaflet-tile), .wrap__editable-content img:not(.leaflet-tile), .staff-member img{
+        margin-bottom:20px!important;
+    }
+}
+@media(max-width:480px){
+    .wrap__header{
+        position:absolute!important;
+    }
+    .wrap__locations{
+        margin:0 auto!important;
+    }
+    .fullwidth-layout.layout{
+        padding-top:425px!important;
+    }
+    .wrap__content, .wrap__page-content{
+        margin-top:25px!important;
+    }
+    .home-layout.layout{
+        padding-top: 363px !important;
+    }
+}
+/* end */
+=====================================================================================================
+/* VERONICA FIX */
+.hours__title, .hours__caption, .map__title, .map__caption{
+    color:#696969!important;
+}
+/* end */
+=====================================================================================================
+/* VICTOR FIX */
+.hours__name{
+    margin-bottom:0px!important;
+}
+/* end */
+=====================================================================================================
+/* WENDY FIX */
+@media(max-width:480px){
+    .logo__summary{
+        transform: translateY(0) !important;
+        display: block;
+    }
+    .logo__image{
+        min-width:150px!important;
+        display:block!important;
+        margin: 0 auto !important;
+    }
+    .logo__link.logo__left{
+        display:block!important;
+    }
+
+}
+/* end */
+=====================================================================================================
+/* DIANA FIX */
+textarea{
+    max-height: 157px!important;
+}
+.form_appointment__container textarea{
+    max-height:unset!important;
+}
+.day__name{
+    margin-bottom:0px!important;
+}
+.location p{
+    margin-bottom:0px!important;
+}
+/* end */
+=====================================================================================================
+/* GINA THEME */
+.wrap__logoHeader .logo_header__container--inner{
+    left: 50%;
+    transform: translateX(-50%);
+}
+.logo__link {
+    display: flex!important;
+}
+.slider__text{
+    transform:translateY(5%)!important;
+}
+.wrap__logoHeader{
+    top:85px!important;
+}
+.logo_header__container--inner.logo__container--inner{
+    min-width:500px!important;
+}
+@media(max-width:768px){
+    .logo_header__container--inner.logo__container--inner{
+        min-width:80%!important;
+    }
+    .logo__link.logo__left{
+        display: block !important;
+        text-align: center!important;
+    }
+    .logo{
+        float:none!important;
+    }
+    .logo__image{
+        min-height:100px!important;
+    }
+    .fullwidth-layout .wrap__header--inner header, .sidebar-layout .wrap__header--inner header{
+        min-height:300px!important;
+    }
+}
+@media(max-width:480px){
+    .logo__title{
+        font-size: 5.5vw;
+        margin-bottom: 0px !important;
+    }
+}
+/* END */
+<!-- testimonial fix -->
+<script>
+setInterval(function(){
+    var x = $('.classinit').attr('class');
+    if (x === undefined){
+    	//$( append script here)
+    $('.form_contact__container.form__container .form').prepend($('.tst .form'));
+    	console.log(x);
+    }
+    else {
+        return;
+    }
+},500);
+</script>
+<style>
+    .wrap__form.contact .form, .wrap__form.appointment .form{
+        padding-top:20px!important;
+    }
+    .tst{
+        display:none!important;
+    }
+</style>
+=====================================================================================================
 /* YASMIN FIX */
+.form_contact__container--inner textarea{
+    max-height: 162px;
+}
+.day__name, .day__time{
+  margin-bottom:0px!important
+}
 @media(min-width:1140px){
     .wrap__fullwidth--inner{
         margin-top:100px!important;
     }
 }
+/* END */
 
-==========================================================================================================================
+=====================================================================================================
 /* JESSIE FIX */
 
 body:after{
     background:none!important;
 }
-==========================================================================================================================
-  /* BETTY FIX */
-  .logo__description{
-    font-size:18px!important;
-  }
-  .logo__summary p, .location p{
-      margin-bottom:0px!important;
-  }
-  p.location__city-state-zip{
-      margin-bottom:15px!important;
-  }
+.contact-form-columns .form__group:not(.form-input-comments):first-child{
+    margin-bottom:2px!important;
+}
+=====================================================================================================
+/* BETTY FIX */
+.logo__image{
+    max-width:108px!important;
+}
+.logo__description{
+  font-size:18px!important;
+}
+.logo__summary p, .location p{
+    margin-bottom:0px!important;
+}
+p.location__city-state-zip{
+    margin-bottom:15px!important;
+}
+.home-layout.home .wrap__header{
+    position:relative!important;
+    margin-bottom: -155px!important;
+}
+.day__time--wrap{
+    text-align:center!important;
+}
+.day__name{
+    margin: 0 !important;
+    padding: 9px 23px 9px 19px !important;
+}
+.day__time{
+    padding-top:0!important;
+    width: 100%;
+    border-right:transparent;
+}
+.day__time, .day__time--closed{
+    margin-bottom:0px!important;
+}
+@media(max-width:767px){
   .home-layout.home .wrap__header{
-      position:relative!important;
-      margin-bottom: -155px!important;
+    position:relative!important;
+    margin-bottom: 155px!important;
   }
-  .day__time--wrap{
+}
+
+=====================================================================================================
+/* LOLA FIX */
+
+.location__fax:before {
+    content:"\f1ac";
+    margin-left: -22px;
+    display: inline-block;
+    position: relative;
+    top: 1px;
+    color:#ffffff;
+    font: normal normal normal 14px/1 font-awesome;
+    font-size: 14px;
+    font-size: 21px;
+    margin: -1px 12px 0 -21px;
+    margin-left: -21px;
+    vertical-align: top;
+}
+.location__phone{
+    margin-bottom:0px!important;
+}
+@media(max-width:767px){
+  .logo__image{
+    display:block!important;
+    float:none!important;
+    margin:0 auto!important;
+  }
+  .wrap__logoHeader .logo{
+    max-width:100%!important;
+  }
+  .logo__summary{
       text-align:center!important;
   }
-  .day__name{
-      margin: 0 !important;
-      padding: 9px 23px 9px 19px !important;
-  }
-  .day__time{
-      padding-top:0!important;
-  }
-  .day__time, .day__time--closed{
-      margin-bottom:0px!important;
-  }
-  @media(min-width:1200px){
-    .location p, .location a{
-      color:black;
+  .slider__item.slider__image{
+      background-position:30%!important;
     }
   }
-  @media(max-width:767px){
-    .home-layout.home .wrap__header{
-      position:relative!important;
-      margin-bottom: 155px!important;
-    }
-  }
-
-
-
-
-
-
-==========================================================================================================================
-  /* LOLA FIX */
-.wrap__logoHeader .logo{
-    max-width:150px;
-}
-.logo__image{
-    max-height:150px;
-    height:150px;
-    min-height:100px;
-}
 @media(max-width:767px){
   .logo__image{
     display:block!important;
@@ -299,7 +824,7 @@ body:after{
   }
 }
 
-==========================================================================================================================
+=====================================================================================================
 /* CLEAR VIEW FIX */
 .wrap__locationsHeader .locations{
     max-width:515px!important;
@@ -309,13 +834,22 @@ body:after{
     overflow:visible!important;
 }
 .wrap__locationsHeader .location > p, .wrap__locationsHeader .location > p a{
-    display:block!important;
+    display:block;
 }
 .wrap__locationsHeader .locations__title:after{
     display:none!important;
 }
 .location__address{
     margin-bottom:0px!important;
+}
+.wrap__image{
+    display:none!important;
+}
+.edit__container{
+    width:100%!important;
+}
+.location__phone{
+    max-width:100%!important;
 }
 
 @media(max-width:1024px){
@@ -329,6 +863,31 @@ body:after{
   .locations__title, .location__name{
       white-space:pre-wrap;
   }
+    .logo__link.logo__left{
+        display:block!important;
+    }
+    .wrap__locationsHeader .location .location__email{
+        display: block;
+        max-width: none !important;
+        overflow: hidden;
+        text-overflow: unset
+    }
+}
+@media(max-width:767px){
+    .logo__link.logo__left, .logo__title{
+        text-align:center!important;
+    }
+    .location__name, .location__address, .location__city-state-zip, .location__phone:before, .wrap__locationsHeader .location .location__email{
+        display:none!important;
+    }
+    .location__phone{
+        font-size: 16px!important;
+        line-height: unset !important;
+        padding:12px!important;
+    }
+    .location__phone a{
+        padding:7px!important;
+    }
 }
 @media(max-width:480px){
   .location__phone{
@@ -338,15 +897,35 @@ body:after{
       width:100%!important;
       padding-top:0px!important;
   }
-}
 
-==========================================================================================================================
-/* ISABELLA fix */
-.logo__link{
-    display:table;
+  .logo__summary{
+      min-width:285px!important;
+  }
+  .location{
+      width:100%!important;
+  }
+  .location__phone{
+      width:15%!important;
+  }
+  .logo__image{
+      margin:unset!important;
+  }
 }
-==========================================================================================================================
-/* ANJALI CONTACT US PAGE -> REQUEST APPOINTMENT FIX */
+/* end */
+
+=====================================================================================================
+/* ISABELLA FIX */
+.logo__link{
+    display:table!important;
+}
+.logo__title{
+    margin-bottom:0px!important;
+}
+.wrap__logo .logo__title{
+    white-space:unset!important;
+}
+/* end */
+=================================================================================================================///* ANJALI CONTACT US PAGE -> REQUEST APPOINTMENT FIX */
 <script>
 setInterval(function(){
     var x = $('.classinit').attr('class');
@@ -361,8 +940,7 @@ setInterval(function(){
 },500);
 </script>
 
-==========================================================================================================================
-
+=================================================================================================================
 /* OLIVIA FIX */
 .wrap__header .location__phone a:before{
     transform:none!important;
@@ -387,8 +965,22 @@ setInterval(function(){
 .socials__holder:before, .location__holder:before, .phone__holder:before{
     transform:translateY(-75%);
 }
-==========================================================================================================================
-
+.leadFormInfo{
+    margin-top:40px!important;
+}
+.day__time{
+  width:100%;
+}
+@media(max-width:1200px){
+    .logo__description{
+        display:block!important;
+    }
+}
+/* END OLIVIA FIX */
+=====================================================================================================
+/* OBJECT SWF FILES */
+<object type="application/x-shockwave-flash" data="https://my.onlinechiro.com/0041703/storage/app/media/VideoPlayer.swf" width="502" height="306" id="videoplayer-content-5174551" style="visibility: visible;"><param name="salign" value="T"><param name="wmode" value="transparent"><param name="width" value="502"><param name="height" value="306"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="sameDomain"><param name="scale" value="noscale"><param name="flashvars" value="xml=https://preview.onlinechiro.com/8116/xml/getVideos.cfm?id_content=5174551"></object>
+=====================================================================================================
 /* add modal to css*/
 #newsletterModal{
     display:none;
@@ -424,6 +1016,12 @@ _cHiLLsPaRkzZz_ =( ^_- )= -eL_BiMbz-
 
 /********************************************/
 /* SAPPHIRE ICE WHITE FIX */
+
+
+
+
+
+
 /* theme fixes for white */
 body, p, span, div, li{
     color:black!important;
@@ -501,7 +1099,7 @@ label{
         border-bottom: transparent!important
     }
 }
-/* REFRESHED MIGRATION FIX SAPPHIRE ICE */
+/* END */
 
 
 ==========================================================================================================================
@@ -544,7 +1142,7 @@ np(XqYtX5lW#%@Mc1GXP
 
 ==========================================================================================================================
 /********************************************/
-/* QUIN FIX */
+/* QUINN FIX */
 /********************************************/
 .wrap__logo .logo, .wrap__footer .logo, .logo__inner .logo{
     display: flex;
@@ -567,11 +1165,31 @@ np(XqYtX5lW#%@Mc1GXP
 .gallery-item--image.scale{
   float:none;
 }
+.slot img{
+    float:none;
+    margin: 0 auto;
+    display: block;
+}
 .logo{
   width:auto;
 }
 /********************************************/
 
+/* CONTACT US PAGE */
+<script>
+setInterval(function(){
+    var x = $('.classinit').attr('class');
+    if (x === undefined){
+    	//$( append script here)
+
+    $('.form_appointment__container--inner.form__container--inner').insertAfter('.form_contact__container--inner.form__container--inner.active-component .form').addClass('classinit');
+    	console.log(x);
+    }
+    else {
+        return;
+    }
+},500);
+</script>
 
 ==========================================================================================================================
 
@@ -638,86 +1256,132 @@ $(content).each(function(){
 
 
 ==========================================================================================================================
+
 /* CSS on CHOCOLATE FIX */
 
 .wrap__page-content{
-    width:100%!important;
+  width:100%!important;
+}
+.logo__image{
+    max-height:200px!important;
+}
+@media(max-width:767px){
+    .logo__link.logo__left{
+        text-align:center!important;
+        display:block!important;
+    }
+    .logo__image{
+        float:unset!important;
+        margin-right:0px!important;
+    }
+    .wrap__logo__header{
+        padding:15px 0 0px!important;
+    }
 }
 @media(max-width:1199px){
-  .wrap__gallery_home .flexone{
-    display:inline-block;
-    flex:unset;
-  }
+    .wrap__gallery_home .flexone{
+      display:inline-block;
+      flex:unset;
+    }
 }
 @media(max-width:667px){
-.textvert{
-      line-height:0;
+  .textvert{
+    line-height:0;
+  }
+  .wrap__gallery_home .flexone{
+      display:block;
+      text-align:center;
+  }
+  .wrap__gallery_home .wrap__container img{
+      float:right!important;
   }
 }
-
-<!-- /********************************************/
-/* CHOCOLATE GALLERY FEATURED BLOCK */
-/********************************************/ -->
-<div class="dflex">
-  <div class="flexone">
-    <a href="services">
-      <div class="textvert dinline">ADJUSTMENTS</div>
-      <div class="dinline"><img src="https://my.onlinechiro.com/0036868/storage/app/media/_clientGalleryhm/gallery_1.jpg" alt=""></div>
-    </a>
-  </div>
-  <div class="flexone">
-    <a href="services">
-      <div class="textvert dinline">WELLNESS</div>
-      <div class="dinline"><img src="https://my.onlinechiro.com/0036868/storage/app/media/_clientGalleryhm/gallery_2.jpg" alt=""></div>
-    </a>
-  </div>
-  <div class="flexone">
-    <a href="services">
-      <div class="textvert dinline">PREVENTIVE</div>
-      <div class="dinline"><img src="https://my.onlinechiro.com/0036868/storage/app/media/_clientGalleryhm/gallery_3.jpg" alt=""></div>
-    </a>
-  </div>
-  <div class="flexone">
-    <a href="services">
-      <div class="textvert dinline">SPINE CARE</div>
-      <div class="dinline"><img src="https://my.onlinechiro.com/0036868/storage/app/media/_clientGalleryhm/gallery_4.jpg" alt=""></div>
-    </a>
-  </div>
-
-</div>
-<style media="screen">
-  .textvert{
-    color: #DDC4A2;
-    font-family: "lato-light","Arial Black",Arial,Helvetica,sans-serif;
-    text-transform: uppercase;
-    font-size: 45px;
-    -ms-transform: rotate(-90deg);
-    transform: rotate(-90deg);
-    -ms-transform-origin: left top 0;
-    transform-origin: left top 0;
-    letter-spacing: 2px;
-    padding: 13px 20px;
-    line-height: 1;
-    position: absolute;
-    left: 0;
-    top: 100%;
-    white-space: nowrap;
-  }
-  .textvert.dinline{
-    margin-left: 1px;
-  }
-  .dinline{
-    display:inline-block;
-  }
+@media(max-width:480px){
   .dinline img{
-    max-width:75%;
-    min-width:75%;
     float:right;
   }
-  .dflex a{
-    position:relative;
-  }
-</style>
+}
+@media(max-width:1100px) and (min-width:768px){
+    .textvert.dinline{
+        font-size:3.5vw!important;
+    }
+}
+/* override */
+.location__fax a{
+    display: block;float: none;text-align: right;
+}
+.location{
+    display: block;text-align: right;
+}
+.location__phone{
+    margin:0px!important;
+}
+.location__phone a{
+    margin-bottom:12px!important;
+}
+<!-- /********************************************/
+                /* CHOCOLATE GALLERY FEATURED BLOCK */
+                /********************************************/ -->
+                <div class="dflex">
+                  <div class="flexone">
+                    <a href="services">
+                      <div class="textvert dinline">ADJUSTMENTS</div>
+                      <div class="dinline"><img src="https://cdcssl.ibsrv.net/ibimg/smb/317x592_80/webmgr/_demosites/baystonechiro/chiropractic/general/chocolate-layers/releases/2019-11-08_23-14-36/chocolate-layers/gallery_1.jpg" alt=""></div>
+                    </a>
+                  </div>
+                  <div class="flexone">
+                    <a href="services">
+                      <div class="textvert dinline">WELLNESS</div>
+                      <div class="dinline"><img src="https://cdcssl.ibsrv.net/ibimg/smb/317x592_80/webmgr/_demosites/baystonechiro/chiropractic/general/chocolate-layers/releases/2019-11-08_23-14-36/chocolate-layers/gallery_2.jpg" alt=""></div>
+                    </a>
+                  </div>
+                  <div class="flexone">
+                    <a href="services">
+                      <div class="textvert dinline">PREVENTIVE</div>
+                      <div class="dinline"><img src="https://cdcssl.ibsrv.net/ibimg/smb/317x592_80/webmgr/_demosites/baystonechiro/chiropractic/general/chocolate-layers/releases/2019-11-08_23-14-36/chocolate-layers/gallery_3.jpg" alt=""></div>
+                    </a>
+                  </div>
+                  <div class="flexone">
+                    <a href="services">
+                      <div class="textvert dinline">SPINE CARE</div>
+                      <div class="dinline"><img src="https://cdcssl.ibsrv.net/ibimg/smb/317x592_80/webmgr/_demosites/baystonechiro/chiropractic/general/chocolate-layers/releases/2019-11-08_23-14-36/chocolate-layers/gallery_4.jpg" alt=""></div>
+                    </a>
+                  </div>
+
+                </div>
+                <style media="screen">
+                  .textvert{
+                    color: #DDC4A2;
+                    font-family: "lato-light","Arial Black",Arial,Helvetica,sans-serif;
+                    text-transform: uppercase;
+                    font-size: 45px;
+                    -ms-transform: rotate(-90deg);
+                    transform: rotate(-90deg);
+                    -ms-transform-origin: left top 0;
+                    transform-origin: left top 0;
+                    letter-spacing: 2px;
+                    padding: 13px 20px;
+                    line-height: 1;
+                    position: absolute;
+                    left: 0;
+                    top: 100%;
+                    white-space: nowrap;
+                  }
+                  .textvert.dinline{
+                    margin-left: 1px;
+                  }
+                  .dinline{
+                    display:inline-block;
+                  }
+                  .dinline img{
+                    max-width:75%;
+                    min-width:75%;
+                    float:right;
+                  }
+                  .dflex a{
+                    position:relative;
+                  }
+                </style>
 
 ==========================================================================================================================
 
