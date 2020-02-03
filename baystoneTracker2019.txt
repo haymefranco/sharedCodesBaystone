@@ -1,9 +1,115 @@
-Theme:
 Case #:
 Site:
 Portal:
-28-January-2020
+2-February-2020
 /********************************************/
+Case #:
+Site:
+Portal:
+2-February-2020
+/********************************************/
+Case #:
+Site:
+Portal:
+2-February-2020
+/********************************************/
+Case #: 03823086
+Site: https://washingtonpachiro.com/
+Portal: https://my.onlinechiro.com/0046532/site/editor/cms
+2-February-2020
+/********************************************/
+Case #: 03794422
+Site: https://www.drgitto.com/
+Portal: https://my.onlinechiro.com/0007044/site/editor/cms
+2-February-2020
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03772048
+Site: https://northbayfootandankle.com/
+Portal: https://my.onlinepodiatrysites.com/0043298/site/editor/cms
+31-January-2020
+/********************************************/
+Case #: 03784663
+Site: https://www.mccenterinc.com/
+Portal: https://my.onlinechiro.com/0044488/site/editor/cms
+31-January-2020
+/********************************************/
+Case #: 03785011
+Site: https://www.haquechiropractic.com/
+Portal: https://my.onlinechiro.com/0007600/site/editor/cms
+31-January-2020
+/********************************************/
+Case #: 03783166
+Site: https://www.polarischiropractors.com/
+Portal: https://my.onlinechiro.com/0007785/site/editor/cms
+31-January-2020
+/********************************************/
+Case #: 03779418
+Site: https://www.chippewachiropracticclinic.com/
+Portal: https://my.onlinechiro.com/0007545/site/editor/cms
+31-January-2020
+/********************************************/
+Case #: 03779325
+Site: https://www.hjortchiropractic.com/
+Portal: https://my.onlinechiro.com/0001568/site/editor/cms
+31-January-2020
+/********************************************/
+Case #: 03779164
+Site: https://www.thehoustonchiropractor.com/
+Portal: https://my.onlinechiro.com/0012491/site/editor/cms
+31-January-2020
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03781403
+Site: https://www.georgetownctchiro.com/
+Portal: https://my.onlinechiro.com/0005454/site/editor/cms
+30-January-2020
+/********************************************/
+Case #: 03779414
+Site: https://www.parkwayfamilychiropractic.com/
+Portal: https://my.onlinechiro.com/0007316/site/editor/cms
+30-January-2020
+/********************************************/
+Case #: 03713499
+Site: https://www.drspatzfootcare.com/
+Portal: https://my.onlinepodiatrysites.com/0045531/site/editor/cms
+30-January-2020
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03776627
+Site: https://northbayfootandankle.com/
+Portal: https://my.onlinepodiatrysites.com/0043298/site/editor/cms
+29-January-2020
+/********************************************/
+Theme:
+Case #: 03778749
+Site: https://www.cornerstonechiropracticcenter.com/
+Portal: https://my.onlinechiro.com/0001739/site/editor/cms
+29-January-2020
+/********************************************/
+Theme:
+Case #: 03778912
+Site: https://www.bertchiropractic.com/
+Portal: https://my.onlinechiro.com/0046384/site/editor/cms
+29-January-2020
+/********************************************/
+Theme:
+Case #: 03778705
+Site: https://www.drleehsinfang.com/
+Portal: https://my.onlinepodiatrysites.com/0000473/site/editor/cms
+29-January-2020
+/********************************************/
+Theme: Betty Blue
+Case #: 03767190
+Site: http://www.clearlakevet.com/
+Portal: https://my.onlinechiro.com/0045739/site/editor/cms
+29-January-2020
+/********************************************/
+/********************************************************************/
+/********************************************************************/
 Theme:
 Case #:  03711860
 Site: https://www.butlerfootcare.com/

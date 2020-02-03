@@ -122,7 +122,28 @@
 /* Custom FIX migration End */
 
 
-
+=====================================================================================================
+/* FLEX FIT */
+@media(min-width:768px){
+  .dflex{
+    display:flex;
+  }
+  .flexone{
+    flex:1;
+    padding:10px;
+  }
+  .flextwo{
+    flex:2;
+    padding:10px;
+  }
+}
+@media(max-width:767px){
+    .flexone, .flextwo{
+        /* border-bottom: 1px solid; */
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+    }
+}
 =====================================================================================================
 cst.jsnormal{
 
@@ -770,7 +791,7 @@ p.location__city-state-zip{
     margin-bottom: 155px!important;
   }
 }
-
+/* BETTY FIX END */
 =====================================================================================================
 /* LOLA FIX */
 
@@ -925,7 +946,16 @@ p.location__city-state-zip{
     white-space:unset!important;
 }
 /* end */
-=================================================================================================================///* ANJALI CONTACT US PAGE -> REQUEST APPOINTMENT FIX */
+=====================================================================================================
+/* ANJALI FIX START*/
+.form-wrap__submit{
+    margin:0 auto!important;
+}
+footer .cta__title, footer .cta__description{
+    color:white!important;
+}
+/* ANJALI FIX END*/
+/* ANJALI CONTACT US PAGE -> REQUEST APPOINTMENT FIX */
 <script>
 setInterval(function(){
     var x = $('.classinit').attr('class');
@@ -940,7 +970,7 @@ setInterval(function(){
 },500);
 </script>
 
-=================================================================================================================
+=====================================================================================================
 /* OLIVIA FIX */
 .wrap__header .location__phone a:before{
     transform:none!important;
