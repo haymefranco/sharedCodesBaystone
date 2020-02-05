@@ -1,27 +1,74 @@
 Case #:
 Site:
 Portal:
-2-February-2020
+4-February-2020
 /********************************************/
 Case #:
 Site:
 Portal:
-2-February-2020
+4-February-2020
 /********************************************/
 Case #:
 Site:
 Portal:
-2-February-2020
+4-February-2020
+/********************************************/
+Case #: 03781403
+Site: https://www.georgetownctchiro.com/
+Portal: https://my.onlinechiro.com/0005454/site/editor/cms
+4-February-2020
+/********************************************/
+Case #: 03832411
+Site: https://www.drchapple.com/
+Portal: https://my.onlinechiro.com/0002743/site/editor/cms
+4-February-2020
+/********************************************/
+Case #: 03824972
+Site: https://www.footandanklemn.com/
+Portal: https://my.onlinepodiatrysites.com/0045437/site/editor/cms
+4-February-2020
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03779576
+Site: https://www.insteppodiatrycenter.com/
+Portal: https://my.onlinepodiatrysites.com/0043843/site/editor/cms#
+3-February-2020
+/********************************************/
+Case #: 03779298
+Site: https://www.concordfeet.com/
+Portal: https://my.onlinepodiatrysites.com/0036230/site/editor/cms
+3-February-2020
+/********************************************/
+Case #: 03825473
+Site: https://www.goldbergwellness.com/
+Portal: https://my.onlinechiro.com/0030273/site/editor/cms
+3-February-2020
+/********************************************/
+Case #: 03825007
+Site: https://www.kingenchiropractic.com/
+Portal: https://my.onlinechiro.com/0046494/site/editor/cms
+3-February-2020
+/********************************************/
+Case #: 03823784
+Site: https://www.rabechiropractic.com/
+Portal: https://my.onlinechiro.com/0044390/site/editor/cms
+3-February-2020
+/********************************************/
+Case #: 03782345
+Site: https://www.podiatryinthepines.com/
+Portal: https://my.onlinepodiatrysites.com/0011331/site/editor/cms
+3-February-2020
 /********************************************/
 Case #: 03823086
 Site: https://washingtonpachiro.com/
 Portal: https://my.onlinechiro.com/0046532/site/editor/cms
-2-February-2020
+3-February-2020
 /********************************************/
 Case #: 03794422
 Site: https://www.drgitto.com/
 Portal: https://my.onlinechiro.com/0007044/site/editor/cms
-2-February-2020
+3-February-2020
 /********************************************/
 /********************************************************************/
 /********************************************************************/

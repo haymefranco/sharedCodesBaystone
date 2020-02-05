@@ -486,8 +486,25 @@ cst.Opt.js{
 
 
 
+=====================================================================================================
+/* SCRIPT FOR PUP-UP or MODAL */
+// FEB 2020 UPDATE BACKUP CODE
+// $('body').append('<div id="ac-wrapper"><center><div id="popup"><a href="contact-us"><img src="https://my.onlinechiro.com/0005454/storage/app/media/send_an_email.jpg" style="width:1080px; height: auto;border: solid 3px #0b5da6;" border="0" alt="Click here"></a></div><    /center></div>');
 
+$(document).ready(function($){
+    if (sessionStorage.getItem('ac-wrapper') !== 'true') {
+        $('body').append('<div class="cstEnclsr"><div id="ac-wrapper"></div><center style="position: fixed;height: auto;z-index: 1002;transform: translateY(-50%);width: 100%;top: 50%;"><div id="popup"><div class="eksbtn" style="position: relative;"><span aria-hidden="true" class="socialmedia__link icon icon-times" style="position: absolute;z-index: 1003;margin-top: 20px;right: 20%;"></span></div><div class="aphere"></div></center></div>');
+        $('#newslettersignup').appendTo('.aphere');
+        sessionStorage.setItem('ac-wrapper','true');
+    }
 
+    $('#ac-wrapper, .eksbtn').on('click',function(){
+        $('#newslettersignup').insertAfter('.page-content');
+        $('#ac-wrapper, .aphere, .eksbtn').hide();
+    });
+
+});
+// FEB 2020 UPDATE END
 =====================================================================================================
 /* Custom FIX End */
 /* EVE FIX */
