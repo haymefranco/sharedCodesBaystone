@@ -1,16 +1,57 @@
 Case #:
 Site:
 Portal:
+5-February-2020
+/********************************************/
+Case #: 03833311
+Site: https://www.carolinahealthsolutions.com/
+Portal: https://my.onlinechiro.com/0010114/site/editor/cms
+5-February-2020
+Added Links to Newsletter
+/********************************************/
+Case #: 03833379
+Site: https://valleycenterchiropractic.com/
+Portal: https://my.onlinechiro.com/0034140/site/editor/cms
+5-February-2020
+Done Newsletter and Blog Page update.
+/********************************************/
+Case #: 03833299
+Site: https://www.carolinahealthsolutions.com/
+Portal: https://my.onlinechiro.com/0010114/site/editor/cms
+5-February-2020
+Newsletter Updated.
+/********************************************/
+Case #: 03832712
+Site: https://www.kingenchiropractic.com/
+Portal: https://my.onlinechiro.com/0046494/site/editor/cms
+5-February-2020
+/********************************************/
+Case #: 03833198
+Site: https://www.drchapple.com/
+Portal: https://my.onlinechiro.com/0002743/site/editor/cms
+5-February-2020
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03832695
+Site: https://www.kingenchiropractic.com/
+Portal: https://my.onlinechiro.com/0046494/site/editor/cms
 4-February-2020
 /********************************************/
-Case #:
-Site:
-Portal:
+Case #: 03832661
+Site: https://www.kingenchiropractic.com/
+Portal: https://my.onlinechiro.com/0046494/site/editor/cms
 4-February-2020
 /********************************************/
-Case #:
-Site:
-Portal:
+Case #: 03832639
+Site: https://www.kingenchiropractic.com/
+Portal: https://my.onlinechiro.com/0046494/site/editor/cms
+4-February-2020
+/********************************************/
+Case #: 03832682
+Site: https://concussionpdx.com/
+Portal: https://my.onlinechiro.com/0046138/site/editor/cms
+-Added Google Code to ConcussionPDX.com Tag Manager
 4-February-2020
 /********************************************/
 Case #: 03781403
