@@ -1,8 +1,252 @@
 Case #:
 Site:
 Portal:
-5-February-2020
+13-February-2020
+
 /********************************************/
+Case #:
+Site:
+Portal:
+13-February-2020
+
+/********************************************/
+Case #:
+Site:
+Portal:
+13-February-2020
+
+/********************************************/
+Case #:
+Site:
+Portal:
+13-February-2020
+
+/********************************************/
+Case #:
+Site:
+Portal:
+13-February-2020
+
+/********************************************/
+Case #:
+Site:
+Portal:
+13-February-2020
+
+/********************************************/
+Case #: 03835536 https://officite.my.salesforce.com/5003x00001yAxKh
+Site:  http://www.truwellnesscenter.com/
+Portal: https://my.onlinechiro.com/0045187/site/editor/cms
+13-February-2020
+Updated Global Phone number
+Fixed bugs on some pages.
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03836098 https://officite.my.salesforce.com/5003x00001yAzqN
+Site: https://www.tottyclinic.com/
+Portal: https://my.onlinechiro.com/0046290/site/editor/cms
+12-February-2020
+Fixed Social Media icons.
+/********************************************/
+Case #: 03836624 https://officite.my.salesforce.com/5003x00001yB2J4
+Site: https://www.staywellcp.com/
+Portal: https://my.onlinechiro.com/0029942/site/editor/cms
+12-February-2020
+Added google link back
+/********************************************/
+Case #: 03835515 https://officite.my.salesforce.com/5003x00001yAxHO
+Site: https://www.apmr3.com/
+Portal: https://my.onlinechiro.com/0017970/site/editor/cms
+12-February-2020
+Fixed error on iFrame not loading
+/********************************************/
+Case #: 03836085 https://officite.my.salesforce.com/5003x00001yAzo2
+Site: https://www.drtchiropractor.com/
+Portal: https://my.onlinechiro.com/0034145/site/editor/cms
+12-February-2020
+Done. Changed Adam's pic.
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03834424
+Site: https://www.greatermcdonoughchiro.com/
+Portal: https://my.onlinechiro.com/0043507/site/editor/cms
+11-February-2020
+Added extra css fix for images
+/********************************************/
+Case #: 03835536 https://officite.my.salesforce.com/5003x00001yAxKh
+Site:  http://www.truwellnesscenter.com/
+Portal: https://my.onlinechiro.com/0045187/site/editor/cms
+11-February-2020
+Theme Change to Chocolate Layers
+Done.
+NOTE: Nutrition is already made already (Services > Nutrition)
+NOTE: I also added their custom background to the home page.
+NOTE: Since we added their Fax, I minimized the font size of Phone number for it to fit all the numbers
+/********************************************/
+Case #: 03835628
+Site: https://www.completehealthandrehab.com/
+Portal: https://my.onlinechiro.com/0026817/site/editor/cms
+11-February-2020
+Added employee to Manage Staff tab.
+NOTE: lacking information (Last Name, Forward Email, and Recovery email).
+NOTE: I cannot add emails on this, it is just not possible in my end, rather I added it to Manage Staff tab with a password set to (P@ssw0rd) and Last name of (Carla).
+/********************************************/
+Case #: 03834357 https://officite.my.salesforce.com/5003x00001yAsWP
+Site: https://chiropluswellnesscenter.com/
+Portal: https://my.onlinechiro.com/0012969/site/editor/cms
+11-February-2020
+Done
+/********************************************/
+Case #: 03834187 https://officite.my.salesforce.com/5003x00001yAroy
+Site: https://www.crossroadschiroal.com/
+Portal: https://my.onlinechiro.com/0045434/site/editor/cms
+11-February-2020
+Updated the Page
+/********************************************/
+Case #: 03835757 https://officite.my.salesforce.com/5003x00001yAy9g
+Site: https://www.whiteoakschiropractic.ca/
+Portal: https://my.onlinechiro.com/0009583/site/editor/cms
+11-February-2020
+/********************************************/
+Case #: 03835747 https://officite.my.salesforce.com/5003x00001yAy6w
+Site: https://www.staywellcp.com/
+Portal: https://my.onlinechiro.com/0029942/site/editor/cms
+11-February-2020
+Updated site
+/********************************************/
+Case #: 03835608 https://officite.my.salesforce.com/5003x00001yAxZS?srPos=0&srKp=500
+Site: https://www.livermorechiro.com
+Portal: https://my.onlinechiro.com/0043663/site/editor/cms/
+11-February-2020
+Done. Updated Forms.
+NOTE: There are 3 redundant forms, I think the doctor would like it to be redundant.
+/********************************************/
+Case #: 03834521 https://officite.my.salesforce.com/5003x00001yAtSn
+Site: https://www.footandanklemn.com/
+Portal: https://my.onlinepodiatrysites.com/0045437/site/editor/cms
+11-February-2020
+Note: New Tabs on Common Foot Conditions are aranged alphabetically. New pages are made "Surgery" and "Orthotics"
+/********************************************/
+Case #: 03834218 https://officite.my.salesforce.com/5003x00001yArxb
+Site: https://www.concussionpdx.com/
+Portal: https://my.onlinechiro.com/0046138/site/editor/cms
+11-February-2020
+Updated header and slider.
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03835109
+Site: https://www.posturevitality.com/
+Portal: https://my.onlinechiro.com/0028729/site/editor/cms
+10-February-2020
+Done Updates
+/********************************************/
+Case #: 03834836 https://officite.my.salesforce.com/5003x00001yAuGW
+Site: https://www.backintomotionchiro.com/
+Portal: https://my.onlinechiro.com/0003165/site/editor/cms
+10-February-2020
+Updated Newsletter Pages.
+/********************************************/
+Case #: 03834374 https://officite.my.salesforce.com/5003x00001yAsoO
+Site: https://www.greatermcdonoughchiro.com/
+Portal: https://my.onlinechiro.com/0043507/site/editor/cms
+10-February-2020
+Added to Testimonials Page.
+/********************************************/
+Case #: 03834373 https://officite.my.salesforce.com/5003x00001yAsoE
+Site: https://www.greatermcdonoughchiro.com/
+Portal: https://my.onlinechiro.com/0043507/site/editor/cms
+10-February-2020
+Added to Testimonials Page.
+/********************************************/
+Case #: 03834065 https://officite.my.salesforce.com/5003x00001yArKj
+Site: https://www.drjaversak.com/
+Portal: https://my.onlinechiro.com/0043549/site/editor/cms
+Lily - Denim
+10-February-2020
+Migration Complete
+/********************************************/
+Case #: 03833513 https://officite.my.salesforce.com/5003x00001yAp91
+Site: https://www.concussionpdx.com/
+Portal: https://my.onlinechiro.com/0046138/site/editor/cms
+10-February-2020
+NOTE: Added Doctible Widget from https://www.medicalthermographynw.com/
+
+NOTE: This might not be the correct widget code I got from his other site https://www.medicalthermographynw.com/.
+
+Concussionpdx.com does not have a Doctible Widget code for it's testimonials page. If this doctible widget differs from medicalthermographynw.com, Please provide the code to be used for this.
+
+PREVIEW: https://my.onlinechiro.com/0046138
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03833855 https://officite.my.salesforce.com/5003x00001yAqEB
+Site: https://www.drjoechiro.com/
+Portal: https://my.onlinechiro.com/0037031/site/editor/cms
+Done Added Latest review to Slider.
+7-February-2020
+/********************************************/
+Case #: 03833081
+Site: https://www.docmarks.com/
+Portal: https://my.onlinechiro.com/0006535/site/editor/cms
+7-February-2020
+/********************************************/
+Case #: 03834154
+Site: https://elitedme.com/
+Portal: https://my.onlinechiro.com/0046290/site/editor/cms
+7-February-2020
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03833988
+Site: https://valleycenterchiropractic.com/
+Portal: https://my.onlinechiro.com/0034140/site/editor/cms
+6-February-2020
+/********************************************/
+Case #: 03833988
+Site: https://valleycenterchiropractic.com/
+Portal: https://my.onlinechiro.com/0034140/site/editor/cms
+Fixed Title on article.
+6-February-2020
+/********************************************/
+Case #: 03833978
+Site: https://drbryanv.com/
+Portal: https://my.onlinechiro.com/0044309/site/editor/cms
+6-February-2020
+/********************************************/
+Case #: 03834038
+Site: https://www.tottyclinic.com/
+Portal: https://my.onlinechiro.com/0046290/site/editor/cms
+Added Script to head
+Added Instagram link on header
+6-February-2020
+/********************************************/
+Case #: 03834074
+Site: https://my.onlinechiro.com/0029331/site/editor/cms
+Portal: https://www.townsendharborchiropractic.com/
+Updated Welcome Forms
+6-February-2020
+/********************************************/
+Case #: 03834044
+Site: https://www.tottyclinic.com/
+Portal: https://my.onlinechiro.com/0046290/site/editor/cms
+6-February-2020
+/********************************************/
+Case #: 03834006
+Site: http://www.paportochiropractic.com/
+Portal: https://my.onlinechiro.com/0046870/site/editor/cms
+6-February-2020
+UNDONE
+/********************************************/
+Case #: 03833313
+Site: https://www.townsendharborchiropractic.com/
+Portal: https://my.onlinechiro.com/0029331/site/editor/cms
+6-February-2020
+/********************************************/
+/********************************************************************/
+/********************************************************************/
 Case #: 03833311
 Site: https://www.carolinahealthsolutions.com/
 Portal: https://my.onlinechiro.com/0010114/site/editor/cms

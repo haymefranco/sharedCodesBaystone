@@ -486,6 +486,28 @@ cst.Opt.js{
 
 
 
+
+
+
+
+=====================================================================================================
+Text:
+
+< p class = "textcontent" >
+     Here some text replace me
+     < br > here an other text
+     < br > here is more text
+< /p>
+
+JS:
+
+$('.textcontent').each(function() {
+
+   var text = $(this).html();
+   $(this).html(text.replace('replace me', 'I love this text'));
+
+});
+
 =====================================================================================================
 /* SCRIPT FOR PUP-UP or MODAL */
 // FEB 2020 UPDATE BACKUP CODE
