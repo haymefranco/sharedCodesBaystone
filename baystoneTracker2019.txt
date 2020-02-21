@@ -1,36 +1,255 @@
 Case #:
 Site:
 Portal:
+21-February-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03840764 https://officite.my.salesforce.com/5003x00001yBK7k
+Site: https://www.sigillochiropractic.com/
+Portal: https://my.onlinechiro.com/0005469/site/editor/cms
+21-February-2020
+
+/********************************************/
+Case #: 03840774 https://officite.my.salesforce.com/5003x00001yBK9M
+Site: https://www.cascadeschiro.com/
+Portal: https://my.onlinechiro.com/0008890/site/editor/cms
+21-February-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03840748 https://officite.my.salesforce.com/5003x00001yBK5F
+Site: http://www.centerstchiro.com/
+Portal: https://my.onlinechiro.com/0041757/site/editor/cms
+20-February-2020
+
+/********************************************/
+Case #: 03840255 https://officite.my.salesforce.com/5003x00001yBITI
+Site: https://my.onlinechiro.com/0016557/site/editor/cms
+Portal: https://drummondchiropractic.com/
+20-February-2020
+
+/********************************************/
+Case #: 03840126 https://officite.my.salesforce.com/5003x00001yBHZn
+Site: https://www.williamschiropractictn.com/
+Portal: https://my.onlinechiro.com/0045024/site/editor/cms
+20-February-2020
+
+/********************************************/
+Case #: 03834006 https://officite.my.salesforce.com/5003x00001yAr5e
+Site: http://www.paportochiropractic.com/
+Portal: https://my.onlinechiro.com/0046870/site/editor/cms
+20-February-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03838203 https://officite.my.salesforce.com/5003x00001yB8PE
+Site: https://www.mygallatinchiropractor.com/
+Portal: https://my.onlinechiro.com/0005624/site/editor/cms
+19-February-2020
+
+/********************************************/
+Case #: 03840013 https://officite.my.salesforce.com/5003x00001yBHDe
+Site: https://www.levittchiropractic.com/
+Portal: https://my.onlinechiro.com/0005624/site/editor/cms
+19-February-2020
+Checked site for errors
+/********************************************/
+Case #: 03840162 https://officite.my.salesforce.com/5003x00001yBHhr
+Site: https://www.scalpodiatry.com/
+Portal: https://my.onlinepodiatrysites.com/0013348/site/editor/cms
+19-February-2020
+Added Educ Vids
+/********************************************/
+Case #: 03839852 https://officite.my.salesforce.com/5003x00001yBGiY
+Site: https://www.drwarrensilver.com/
+Portal: https://my.onlinechiro.com/0032344/site/editor/cms
+19-February-2020
+Added Facebook Pixel script
+/********************************************/
+Case #: 03840129 https://officite.my.salesforce.com/5003x00001yBHa3
+Site: https://www.drkatzchiro.com/
+Portal: https://my.onlinechiro.com/0005472/site/editor/cms
+19-February-2020
+Done added second location
+/********************************************/
+Case #: 03839936 https://officite.my.salesforce.com/5003x00001yBGy5
+Site: https://adkorerehab.com/
+Portal: https://my.onlinechiro.com/0045491/site/editor/cms
+19-February-2020
+Moved Form Body & hours to Feat Blocks
+/********************************************/
+Case #: 03836907 https://officite.my.salesforce.com/5003x00001yB3AX
+Site: https://www.community-chiropractic.com/
+Portal: https://my.onlinechiro.com/0035623/site/editor/cms
+19-February-2020
+done. added new details
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03839468 https://officite.my.salesforce.com/5003x00001yBEml
+Site: https://www.loganhealthcenters.com/
+Portal: https://my.onlinechiro.com/0023034/site/editor/cms
+18-February-2020
+
+/********************************************/
+Case #: 03839161 https://officite.my.salesforce.com/5003x00001yBDft
+Site: https://www.goldbergwellness.com/
+Portal: https://my.onlinechiro.com/0030273/site/editor/cms
+18-February-2020
+Added new blog
+/********************************************/
+Case #: 03839431 https://officite.my.salesforce.com/5003x00001yBEcq
+Site: https://www.williamschiropractictn.com/
+Portal: https://my.onlinechiro.com/0045024/site/editor/cms
+18-February-2020
+Changed theme to chocolate layers
+/********************************************/
+Case #: 03839074 https://officite.my.salesforce.com/5003x00001yBDLj
+Site: https://www.affinityfamilychiro.com/
+Portal: https://my.onlinechiro.com/0044984/site/editor/cms
+18-February-2020
+Updated Account Details
+/********************************************/
+Case #: 03838969 https://officite.my.salesforce.com/5003x00001yBD1Z
+Site: http://ccaevergreen.com/
+Portal: https://my.onlinechiro.com/0046516/site/editor/cms
+18-February-2020
+Adjusted Font sizes on home page only.
+PREVIEW https://my.onlinechiro.com/0046516/
+NOTE: Site is not yet live
+/********************************************/
+Case #: 03839381 https://officite.my.salesforce.com/5003x00001yBEQQ
+Site: https://www.mybackworks.com/
+Portal: https://my.onlinechiro.com/0044046/site/editor/cms
+17-February-2020
+Logo is now updated,
+Logo Name is updated.
+/********************************************/
+Case #: 03836833 https://officite.my.salesforce.com/5003x00001yB2zO
+Site: http://www.newyorkcitychiropractic.com
+Portal: https://my.onlinechiro.com/0005911/site/editor/cms
+17-February-2020
+1. Title Tag Optimization
+2. Meta Tag Optimization (Description, keyword and etc)
+3. Heading Tags Optimization
+4. Targeted keywords are not placed into tags
+5. Alt / Image tags Optimization
+This is a Subscription from Google we cannot provide. 6. Google Publisher is missing
+This is already added 7. Custom 404 Page is missing
+8. The Products are not following Structured markup data
+ADDED LAZY LOADING SCRIPT TO BOOST SPEED 9. Website Speed Development (Both Mobile and Desktop )
+10.Off –Page SEO work We will also work on those area ..
+
+1. 5XX status code Check
+2. 4XX status code check
+3. Title Tags >> Title Tags Optimization, >> Title Tags Length >> Keyword Optimization
+THERE IS NONE 4. duplicate title tags
+THERE IS NONE 5. duplicate content issues
+THERE IS NONE 6. Internal broken links
+THERE IS NONE 7. Crawl Errors (Webmaster Tool)
+THERE IS NONE 8. DNS resolution issues (Hosting)
+THERE IS NONE 9. incorrect URL formats
+THERE IS NONE 10. Internal broken images
+THERE IS NONE 11. duplicate meta descriptions
+12. Robots
+13. XML Sitemap Format Error
+14. XML Sitemap Optimization (incorrect pages - Redirection)
+15. WWW resolve issue
+SITE IS ALREADY RESPONSIVE 16. viewport tag (Responsive)
+17. HTML size optimization
+18. Cannonical Tags
+ALREADY DONE 19. Https Redirection for all pages
+THERE IS NONE 20. broken canonical link
+21. multiple canonical URLs
+THERE IS NONE 22. broken internal JavaScript and CSS files
+THERE IS NONE 23. External Broken Links
+THERE IS NONE 24. External Broken Images
+THERE IS NONE 25. H Tag Optimization
+THERE IS NONE 26. duplicate H1 and title tags
+27. too many on-page links
+THERE IS NONE 28. don't have alt attributes
+29. low word count
+30. Nofollow Internal Links
+31. Sitemap.xml not indicated in robots.txt
+32. Images are formatted as page link
+33. Pages should have more than 1 internal links
+34. orphaned pages
+35. Schema Mark up Lots are pending
+/********************************************/
+Case #: 03836907 https://officite.my.salesforce.com/5003x00001yB3AX
+Site: https://www.community-chiropractic.com/
+Portal: https://my.onlinechiro.com/0035623/site/editor/cms
+18-February-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03836280 https://officite.my.salesforce.com/5003x00001yB0RQ
+Site: https://www.concussionpdx.com/
+Portal: https://my.onlinechiro.com/0046138/site/editor/cms#!
+17-February-2020
+DONE: 1, 2, & 3
+NOTE: 3 responsive columns are now added with no content.
+/********************************************/
+Case #: 03835664 https://officite.my.salesforce.com/5003x00001yAxrR
+Site: https://www.gallochiropractic.com/
+Portal: https://my.onlinechiro.com/0039273/site/editor/cms
+17-February-2020
+Added Custom script to homepage feature_button
+/********************************************/
+Case #:  03837032
+Site: https://www.chiropractor-elcajon.com/
+Portal: https://my.onlinechiro.com/0046420/site/editor/cms
+17-February-2020
+Added text on Contact.
+/********************************************/
+Case #: 03838057 https://officite.my.salesforce.com/5003x00001yB7wD
+Site: https://www.davidcitychiro.com/
+Portal: https://my.onlinechiro.com/0043066/site/editor/cms
+17-February-2020
+Moved Social Media to header
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03836684 https://officite.my.salesforce.com/5003x00001yB2VA
+Site: http://www.centerstchiro.com/
+Portal: https://my.onlinechiro.com/0041757/site/editor/cms
+14-February-2020
+
+/********************************************/
+Case #: 03836290 https://officite.my.salesforce.com/5003x00001yB0UK
+Site: https://www.drbobmiddleton.com/
+Portal: https://my.onlinechiro.com/0036748/site/editor/cms
+14-February-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03836722 https://officite.my.salesforce.com/5003x00001yB2fF
+Site: https://www.actwellness.com/
+Portal: https://my.onlinechiro.com/0034868/site/editor/cms
 13-February-2020
 
 /********************************************/
-Case #:
-Site:
-Portal:
+Case #: 03835259 https://officite.my.salesforce.com/5003x00001yAvoz
+Site: https://www.docmarks.com/
+Portal: https://my.onlinechiro.com/0006535/site/editor/cms
+13-February-2020
+Fixed SIBO DIETS Arrangement
+/********************************************/
+Case #: 03836750 https://officite.my.salesforce.com/5003x00001yB2l4
+Site: https://www.scalpodiatry.com/
+Portal: https://my.onlinepodiatrysites.com/0013348/site/editor/cms
 13-February-2020
 
 /********************************************/
-Case #:
-Site:
-Portal:
-13-February-2020
-
-/********************************************/
-Case #:
-Site:
-Portal:
-13-February-2020
-
-/********************************************/
-Case #:
-Site:
-Portal:
-13-February-2020
-
-/********************************************/
-Case #:
-Site:
-Portal:
+Case #: 03836148 https://officite.my.salesforce.com/5003x00001yB00c
+Site: https://www.integrative-health.com/
+Portal: https://my.onlinechiro.com/0027670/site/editor/cms
 13-February-2020
 
 /********************************************/

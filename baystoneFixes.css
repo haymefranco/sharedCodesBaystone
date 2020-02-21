@@ -1367,7 +1367,7 @@ $(content).each(function(){
 }
 @media(max-width:480px){
   .dinline img{
-    float:right;
+    float:right!important;
   }
 }
 @media(max-width:1100px) and (min-width:768px){
