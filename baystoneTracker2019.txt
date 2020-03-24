@@ -1,7 +1,488 @@
 Case #:
 Site:
 Portal:
-21-February-2020
+24-March-2020
+
+/********************************************/
+Case #: 03853651 https://officite.my.salesforce.com/5003x00001yC7b9
+Site: https://www.taylorchiro.net/
+Portal: https://my.onlinechiro.com/0037188/site/editor/cms
+24-March-2020
+
+/********************************************/
+Case #: 03856681 https://officite.my.salesforce.com/5003x00001yCGTP
+Site: https://www.drbobmiddleton.com/
+Portal: https://my.onlinechiro.com/0036748/site/editor/cms
+24-March-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03855478 https://officite.my.salesforce.com/5003x00001yCCrN
+Site: https://caputofootandankle.com/
+Portal: https://my.onlinepodiatrysites.com/0010355/site/editor/cms
+23-March-2020
+
+/********************************************/
+Case #: 03856438 https://officite.my.salesforce.com/5003x00001yCFrI
+Site: https://www.powersferryanimalhospital.com/
+Portal: https://my.onlinechiro.com/0035333/site/editor/cms
+23-March-2020
+
+/********************************************/
+Case #: 03851122 https://officite.my.salesforce.com/5003x00001yC08Q
+Site: https://washingtonpachiro.com/
+Portal: https://my.onlinechiro.com/0046532/site/editor/cms
+23-March-2020
+
+/********************************************/
+Case #: 03855564 https://officite.my.salesforce.com/5003x00001yCD8y
+Site: https://www.footandanklemn.com/
+Portal: https://my.onlinepodiatrysites.com/0045437/site/editor/cms
+23-March-2020
+
+/********************************************/
+Case #: 03854805 https://officite.my.salesforce.com/5003x00001yCAyQ
+Site: https://www.indianvalleypodiatry.com/
+Portal: https://my.onlinepodiatrysites.com/0006355/site/editor/cms
+23-March-2020
+
+/********************************************/
+Case #: 03855035 https://officite.my.salesforce.com/5003x00001yCBTs
+Site: https://www.simplychiro4you.com/
+Portal: https://my.onlinechiro.com/0044597/site/editor/cms
+23-March-2020
+
+/********************************************************************/
+/********************************************************************/
+/********************************************/
+Case #: 03853592 https://officite.my.salesforce.com/5003x00001yC7Rs
+Site: https://www.drmortons.com/
+Portal: Old editor
+20-March-2020
+
+/********************************************/
+Case #: 03850422 https://officite.my.salesforce.com/5003x00001yBx2J
+Site: http://mbschiro.com/
+Portal: https://my.onlinechiro.com/0047361/site/editor/cms
+20-March-2020
+
+/********************************************/
+Case #: 03855694 https://officite.my.salesforce.com/5003x00001yCDYS
+Site: https://apollovisioncare.com/
+Portal: https://my.onlinechiro.com/0045423/site/editor/cms
+20-March-2020
+
+/********************************************/
+Case #: 03855674 https://officite.my.salesforce.com/5003x00001yCDSy
+Site: https://www.eyecarecenterofwaterford.com/
+Portal: https://my.onlinechiro.com/0045424/site/editor/cms#
+20-March-2020
+
+/********************************************/
+Case #: 03854776 https://officite.my.salesforce.com/5003x00001yCAvg
+Site: https://www.reboundchiropractic.com/
+Portal: https://my.onlinechiro.com/0011233/site/editor/cms
+20-March-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03854498 https://officite.my.salesforce.com/5003x00001yC9yo
+Site: https://www.austinchiropracticneurology.com/
+Portal: https://my.onlinechiro.com/0015236/site/editor/cms
+19-March-2020
+
+/********************************************/
+Case #: 03854565 https://officite.my.salesforce.com/5003x00001yCA8e
+Site: https://www.hjortchiropractic.com/
+Portal: https://my.onlinechiro.com/0001568/site/editor/cms
+19-March-2020
+
+/********************************************/
+Case #: 03853608 https://officite.my.salesforce.com/5003x00001yC7VG
+Site: https://www.activehealthcc.com/
+Portal: https://my.onlinechiro.com/0037265/site/editor/cms
+19-March-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03853604 https://officite.my.salesforce.com/5003x00001yC7Uw
+Site: https://www.drgitto.com/
+Portal: https://my.onlinechiro.com/0007044/site/editor/cms
+18-March-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03853651 https://officite.my.salesforce.com/5003x00001yC7b9
+Site: https://www.taylorchiro.net/
+Portal: https://my.onlinechiro.com/0037188/site/editor/cms
+17-March-2020
+
+/********************************************/
+Case #: 03853451 https://officite.my.salesforce.com/5003x00001yC7BV
+Site: https://www.spartanchiro.com/
+Portal: https://my.onlinechiro.com/0016464/site/editor/cms
+17-March-2020
+
+/********************************************/
+Case #: 03851889 https://officite.my.salesforce.com/5003x00001yC2f3
+Site: https://www.adjustchiropractic.com/
+Portal: https://my.onlinechiro.com/0003411/site/editor/cms/
+17-March-2020
+
+/********************************************/
+Case #: 03850344 https://officite.my.salesforce.com/5003x00001yBwlS
+Site: https://www.lavoiechiropractic.com/
+Portal: https://my.onlinechiro.com/0048042/site/editor/cms
+11-March-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03847896 https://officite.my.salesforce.com/5003x00001yBmWP
+Site: https://www.advancedwellnessandsports.com/
+Portal: https://my.onlinechiro.com/0005601/site/editor/cms
+10-March-2020
+
+/********************************************/
+Case #: 03850117 https://officite.my.salesforce.com/5003x00001yBvzx
+Site: https://www.suwaneechiro.com/
+Portal: https://my.onlinechiro.com/0008309/site/editor/cms
+10-March-2020
+
+/********************************************/
+Case #: 03849702 https://officite.my.salesforce.com/5003x00001yBtzg
+Site: shahinchiropractic.com
+Portal: https://my.onlinechiro.com/0047982/site/editor/cms
+10-March-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03849065 https://officite.my.salesforce.com/5003x00001yBrEM
+Site: http://www.absolutehealthcareonline.com/
+Portal: https://my.onlinechiro.com/0010445/site/editor/cms
+9-March-2020
+
+/********************************************/
+Case #: 03848666 https://officite.my.salesforce.com/5003x00001yBpSv
+Site: https://www.rosevillemichiro.com/
+Portal: https://my.onlinechiro.com/0047872/site/editor/cms
+9-March-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03846407 https://officite.my.salesforce.com/5003x00001yBeHU
+Site: http://mbschiro.com/
+Portal: https://my.onlinechiro.com/0047361/site/editor/cms
+6-March-2020
+
+/********************************************/
+Case #: 03847856 https://officite.my.salesforce.com/5003x00001yBmMo
+Site: https://www.melvillechiro.com/
+Portal: https://my.onlinechiro.com/0007782/site/editor/cms
+6-March-2020
+
+/********************************************/
+Case #: 03848511 https://officite.my.salesforce.com/5003x00001yBp5V
+Site: performancechirofl.com
+Portal: https://my.onlinechiro.com/0047569/site/editor/cms
+6-March-2020
+
+/********************************************/
+Case #: 03847987 https://officite.my.salesforce.com/5003x00001yBmro
+Site: https://www.hjortchiropractic.com/
+Portal: https://my.onlinechiro.com/0001568/site/editor/cms
+6-March-2020
+
+/********************************************/
+Case #:  03846899 https://officite.my.salesforce.com/5003x00001yBi4f
+Site: https://www.drcarlisledc.com/
+Portal: https://my.onlinechiro.com/0046383/site/editor/cms
+6-March-2020
+
+/********************************************/
+Case #: 03713493 https://officite.my.salesforce.com/5000c00001voH9X
+Site: http://www.drditmars.com/
+Portal: https://my.onlinepodiatrysites.com/0045529/site/editor/cms
+6-March-2020
+
+/********************************************/
+Case #: 03843895 https://officite.my.salesforce.com/5003x00001yBX13
+Site: https://www.purcellokchiro.com/
+Portal: https://my.onlinechiro.com/0047567/site/editor/cms
+6-March-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03846700 https://officite.my.salesforce.com/5003x00001yBfNA
+Site: https://www.gillchiro.com/
+Portal: https://my.onlinechiro.com/0047739/site/editor/cms
+5-March-2020
+
+/********************************************/
+Case #: 03847696 https://officite.my.salesforce.com/5003x00001yBlgY
+Site: https://www.alternativewholistichealth.com/
+Portal: https://my.onlinechiro.com/0009479/site/editor/cms
+5-March-2020
+
+/********************************************/
+Case #: 03847695 https://officite.my.salesforce.com/5003x00001yBlg4
+Site: https://www.alternativewholistichealth.com/
+Portal: https://my.onlinechiro.com/0009479/site/editor/cms
+5-March-2020
+
+/********************************************/
+Case #: 03847511 https://officite.my.salesforce.com/5003x00001yBl3b
+Site: https://www.greatermcdonoughchiro.com/
+Portal: https://my.onlinechiro.com/0043507/site/editor/cms
+5-March-2020
+
+/********************************************/
+Case #: 03844995 https://officite.my.salesforce.com/5003x00001yBaJN
+Site: https://www.chislofwellnes.com/
+Portal: https://my.onlinechiro.com/0047638/site/editor/cms
+5-March-2020
+PULL_CONTENT
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03844099 https://officite.my.salesforce.com/5003x00001yBXbe
+Site: https://www.drtvt.com/
+Portal: https://my.onlinechiro.com/0047611/site/editor/cms
+4-March-2020
+PULL_CONTENT
+/********************************************/
+Case #: 03847036 https://officite.my.salesforce.com/5003x00001yBivU
+Site: https://adkorerehab.com/
+Portal: Portal: https://my.onlinechiro.com/0045491/site/editor/cms
+4-March-2020
+
+/********************************************/
+Case #: 03843917 https://officite.my.salesforce.com/5003x00001yBX3i
+Site: http://performancechirofl.com/
+Portal: https://my.onlinechiro.com/0047569/site/editor/cms
+4-March-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03845265 https://officite.my.salesforce.com/5003x00001yBb5b
+Site: http://boardman-wellness.com/
+Portal: https://my.onlinechiro.com/0047665/site/editor/cms
+3-March-2020
+
+/********************************************/
+Case #: 03843496 https://officite.my.salesforce.com/5003x00001yBVIw
+Site: http://chiropractic-manhattan.com/
+Portal: https://my.onlinechiro.com/0047538/site/editor/cms
+3-March-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+  Case #: 03846305 https://officite.my.salesforce.com/5003x00001yBdsK
+Site: https://www.dicksonchiro.com/
+Portal: https://my.onlinechiro.com/0013709/site/editor/cms
+2-March-2020
+
+/********************************************/
+Case #: 03650604 https://officite.my.salesforce.com/5000c00001vmUkU
+Site: https://www.islandhealthcentertx.com/
+Portal: https://my.onlinechiro.com/0043492/site/editor/cms
+2-March-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03845119 https://officite.my.salesforce.com/5003x00001yBaZA
+Site: https://www.backintomotionchiro.com/
+Portal: https://my.onlinechiro.com/0003165/site/editor/cms
+28-February-2020
+
+/********************************************/
+Case #: 03844421 https://officite.my.salesforce.com/5003x00001yBYai
+Site: https://www.fairviewdc.com/
+Portal: https://my.onlinechiro.com/0023030/site/editor/cms
+28-February-2020
+
+/********************************************/
+Case #: 03844420 https://officite.my.salesforce.com/5003x00001yBYad
+Site: https://www.fairviewdc.com/
+Portal: https://my.onlinechiro.com/0023030/site/editor/cms
+28-February-2020
+
+/********************************************/
+Case #: 03844417 https://officite.my.salesforce.com/5003x00001yBYa4
+Site: https://www.fairviewdc.com/
+Portal: https://my.onlinechiro.com/0023030/site/editor/cms
+28-February-2020
+
+/********************************************/
+Case #: 03844418 https://officite.my.salesforce.com/5003x00001yBYaO
+Site: https://www.fairviewdc.com/
+Portal: https://my.onlinechiro.com/0023030/site/editor/cms
+28-February-2020
+
+/********************************************/
+Case #: 03844419 https://officite.my.salesforce.com/5003x00001yBYaY
+Site: https://www.fairviewdc.com/
+Portal: https://my.onlinechiro.com/0023030/site/editor/cms
+28-February-2020
+
+/********************************************/
+Case #: 03844470 https://officite.my.salesforce.com/5003x00001yBYea
+Site: https://www.gonnermanchiroandacupuncture.com/
+Portal: https://my.onlinechiro.com/0047454/site/editor/cms
+28-February-2020
+
+/********************************************/
+Case #: 03841920 https://officite.my.salesforce.com/5003x00001yBPSK
+Site: https://www.amtchiro.com/
+Portal: https://my.onlinechiro.com/0034465/site/editor/cms
+28-February-2020
+
+/********************************************/
+Case #: 03844179 https://officite.my.salesforce.com/5003x00001yBXoN
+Site: http://www.centerstchiro.com
+Portal: https://my.onlinechiro.com/0041757/site/editor/cms
+28-February-2020
+
+/********************************************/
+Case #: 03844422 https://officite.my.salesforce.com/5003x00001yBYan
+Site: https://www.fairviewdc.com/
+Portal: https://my.onlinechiro.com/0023030/site/editor/cms
+28-February-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03843532 https://officite.my.salesforce.com/5003x00001yBVSD
+Site: https://www.brinsonfamilychiro.com/
+Portal: https://my.onlinechiro.com/0036089/site/editor/cms
+27-February-2020
+
+/********************************************/
+Case #: 03843708 https://officite.my.salesforce.com/5003x00001yBVtc
+Site: https://www.washingtonspineanddisc.com/
+Portal: https://my.onlinechiro.com/0045018/site/editor/cms
+27-February-2020
+
+/********************************************/
+Case #: 03843950 https://officite.my.salesforce.com/5003x00001yBX7z
+Site: https://www.alliedihw.com/
+Portal: https://my.onlinechiro.com/0045886/site/editor/cms
+27-February-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03772866 https://officite.my.salesforce.com/5000c00001vpgpj
+Site: https://www.uticachiro.com/
+Portal: https://my.onlinechiro.com/0006404/site/editor/cms
+26-February-2020
+
+/********************************************/
+Case #: 03843502 https://officite.my.salesforce.com/5003x00001yBVKn
+Site: https://www.familychiropracticmassage.com/
+Portal: https://my.onlinechiro.com/0040747/site/editor/cms
+26-February-2020
+
+/********************************************/
+Case #: 03843188 https://officite.my.salesforce.com/5003x00001yBUHE
+Site: https://www.drscottdenny.com/
+Portal: https://my.onlinechiro.com/0034976/site/editor/cms
+26-February-2020
+
+/********************************************/
+Case #: 03843269 https://officite.my.salesforce.com/5003x00001yBUXM
+Site: https://brookfieldchiropractic.net/
+Portal: https://my.onlinechiro.com/0028474/site/editor/cms
+26-February-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03842820 https://officite.my.salesforce.com/5003x00001yBSsM
+Site: https://www.myuptownchiro.com/
+Portal: https://my.onlinechiro.com/0013838/site/editor/cms
+25-February-2020
+
+/********************************************/
+Case #: 03842488 https://officite.my.salesforce.com/5003x00001yBRm8
+Site: https://www.drcarlisledc.com/
+Portal: https://my.onlinechiro.com/0046383/site/editor/cms
+25-February-2020
+
+/********************************************/
+Case #: 03842881 https://officite.my.salesforce.com/5003x00001yBT1u
+Site: https://www.unionchiropracticcenter.com/
+Portal: https://my.onlinechiro.com/0047214/site/editor/cms
+25-February-2020
+
+/********************************************/
+Case #: 03842288 https://officite.my.salesforce.com/5003x00001yBQhg
+Site: https://www.eastplanochiropractic.com/
+Portal: https://my.onlinechiro.com/0042094/site/editor/cms
+25-February-2020
+DONE: I made a landing page template for them to edit manually.
+
+NOTE: images are free stock from pexels.com, and descriptions on the link they provided cannot be copied due to copyright.
+
+Site is not published due to that they are still planning to "launch Cryoskin this week" service.
+
+PREVIEW: https://my.onlinechiro.com/0042094/cryoskin
+New Page is right under Services Tab.
+
+thanks
+/********************************************/
+Case #: 03841919 https://officite.my.salesforce.com/5003x00001yBPS0
+Site: https://www.prosperityhealthcenter.com/
+Portal:https://my.onlinechiro.com/0007909/site/editor/cms
+25-February-2020
+
+/********************************************/
+Case #: 03841900 https://officite.my.salesforce.com/5003x00001yBPMl
+Site: https://www.cascadeschiro.com/
+Portal: https://my.onlinechiro.com/0008890/site/editor/cms
+25-February-2020
+
+/********************************************/
+Case #: 03841737 https://officite.my.salesforce.com/5003x00001yBOgd
+Site: https://www.yorktownchiropractor.com/
+Portal: https://my.onlinechiro.com/0006725/site/editor/cms
+25-February-2020
+
+/********************************************/
+Case #: 03841377 https://officite.my.salesforce.com/5003x00001yBMcK
+Site: https://www.alliance4wellness.com/
+Portal: https://my.onlinechiro.com/0042390/site/editor/cms
+25-February-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03841367
+Site: https://www.familychiropracticmassage.com/
+Portal: https://my.onlinechiro.com/0040747/site/editor/cms
+24-February-2020
+Done added Google Review button to replace the Default Social Media icon
+/********************************************/
+Case #: 03841152 https://officite.my.salesforce.com/5003x00001yBLm0
+Site: https://www.drhbenedikt.com/
+Portal: https://my.onlinechiro.com/0006753/site/editor/cms
+24-February-2020
+
+/********************************************/
+Case #: 03840592 https://officite.my.salesforce.com/5003x00001yBJb0
+Site: https://www.drspees.com/
+Portal: https://my.onlinechiro.com/0005594/site/editor/cms/
+24-February-2020
 
 /********************************************/
 /********************************************************************/

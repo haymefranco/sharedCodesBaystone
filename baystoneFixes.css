@@ -510,23 +510,96 @@ $('.textcontent').each(function() {
 
 =====================================================================================================
 /* SCRIPT FOR PUP-UP or MODAL */
-// FEB 2020 UPDATE BACKUP CODE
-// $('body').append('<div id="ac-wrapper"><center><div id="popup"><a href="contact-us"><img src="https://my.onlinechiro.com/0005454/storage/app/media/send_an_email.jpg" style="width:1080px; height: auto;border: solid 3px #0b5da6;" border="0" alt="Click here"></a></div><    /center></div>');
-
+// MARCH 2020 UPDATE BACKUP CODE
 $(document).ready(function($){
     if (sessionStorage.getItem('ac-wrapper') !== 'true') {
-        $('body').append('<div class="cstEnclsr"><div id="ac-wrapper"></div><center style="position: fixed;height: auto;z-index: 1002;transform: translateY(-50%);width: 100%;top: 50%;"><div id="popup"><div class="eksbtn" style="position: relative;"><span aria-hidden="true" class="socialmedia__link icon icon-times" style="position: absolute;z-index: 1003;margin-top: 20px;right: 20%;"></span></div><div class="aphere"></div></center></div>');
-        $('#newslettersignup').appendTo('.aphere');
+
+        $('<div id="ac-wrapper" style="position:fixed;width:100%;top:0;height:100vh;z-index:9999;background-color: #000000c9;"></div>').insertAfter('body');
+
+        $('<center id="popup" style="position:fixed;margin-top:25px;top:0;z-index: 9999;left: 50%;transform: translateX(-50%);"><div><div style="padding:15% 8%;background:white;width:100%;height: auto;border: solid 3px #0b5da6;" border="0" ><h1>We are OPEN and taking the necessary precautions to keep our patients safe during this national emergency. <a href="https://my.onlinechiro.com/0011233/storage/app/media/IMG_0002.jpg" target="_blank">Click here</a> to read our recent update regarding our procedures.</h1></div></div></center>').insertAfter('#ac-wrapper');
+
+        $('<div class="eksbtn" style="position: fixed;cursor: pointer;top: 0;right: 5%;z-index: 9999;"><span aria-hidden="true" class="socialmedia__link icon icon-times" style="position: absolute;z-index: 9999;margin-top: 20px;right: 20%;"></span></div>').prependTo('#popup');
+        // $('#newslettersignup').appendTo('.aphere');
         sessionStorage.setItem('ac-wrapper','true');
     }
 
     $('#ac-wrapper, .eksbtn').on('click',function(){
-        $('#newslettersignup').insertAfter('.page-content');
-        $('#ac-wrapper, .aphere, .eksbtn').hide();
+        // $('#newslettersignup').insertAfter('.page-content');
+        $('#ac-wrapper, #popup, .eksbtn').hide();
     });
 
 });
-// FEB 2020 UPDATE END
+
+
+
+@media(min-width:1200px){
+    #popup img{
+        width:100%!important;
+    }
+}
+@media(max-width:1199px){
+    #popup{
+        width:90%!important;
+    }
+}
+
+
+// MARCH 2020 UPDATE END
+
+
+
+=====================================================================================================
+
+<!-- POP-UP -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<div id="ab-wrapper" style="display: none;">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <!-- Modal body -->
+        <div class="modal-body">
+            <span onclick="document.getElementById('id01').style.display='none'" class="w3-button w3-display-topright">&times;</span>
+            <p>
+            Dear Patients, 3/17/2020
+            </p>
+            <p>
+            Like all of you, I have been following the progress of coronavirus locally, nationally, and throughout the world. While there is still no mandate for dental offices to alter their clinical schedules, I feel that it is our responsibility to act in the best interest of our patients and team members. If we were ever possibly the source for transmitting the virus to patients, I would feel personal responsibility. Months from now, we will all look back with a feeling of having been good citizens if we do what is right now to slow and eventually stop the spread of the virus.
+            Our dental team will continue to wear gloves, disinfect treatment rooms, counters, and furniture after each patient. If you are experiencing any cold or flu-like symptoms please reschedule your appointment. Furthermore, we completely support any healthy patients who would prefer to reschedule their appointments.
+            </p>
+            <p>
+            If you have an urgent need to speak with Dr. Morton he can be reached via Mobile phone 856- 296- 6440. Text him twice, identify yourself, ask your question and he will get back to you. It is because of so much spam on phones that he screens his cell phone calls in this manner.
+            </p>
+        </div>
+      </div>
+    </div>
+</div>
+<!-- script -->
+
+<script>
+$(document).ready(function($){
+$("#ab-wrapper").show();
+
+$('.w3-button').on('click',function(){
+    $('#ab-wrapper').hide();
+});
+
+});
+</script>
+<!-- css -->
+<style>
+#ab-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.6);
+    z-index: 1001;
+    overflow-y: scroll;
+    padding-top: 5%;
+}
+</style>
+
 =====================================================================================================
 /* Custom FIX End */
 /* EVE FIX */
@@ -1319,13 +1392,76 @@ $(content).each(function(){
 
 
 
+======================================================================================================
+<div class="wrap__gallery_home">
+    <div class="wrap__gallery_home--inner wrap--inner">
+    {% component "gallery_home" %}
+    {% component 'sliderHome' %}
+  </div>
+</div>
 
 
+/*----------***CHOCOLATE LAYERS SLIDER FIX***--------- */
+
+#masonry-container {
+    margin: -5px 0 auto;
+}
+
+@media(min-width:1200px){
+    .sliderHome__container {
+        display: none;}
+}
+
+@media(max-width:1199px){
+    .gallery_home__container--inner {display: none;}
+    .sliderHome__container {
+        display: block;}
+    .bx-wrapper .bx-viewport {
+	    height: 550px!important;}
+    .slider__image {
+        height: 550px!important;
+        background-repeat: no-repeat;
+        background-position: 50% 30%;}
+    .featuredblock__description {
+        display: none;}
+    .wrap__gallery_home .bx-wrapper {
+        height: 550px!important;}
+}
+
+@media (max-width: 1199px) and (min-width: 520px) {
+.slider__title {
+    font-size: 32px !important;
+    margin-top: -15% !important;
+    color: #DAD7D0 !important;
+    font-family: "lato-light", "Arial Black", Arial, Helvetica, sans-serif !important;
+    text-transform: uppercase;
+    position: absolute;
+    transform: rotate(-90deg);
+    left: -40%;}
+}
 
 
+@media (max-width: 519px) {
+.wrap__gallery_home .gallery-item {
+    height: 550px!important;
+    width: 95%;}
+.wrap__gallery_home .bx-wrapper {
+    height: 550px!important;}
+.slider__title {
+        font-size: 24px !important;
+        font-family: "lato-light", "Arial Black", Arial, Helvetica, sans-serif !important;
+        margin-top: 75% !important;
+        font-weight: bold !important;}
+.home-layout .wrap__page-content {
+    padding-top: 45px;}
+.slider__text-wrapper {
+    padding-left: 10px;}
+.slider__image {
+    background-position: 50% 30%;}
+}
 
-==========================================================================================================================
-
+/*----------***SLIDER FIX***--------- */
+======================================================================================================
 /* CSS on CHOCOLATE FIX */
 
 .wrap__page-content{
