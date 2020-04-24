@@ -1,0 +1,234 @@
+Landing page format RESPONSIVE
+
+<!-- LANDING PAGE -->
+<div class="wrap__page-content" style="max-width:600px;float:right;">
+    <div class="wrap__page-content--inner">
+        {% component "editable" file="auto-landing-page.htm" %}
+    </div>
+</div>
+
+
+
+
+
+
+
+<!-- LAYOUT -->
+<div class="page-layout">
+    <div id="main-wrap">
+        {% partial 'landingpage-header.htm' %}
+        {% component "breadcrumbs_page" %}
+
+        <div id="main-box">
+
+            <!-- 1st part -->
+            <div class="fullwidth_form" style="overflow-y:hidden;">
+                <div class="ldpg_bg" style="height:;z-index:-1;position:relative;">
+                    <div style="position: absolute;height: 700px;width: 100%;background: url('https://my.onlinechiro.com/0047665/storage/app/media/_allLandingpage/AdobeStock2_cmprsd.jpg');background-size: cover;background-position-x:center;"></div>
+                </div>
+                <div class="dflex" style="max-width: 95%;margin: 0 auto;position:relative;padding-top:20px;">
+                    <div class="flexone" style="min-width:50%;">
+                        <div class="cntnr_frm_lndgpg" style="float:right;max-width:500px;height: 100%;max-height: 700px;">
+                            {% component 'form_lndgpg' %}
+                        </div>
+                        <div style="clear:both;"></div>
+                    </div>
+                    <div class="flexone" style="min-width:50%;">
+                        <div style="float:left;width:100%;">
+                            {% component 'editable2' file='lndgpgform_herotxt.htm'%}
+                        </div>
+                        <div style="clear:both;"></div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <!-- 2nd part -->
+            <div class="secondpart_lndgpg">
+                <div class="dflex">
+                    <div class="flexone" style="padding:25px 25px 0 25px;">
+                        {% page %}
+                    </div>
+                    <div class="flexone" style="padding:0;">
+                        <div class="image_2ndbg" style="background-image:url('https://my.onlinechiro.com/0047665/storage/app/media/_allLandingpage/AdobeStock_cmprsd.jpg');background-size: cover;background-position: center top;height: 600px;">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- 3rd part -->
+            <div style="background:#306db0;padding:50px 0;">
+                {% component 'editable3' file='blue_partlndgpg.htm'%}
+            </div>
+
+
+            <!-- 4th part -->
+            <div style="background:#cbcbcb;">
+                {% component 'editable4' file='grey_partlndgpg.htm'%}
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
+<!-- footer -->
+<div class="rededbar">
+    <center>
+        {% component 'editable5' file='redbar_lndgpg.htm'%}
+    </center>
+</div>
+
+<div class="home-layout">
+    <div class="wrap__hours-map">
+        <div class="wrap__hours-map--inner wrap--inner">
+            <div id="map" class="wrap__map">
+                <div class="wrap__map--inner">
+                    {% component 'map_home' %}
+                </div>
+            </div>
+
+            <div id="hours" class="wrap__hours">
+                <div class="wrap__hours--inner">
+                    {% component 'hours_home' %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<center>
+    <div class="dflex">
+        <div class=flexone>
+            <img src="https://cdcssl.ibsrv.net/ibimg/smb/249x92_80/webmgr/10/s/1/_customfolder/FootLevelers.jpg" alt="">
+        </div>
+        <div class=flexone>
+            <img src="https://cdcssl.ibsrv.net/ibimg/smb/249x92_80/webmgr/10/s/1/_customfolder/biofreeze_logo.jpg" alt="">
+        </div>
+        <div class=flexone>
+            <img src="https://cdcssl.ibsrv.net/ibimg/smb/249x92_80/webmgr/10/s/1/_customfolder/faktr.png" alt="">
+        </div>
+        <div class=flexone>
+            <img src="https://cdcssl.ibsrv.net/ibimg/smb/249x92_80/webmgr/10/s/1/_customfolder/Rapid_Release_Technology.jpg" alt="">
+        </div>
+        <div class=flexone>
+            <img src="https://cdcssl.ibsrv.net/ibimg/smb/249x92_80/webmgr/10/s/1/_customfolder/rocktape.png" alt="">
+        </div>
+    </div>
+</center>
+
+{% partial 'scripts' %}
+
+
+
+
+
+
+
+
+
+
+
+<!-- css -->
+
+@media(min-width:768px){
+  .dflex{
+    display:flex;
+  }
+  .flexone{
+    flex:1;
+    padding:10px;
+  }
+  .flextwo{
+    flex:2;
+    padding:10px;
+  }
+}
+/* landing page customs */
+@media(max-width:875px){
+    .flexone .editable2__container h1{
+        font-size: 65px!important;
+    }
+}
+@media(max-width:767px){
+    .flexone, .flextwo{
+        /* border-bottom: 1px solid; */
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+    }
+    /* LANDING PAGE STYLES */
+    .cntnr_frm_lndgpg{
+        float:none!important;
+        margin:0 auto!important;
+    }
+    .ldpg_bg > div{
+        min-height:100vh!important;
+        background-position-x:80%!important;
+    }
+    .flexone .editable2__container h1, .flexone .editable2__container h2{
+        text-shadow: 1px 1px 1px gray;
+    }
+    .wrap__page-content{
+        max-width:unset!important;
+    }
+    /* landing page customs end*/
+    .secondpart_lndgpg .flexone:nth-child(1){
+        height:600px;
+    }
+    .editable3__container--inner .flexone{
+        text-align:center;
+    }
+    .editable3__container--inner .flexone div{
+        float:none!important;
+        max-width:100%!important;
+    }
+}
+/* landing page customs */
+@media(max-width:640px){
+    .flexone .editable2__container h1{
+        font-size: 13vw!important;
+    }
+    .flexone .editable2__container h2{
+        font-size:7vw!important;
+    }
+    .editable4__container h1{
+        font-size:9.5vw!important;
+    }
+}
+@media(max-width:767px) and (min-width:415px){
+    .ldpg_bg > div{
+        height:1000px!important;
+    }
+}
+@media(max-width:414px){
+    .secondpart_lndgpg .flexone:nth-child(1){
+        height:700px;
+    }
+    .ldpg_bg > div{
+        height:1000px!important;
+    }
+}
+
+/* Pull content end */
+
+
+
+
+
+
+
+
+
+/* landing page customs */
+.form-wrap__submit .btn.submit{
+    width: auto;height: 60px!important;font-size: 25px!important;padding: 0 70px!important;
+}
+.blubtn:hover{
+    background-color: #A64F64 !important;
+    color: white !important;
+    border-color: #A64F64 !important;
+}
+/* landing page customs end*/
