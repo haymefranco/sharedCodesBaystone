@@ -1,4 +1,39 @@
 =====================================================================================================
+CSS ONLY MODAL
+
+<div id="css-only-modals"><input checked="checked" class="css-only-modal-check" id="modal1" type="checkbox" /> <div class="css-only-modal"><div class="css-only-modal-content"> 
+<h1 style="text-align:center;">COVID-19 OFFICE UPDATE</h1>
+<p>Dear Patients,</p>
+<p>We hope this letter finds you and your family in good health. Our community has been through a lot over the last few months, and all of us are looking forward to resuming our normal habits and routines. While many things have changed, one thing has remained the same: our commitment to your safety.</p>
+
+<p>Sincerely,<br />Dr. Ly and Team Members</p>
+</div> <label class="css-only-modal-btn btn btn-primary btn-lg" for="modal1">Close</label> </div> <div id="screen-shade"> </div> </div>
+
+/*---------------Pop up css------------*/
+#css-only-modals { position:fixed; pointer-events:none; left:0; top:0; right:0; bottom:0; z-index:10000000; text-align:center; white-space:nowrap; height:100%; } #css-only-modals:before { content:''; display:inline-block; height:100%; vertical-align:middle; margin-right:-.25em; } .css-only-modal-check { pointer-events:auto; display:none; } .css-only-modal-check:checked ~ .css-only-modal { opacity:1; pointer-events:auto; } .css-only-modal { width: 700px; background:#fff; z-index:1; display:inline-block; position:relative; pointer-events:auto; padding:25px; text-align:right; border-radius:4px; white-space:normal; display:inline-block; vertical-align:middle; opacity:0; pointer-events:none; max-width: 90%; } .css-only-modal h2 { text-align:center; } .css-only-modal p { text-align:left; } .btn-primary:hover { color:#fff; background-color:#999; border-color:#999; } .btn-primary { color:#fff; background-color:#777; border-color:#777; border-radius: 4px; padding: 6px 12px; } .css-only-modal-check:checked ~ #screen-shade { opacity:.5; pointer-events:auto; } #screen-shade { opacity:0; background:#000; position:absolute; left:0; right:0; top:0; bottom:0; pointer-events:none; transition:opacity .8s; } .css-only-modal p, .css-only-modal h2 { color: #000; } .css-only-modal-content {max-height:80vh; overflow-y:auto;}/*------------End pop up css------*/
+=====================================================================================================
+YELLOW DOUBLE LINK OPEN
+
+
+<div style="height: 80px; width: 100%; margin: 0 auto; display: block; position: relative;">
+
+<div style="position: relative; top: 50%; transform: translateY(-50%);>
+
+<div style="text-align:center;width:100%;>
+
+<p class="headline_type" align="center"><a style="color:yellow;" href="http://www.albertvilledentist.com/userfiles/2115/pdf/welcome_back.pdf" onClick="window.open('http://www.albertvilledentist.com/userfiles/2115/pdf/ADA_Patient_Screening_Form.pdf'); return true;"><strong><em><span style="color:yellow;font-family: Georgia; font-size: medium;">To Our Patients following Covid-19</span></em></strong></a>
+</p>
+</div>
+
+</div>
+
+</div>
+<br><br>
+
+
+
+
+=====================================================================================================
 /* SCRIPT FOR PUP-UP or MODAL */
 // MARCH 2020 UPDATE BACKUP CODE
 $(document).ready(function($){
