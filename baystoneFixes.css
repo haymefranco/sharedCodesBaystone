@@ -1,16 +1,214 @@
+
+
+==================================================================================
+JUST A NORMAL POPUP
+==================================================================================
+
+<center>
+    <p><br><br></p>
+    <p><a class="hdnvidbtn"><img src="https://my.onlinechiro.com/0032344/storage/app/media/video_interview2.jpg" width="225" height="169" style="cursor: pointer; width: 225px; height: auto;"></a></p>
+    <p><a class="hdnvidbtn">Dr. Silver's Interview on The Federal Workers Comp Podcast</a></p>
+<br>
+<p><br></p></center>
+
+
+
+
+
+
+
+if(window.location.href.indexOf("video-gallery") > -1) {
+
+
+    $(document).ready(function($){
+
+            $('<div id="ac-wrapper" style="position:fixed;width:100%;top:0;height:100vh;z-index:9999;background-color: #000000c9;"></div>').insertAfter('body');
+
+            $('<center id="popup" style="position:fixed;margin-top:25px;top:0;z-index: 9999;left: 50%;transform: translateX(-50%);"><div><div style="padding:15% 8%;background:white;width:100%;height: auto;border: solid 3px #0b5da6;" border="0" ><iframe width="100%" height="640" src="https://www.youtube.com/embed/mQ4wFbTuglI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div></center>').insertAfter('#ac-wrapper');
+
+            $('<div class="eksbtn" style="position: fixed;cursor: pointer;top: 0;right: 5%;z-index: 9999;"><span aria-hidden="true" class="socialmedia__link icon icon-times" style="position: absolute;z-index: 9999;margin-top: 20px;right: 20%;"></span></div>').prependTo('#popup');
+            // $('#newslettersignup').appendTo('.aphere');
+
+        $('#ac-wrapper, .eksbtn').on('click',function(){
+            // $('#newslettersignup').insertAfter('.page-content');
+            $('#ac-wrapper, #popup, .eksbtn').hide();
+        });
+
+
+    $('#ac-wrapper, #popup, .eksbtn').hide();
+    });
+
+
+        $('.hdnvidbtn').click(function(){
+            $('#ac-wrapper, #popup, .eksbtn').show();
+        });
+
+}
+
+
+
+
+
+
+
+
+@media(min-width:1200px){
+    #popup img{
+        width:100%!important;
+    }
+}
+@media(max-width:1199px){
+    #popup{
+        width:90%!important;
+    }
+}
+
+==================================================================================
+DETECT DEVICE OS
+==================================================================================
+if ((navigator.userAgent.match(/iPhone/)) || (navigator.userAgent.match(/iPod/))) {
+   alert("we've got an iDevice, Scotty");
+}
+
+if (navigator.userAgent.match(/Android/)) {
+   alert("Droid me baby");
+}
+
+
+
+
+==================================================================================
+==================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+</style>
+</head>
+<body>
+
+<h2>Accordion</h2>
+
+<button class="accordion">Section 1</button>
+<div class="panel">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+
+<button class="accordion">Section 2</button>
+<div class="panel">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+
+<button class="accordion">Section 3</button>
+<div class="panel">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 =====================================================================================================
 CSS ONLY MODAL
 
-<div id="css-only-modals"><input checked="checked" class="css-only-modal-check" id="modal1" type="checkbox" /> <div class="css-only-modal"><div class="css-only-modal-content"> 
-<h1 style="text-align:center;">COVID-19 OFFICE UPDATE</h1>
-<p>Dear Patients,</p>
-<p>We hope this letter finds you and your family in good health. Our community has been through a lot over the last few months, and all of us are looking forward to resuming our normal habits and routines. While many things have changed, one thing has remained the same: our commitment to your safety.</p>
+step1 create a text file on home page
+step2 add css to head
 
-<p>Sincerely,<br />Dr. Ly and Team Members</p>
-</div> <label class="css-only-modal-btn btn btn-primary btn-lg" for="modal1">Close</label> </div> <div id="screen-shade"> </div> </div>
+<p style="text-align: center;"><span style="font-size: medium;"><br /></span></p>
+<div id="css-only-modals"><input id="modal1" class="css-only-modal-check" checked="checked" type="checkbox" />
+<div class="css-only-modal">
+<div class="css-only-modal-content">
+<h1 style="text-align:center;font-size:20px;">COVID-19 OFFICE UPDATE</h1>
+<br />
+<p>Pursuant to Governor Brown&rsquo;s Executive Order No. 20-22, dental offices in Oregon are allowed to begin gradually resuming elective and non-urgent dental procedures beginning May 1st, 2020 as long as they are performed in accordance with guidelines that have been established by the Oregon Health Authority.</p>
+<br /><br />
+<p style="text-align:center;"><a href="covid-19" style="background:#000;color:#fff;padding:15px 30px;">READ MORE</a></p>
+</div>
+<label class="css-only-modal-btn btn btn-primary btn-lg" for="modal1">Close</label></div>
+<div id="screen-shade"></div>
+</div>
+<style>/*---------------Pop up css------------*/
+#css-only-modals { position:fixed; pointer-events:none; left:0; top:0; right:0; bottom:0; z-index:10000000; text-align:center; white-space:nowrap; height:100%; } #css-only-modals:before { content:''; display:inline-block; height:100%; vertical-align:middle; margin-right:-.25em; } .css-only-modal-check { pointer-events:auto; display:none; } .css-only-modal-check:checked ~ .css-only-modal { opacity:1; pointer-events:auto; } .css-only-modal { width: 700px; background:#fff; z-index:1; display:inline-block; position:relative; pointer-events:auto; padding:25px; text-align:right; border-radius:4px; white-space:normal; display:inline-block; vertical-align:middle; opacity:0; pointer-events:none; max-width: 90%; } .css-only-modal h2 { text-align:center; } .css-only-modal p { text-align:left; } .btn-primary:hover { color:#fff; background-color:#999; border-color:#999; } .btn-primary { color:#fff; background-color:#777; border-color:#777; border-radius: 4px; padding: 6px 12px; } .css-only-modal-check:checked ~ #screen-shade { opacity:.5; pointer-events:auto; } #screen-shade { opacity:0; background:#000; position:absolute; left:0; right:0; top:0; bottom:0; pointer-events:none; transition:opacity .8s; } .css-only-modal p, .css-only-modal h2 { color: #000; } .css-only-modal-content {max-height:80vh; overflow-y:auto;}/*------------End pop up css------*/'
+</style>
 
-/*---------------Pop up css------------*/
-#css-only-modals { position:fixed; pointer-events:none; left:0; top:0; right:0; bottom:0; z-index:10000000; text-align:center; white-space:nowrap; height:100%; } #css-only-modals:before { content:''; display:inline-block; height:100%; vertical-align:middle; margin-right:-.25em; } .css-only-modal-check { pointer-events:auto; display:none; } .css-only-modal-check:checked ~ .css-only-modal { opacity:1; pointer-events:auto; } .css-only-modal { width: 700px; background:#fff; z-index:1; display:inline-block; position:relative; pointer-events:auto; padding:25px; text-align:right; border-radius:4px; white-space:normal; display:inline-block; vertical-align:middle; opacity:0; pointer-events:none; max-width: 90%; } .css-only-modal h2 { text-align:center; } .css-only-modal p { text-align:left; } .btn-primary:hover { color:#fff; background-color:#999; border-color:#999; } .btn-primary { color:#fff; background-color:#777; border-color:#777; border-radius: 4px; padding: 6px 12px; } .css-only-modal-check:checked ~ #screen-shade { opacity:.5; pointer-events:auto; } #screen-shade { opacity:0; background:#000; position:absolute; left:0; right:0; top:0; bottom:0; pointer-events:none; transition:opacity .8s; } .css-only-modal p, .css-only-modal h2 { color: #000; } .css-only-modal-content {max-height:80vh; overflow-y:auto;}/*------------End pop up css------*/
+
+
+
 =====================================================================================================
 YELLOW DOUBLE LINK OPEN
 
@@ -31,9 +229,61 @@ YELLOW DOUBLE LINK OPEN
 <br><br>
 
 
+==================================================================================
+BANNER SAME AS POPUP
+==================================================================================
+
+$(document).ready(function($){
+    if (sessionStorage.getItem('ac-wrapper') !== 'true') {
+
+        $('<div id="ac-wrapper" style="position:absolute;width:100%;top:0;height:130px;z-index:0;"></div>').insertAfter('body');
+
+        $('<center id="popup" style="position:absolute;top:0;z-index: 0;left: 50%;transform: translateX(-50%);width:100%;"><div><div style="padding:0px;background:white;width:100%;height: auto;" ><img src="https://my.officite.com/0049899/storage/app/media/DC37banner_yellow.jpg" alt=""></div></div></center>').insertAfter('#ac-wrapper');
+
+        $('<div class="eksbtn" style="position: fixed;cursor: pointer;top: 0;right: 5%;z-index: 9999;"><span aria-hidden="true" class="socialmedia__link icon icon-times" style="position: absolute;z-index: 9999;margin-top: 20px;right: 5%;"></span></div>').prependTo('#popup');
+        // $('#newslettersignup').appendTo('.aphere');
+        sessionStorage.setItem('ac-wrapper','true');
+    }
+
+    $('.eksbtn').on('click',function(){
+        // $('#newslettersignup').insertAfter('.page-content');
+        $('#ac-wrapper, #popup, .eksbtn').hide();
+        $('body').css('margin-top','0px');
+    });
+
+});
 
 
-=====================================================================================================
+
+
+
+@media(min-width:1200px){
+    #popup img{
+        width:max-content!important;
+    }
+}
+@media(max-width:1199px){
+    #popup{
+        width:100%!important;
+    }
+}
+@media(min-width:912px){
+    body{
+        background:white;
+        margin-top:130px;
+    }
+}
+@media(max-width:911px){
+    body{
+        background:white;
+        margin-top:10vw;
+    }
+    .eksbtn .socialmedia__link.icon.icon-times{
+        font-size:16px;
+        margin-top:0!important;
+    }
+}
+==================================================================================
 /* SCRIPT FOR PUP-UP or MODAL */
 // MARCH 2020 UPDATE BACKUP CODE
 $(document).ready(function($){
@@ -41,7 +291,7 @@ $(document).ready(function($){
 
         $('<div id="ac-wrapper" style="position:fixed;width:100%;top:0;height:100vh;z-index:9999;background-color: #000000c9;"></div>').insertAfter('body');
 
-        $('<center id="popup" style="position:fixed;margin-top:25px;top:0;z-index: 9999;left: 50%;transform: translateX(-50%);"><div><div style="padding:15% 8%;background:white;width:100%;height: auto;border: solid 3px #0b5da6;" border="0" ><h1>We are OPEN and taking the necessary precautions to keep our patients safe during this national emergency. <a href="https://my.onlinechiro.com/0011233/storage/app/media/IMG_0002.jpg" target="_blank">Click here</a> to read our recent update regarding our procedures.</h1></div></div></center>').insertAfter('#ac-wrapper');
+        $('<center id="popup" style="position:fixed;margin-top:25px;top:0;z-index: 9999;left: 50%;transform: translateX(-50%);"><div><div style="padding:8% 8%;background:white;width:100%;height: auto;border: solid 3px #0b5da6;" border="0" ><h1>We are OPEN and taking the necessary precautions to keep our patients safe during this national emergency. <a href="https://my.onlinechiro.com/0011233/storage/app/media/IMG_0002.jpg" target="_blank">Click here</a> to read our recent update regarding our procedures.</h1></div></div></center>').insertAfter('#ac-wrapper');
 
         $('<div class="eksbtn" style="position: fixed;cursor: pointer;top: 0;right: 5%;z-index: 9999;"><span aria-hidden="true" class="socialmedia__link icon icon-times" style="position: absolute;z-index: 9999;margin-top: 20px;right: 20%;"></span></div>').prependTo('#popup');
         // $('#newslettersignup').appendTo('.aphere');
@@ -1086,7 +1336,12 @@ p.location__city-state-zip{
   }
 }
 /* end */
-
+window.onload = function() {
+    if(!window.location.hash) {
+        window.location = window.location + '#loaded';
+        window.location.reload();
+    }
+}
 =====================================================================================================
 /* ISABELLA FIX */
 .logo__link{

@@ -1,15 +1,1820 @@
-Case #: LIGHT HOUSE
+Case #:
 Site:
 Portal:
-21-May-2020
+-September-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #:
+Site:
+Portal:
+21-September-2020
+
+/********************************************/
+Case #:
+Site:
+Portal:
+21-September-2020
+
+/********************************************/
+Case #: 03932384 https://officite.my.salesforce.com/5003x000022bVXV
+Site: citrusparkmedicalcare.org
+Portal: https://citrusparkmedicalcare.org.edit.officite.com/brandon-contact-us.html
+21-September-2020
+
+/********************************************/
+Case #: 03932541 https://officite.my.salesforce.com/5003x000022bXqf
+Site: http://www.jayfreedmandental.com/staff.html
+Portal: http://jayfreedmandental.com.edit.officite.com/staff.html
+22-September-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03933279 https://officite.my.salesforce.com/5003x000022boix
+Site: http://www.successfulstudentsnyc.com
+Portal: https://my.onlinechiro.com/0042519/site/editor/cms
+21-September-2020
+
+/********************************************/
+Case #: 03932839 https://officite.my.salesforce.com/5003x000022be06
+Site: https://www.fccbodywellness.com/appointment
+Portal: https://my.onlinechiro.com/0019595/site/editor/cms
+21-September-2020
+
+/********************************************/
+Case #: 03931267 https://officite.my.salesforce.com/5003x000021iZzZ
+Site: dentalimplantperio.com
+Portal: https://my.officite.com/0049880/site/editor/cms
+21-September-2020
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03930490 https://officite.my.salesforce.com/5003x000021iKSw
+Site: drjuneweissdental.com
+Portal: https://my.officite.com/0049899/site/editor/cms
+17-September-2020
+
+/********************************************/
+Case #: 03931528 https://officite.my.salesforce.com/5003x000021ifzL
+Site: redmontped.com
+Portal: http://redmontped.com.edit.officite.com/patients.html#forms
+18-September-2020
+
+/********************************************/
+Case #: 03932207 https://officite.my.salesforce.com/5003x000022bQVj
+Site: https://www.castellichiro.com/
+Portal: https://my.onlinechiro.com/0012118/site/editor/cms
+18-September-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03932239 https://officite.my.salesforce.com/5003x000022bQtb
+Site: https://www.aqdentalcare.com/
+Portal: https://my.theonlinepractice.com/0013705/site/editor/cms
+17-September-2020
+
+/********************************************/
+Case #: 03912485 https://officite.my.salesforce.com/5003x000020vhnQ
+Site: https://www.developmentalpediatricsnj.com/
+Portal: http://developmentalpediatricsnj.com.edit.officite.com/patients.html
+17-September-2020
+
+/********************************************/
+Case #: 03932274 https://officite.my.salesforce.com/5003x000022bRM4
+Site: mthoodpodiatry.com
+Portal: https://my.onlinepodiatrysites.com/0004108/site/editor/cms
+17-September-2020
+
+/********************************************/
+Case #: 03932101 https://officite.my.salesforce.com/5003x000022bOnf
+Site: greshamsmiles.com
+Portal: https://my.theonlinepractice.com/0011994/site/editor/cms
+17-September-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03932123 https://officite.my.salesforce.com/5003x000022bP8U
+Site: paciadental.com
+Portal: https://my.officite.com/0020938/site/editor/cms
+16-September-2020
+
+/********************************************/
+Case #: 03932121 https://officite.my.salesforce.com/5003x000022bP77
+Site: drmauriello.com
+Portal: http://pequestfootdocs.com.edit.officite.com/patients.html
+16-September-2020
+
+/********************************************/
+Case #: 03932113 https://officite.my.salesforce.com/5003x000022bOqL
+Site: http://www.dentalimplantperio.com/patient-forms.html
+Portal: https://my.officite.com/0049880/site/editor/cms
+16-September-2020
+
+/********************************************/
+Case #: 03932075 https://officite.my.salesforce.com/5003x000022bOJB
+Site: lovelightpeds.com
+Portal: https://my.officite.com/0043923/site/editor/cms
+16-September-2020
+
+/********************************************/
+Case #: 03932013 https://officite.my.salesforce.com/5003x000022bNO5
+Site: http://www.alabamasmilebuilders.com/
+Portal: https://my.officite.com/0021080/site/editor/cms
+16-September-2020
+
+/********************************************/
+Case #: 03932012 https://officite.my.salesforce.com/5003x000022bNLu
+Site: bloomingtonpediatrics.com
+Portal: https://my.officite.com/0036245/site/editor/cms
+16-September-2020
+
+/********************************************/
+Case #: 03931879 https://officite.my.salesforce.com/5003x000022bLH7
+Site: http://www.dentistrytoyou.com
+Portal: https://my.theonlinepractice.com/0006813/site/editor/cms
+16-September-2020
+
+/********************************************/
+Case #: 03932071 https://officite.my.salesforce.com/5003x000022bOFE
+Site: http://www.aarelaxdentalcare.com/
+Portal: https://preview.theonlinepractice.com/11635/editor/my-website.cfm
+16-September-2020
+
+/********************************************/
+Case #: 03931810 https://officite.my.salesforce.com/02s3x00001dAX9C
+Site: lexingtonspinalcare.com
+Portal: https://my.onlinechiro.com/0054068/site/editor/cms#
+16-September-2020
+
+/********************************************/
+Case #: 03931970 https://officite.my.salesforce.com/5003x000022bMaq
+Site: https://spine-well.com/
+Portal: https://my.onlinechiro.com/0048537/site/editor/cms
+16-September-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03931484 https://officite.my.salesforce.com/5003x000021ifUC
+Site: footandanklemgmt.com
+Portal: http://footandanklemgmt.com.edit.officite.com/
+15-September-2020
+
+/********************************************/
+Case #: 03931481 https://officite.my.salesforce.com/5003x000021ifRD
+Site: https://www.westchesterpediatricscinci.com/contact.html
+Portal: http://westchesterpediatricscinci.com.edit.officite.com/contact.html
+15-September-2020
+
+/********************************************/
+Case #: 03931471 https://officite.my.salesforce.com/5003x000021ifFC
+Site: http://www.cheshiredermatology.com/
+Portal: http://cheshiredermatology.com.edit.officite.com/
+15-September-2020
+
+/********************************************/
+Case #: 03931501 https://officite.my.salesforce.com/5003x000021ifY0
+Site: downtowndentalchatt.com
+Portal: https://my.theonlinepractice.com/0021434/site/editor/cms#
+15-September-2020
+
+/********************************************/
+Case #:03929636 https://officite.my.salesforce.com/5003x000021i30L
+Site: https://www.honolulusmiles.com/
+Portal: https://preview.theonlinepractice.com/13061/editor/my-website.cfm
+15-September-2020
+
+/********************************************/
+Case #: 03931275 https://officite.my.salesforce.com/5003x000021iaDW
+Site: http://www.pearlywhiteseugene.com
+Portal: https://my.theonlinepractice.com/0006420/site/editor/cms
+15-September-2020
+
+/********************************************/
+Case #: 03931226 https://officite.my.salesforce.com/5003x000021iZBk
+Site: kfamilydentistry.com
+Portal: https://my.theonlinepractice.com/0021784/site/editor/cms#
+15-September-2020
+
+/********************************************/
+Case #: 03931181 https://officite.my.salesforce.com/5003x000021iYlU
+Site: http://www.drdickhuang.com
+Portal: https://my.theonlinepractice.com/0007462/site/editor/cms
+15-September-2020
+
+/********************************************/
+Case #: 03930982 https://officite.my.salesforce.com/5003x000021iW4x
+Site: http://www.decaturchildrensdentistry.com/
+Portal: https://preview.theonlinepractice.com/14781/editor/my-website.cfm
+15-September-2020
+
+/********************************************/
+Case #: 03931528 https://officite.my.salesforce.com/5003x000021ifzL
+Site: https://www.redmontped.com/
+Portal: http://redmontped.com.edit.officite.com/patients.html#forms
+15-September-2020
+
+/********************************************/
+Case #: 03931549 https://officite.my.salesforce.com/5003x000021igPd
+Site: http://www.zdermatology.com/
+Portal: http://zdermatology.com.edit.officite.com/educational-videos.html
+15-September-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03931267 https://officite.my.salesforce.com/5003x000021iZzZ
+Site: dentalimplantperio.com
+Portal: https://my.officite.com/0049880/site/editor/cms
+14-September-2020
+
+/********************************************/
+Case #: 03929608 https://officite.my.salesforce.com/5003x000021i2XT
+Site: https://www.honolulusmiles.com/
+Portal: http://www.honolulusmiles.com
+14-September-2020
+
+/********************************************/
+Case #: 03930490 https://officite.my.salesforce.com/5003x000021iKSw
+Site: drjuneweissdental.com
+Portal: https://my.officite.com/0049899/site/editor/cms
+14-September-2020
+
+/********************************************/
+Case #: 03930427 https://officite.my.salesforce.com/5003x000021iJJp
+Site: https://www.chiropractorhealth.net/whiplash
+Portal: https://my.onlinechiro.com/0032673/site/editor/cms
+14-September-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03930439 https://officite.my.salesforce.com/5003x000021iJcm
+Site: brianjohnsonmd.com
+Portal: https://my.officite.com/0053314/site/editor/cms#!
+11-September-2020
+
+/********************************************/
+Case #: 03930489 https://officite.my.salesforce.com/5003x000021iKR0
+Site: vapg.com
+Portal: https://vapg.com.edit.officite.com/forms.html
+11-September-2020
+
+/********************************************/
+Case #: 03930490 https://officite.my.salesforce.com/5003x000021iKSw
+Site: drjuneweissdental.com
+Portal: https://my.officite.com/0049899/site/editor/cms
+11-September-2020
+
+/********************************************/
+Case #: 03930478 https://officite.my.salesforce.com/5003x000021iKEL
+Site: carolinakidspediatrics.com
+Portal: https://carolinakidspediatrics.com.edit.officite.com/
+11-September-2020
+
+/********************************************/
+Case #: 03930524 https://officite.my.salesforce.com/5003x000021iKyJ
+Site: carolina-footcare.com
+Portal: https://my.officite.com/0042806/site/editor/cms
+11-September-2020
+
+/********************************************/
+Case #: 03930537 https://officite.my.salesforce.com/5003x000021iL5F
+Site: carolina-footcare.com
+Portal: https://my.officite.com/0042806/site/editor/cms
+11-September-2020
+
+/********************************************/
+Case #: 03930576 https://officite.my.salesforce.com/5003x000021iLYC
+Site: meldrumortho.com
+Portal: https://my.officite.com/0052512/site/editor/cms
+11-September-2020
+
+/********************************************/
+Case #: 03930582 https://officite.my.salesforce.com/5003x000021iLil
+Site: dlcfl.com
+Portal: https://dlcfl.com.edit.officite.com/office-administration-staff.html
+11-September-2020
+
+/********************************************/
+Case #: 03930343 https://officite.my.salesforce.com/5003x000021iHWc
+Site: http://www.lifootcare.com/
+Portal: http://lifootcare.com.edit.officite.com/
+11-September-2020
+
+/********************************************/
+Case #: 03930360 https://officite.my.salesforce.com/5003x000021iHxs
+Site: drtheall.com
+Portal: http://drtheall.com.edit.officite.com/
+11-September-2020
+
+/********************************************/
+Case #: 03930222 https://officite.my.salesforce.com/5003x000021iDUI
+Site: https://www.pennycreeksmiles.com/
+Portal: http://pennycreeksmiles.com.edit.officite.com/
+11-September-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03930194 https://officite.my.salesforce.com/5003x000021iD1u
+Site: care4youpediatrics.com
+Portal: https://my.officite.com/0053970/site/editor/cms
+10-September-2020
+
+/********************************************/
+Case #: 03929405 https://officite.my.salesforce.com/5003x000021hzKz
+Site: https://www.myflushingdentist.com/
+Portal: https://my.theonlinepractice.com/0005107/site/editor/cms
+10-September-2020
+
+/********************************************/
+Case #: 03928319 https://officite.my.salesforce.com/5003x000021hVzd
+Site: https://www.ffdentist.com/
+Portal: https://my.officite.com/0054067/site/editor/cms
+10-September-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03929336 https://officite.my.salesforce.com/5003x000021hwMr
+Site: https://www.podiatryinthepines.com/
+Portal: https://my.onlinepodiatrysites.com/0011331/site/editor/cms
+9-September-2020
+
+/********************************************/
+Case #: 03929213 https://officite.my.salesforce.com/5003x000021huLx
+Site: fabulousfangs.com
+Portal: http://my.dentrix.com/0050780/site/editor/cms
+9-September-2020
+
+/********************************************/
+Case #: 03929209 https://officite.my.salesforce.com/5003x000021huH2
+Site: fabulousfangs.com
+Portal: http://my.dentrix.com/0050780/site/editor/cms
+9-September-2020
+
+/********************************************/
+Case #: 03928529 https://officite.my.salesforce.com/5003x000021hbjc
+Site: http://riograndecitypediatricdentistry.com/
+Portal: http://my.dentrix.com/0049897/site/editor/cms
+9-September-2020
+
+/********************************************/
+Case #: 03929043 https://officite.my.salesforce.com/5003x000021hrpi
+Site: https://www.kleindentalcare.com/
+Portal: https://my.theonlinepractice.com/0007678/site/editor/cms
+9-September-2020
+
+/********************************************/
+Case #: 03929652 https://officite.my.salesforce.com/5003x000021i3GT
+Site: https://northbayfootandankle.com/
+Portal: https://my.onlinepodiatrysites.com/0043298/site/editor/cms
+9-September-2020
+
+/********************************************/
+Case #: 03928566 https://officite.my.salesforce.com/5003x000021hd2u
+Site:  https://patrickdobbins.com/
+Portal: https://my.onlinechiro.com/0021018/site/editor/cms
+9-September-2020
+
+/********************************************/
+Case #: 03928654 https://officite.my.salesforce.com/5003x000021hfsy
+Site: https://www.puremotionchiro.com/
+Portal: http://puremotionchiro.com.edit.officite.com/
+9-September-2020
+
+/********************************************/
+Case #: 03928535 https://officite.my.salesforce.com/5003x000021hbsA
+Site: https://www.holistichealingsolution.com/
+Portal: https://my.onlinechiro.com/0045752/site/editor/cms#!
+9-September-2020
+
+/********************************************/
+Case #: 3928481 https://officite.my.salesforce.com/5003x000021haoT
+Site: https://www.santiamfootclinic.com/
+Portal: https://my.onlinepodiatrysites.com/0054020/site/editor/cms
+9-September-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03928535 https://officite.my.salesforce.com/5003x000021hbsA
+Site: https://www.holistichealingsolution.com/
+Portal: https://my.onlinechiro.com/0045752/site/editor/cms#!
+4-September-2020
+
+/********************************************/
+Case #: 03928481 https://officite.my.salesforce.com/5003x000021haoT
+Site: https://www.santiamfootclinic.com/
+Portal: https://my.onlinepodiatrysites.com/0054020/site/editor/cms
+4-September-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03927655 https://officite.my.salesforce.com/5003x000021hIYW
+Site: myhometowndentalcanton.com
+Portal: https://my.officite.com/0053353/site/editor/cms
+3-September-2020
+
+/********************************************/
+Case #: 03927669 https://officite.my.salesforce.com/5003x000021hJH5
+Site: smilecafeny.com
+Portal: http://my.dentrix.com/0050641/site/editor/cms
+3-September-2020
+
+/********************************************/
+Case #: 03924872 https://officite.my.salesforce.com/5003x000021gMSv
+Site: hamiltonfamilychiro.com
+Portal: https://my.onlinechiro.com/0042832/site/editor/cms
+3-September-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03927761 https://officite.my.salesforce.com/5003x000021hKfQ
+Site: https://www.rockypointfamilydentistry.net/
+Portal: https://my.theonlinepractice.com/0013012/site/editor/cms
+2-September-2020
+
+/********************************************/
+Case #: 03924872 https://officite.my.salesforce.com/5003x000021gMSv
+Site: http://www.optimalhealthfamilychiro.com/
+Portal: https://my.onlinechiro.com/0008699/site/editor/cms
+2-September-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03924513 https://officite.my.salesforce.com/5003x000021gCQw
+Site: https://www.albanyfoot.com/
+Portal: https://my.onlinepodiatrysites.com/0044181/site/editor/cms#
+1-September-2020
+
+/********************************************/
+Case #: 03924737 https://officite.my.salesforce.com/5003x000021gK8i
+Site: https://www.jadeorthodontics.com/
+Portal: https://my.theonlinepractice.com/0012021/site/editor/cms
+1-September-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03925757 https://officite.my.salesforce.com/5003x000021gr5e
+Site: https://www.puremotionchiro.com/
+Portal: http://puremotionchiro.com.edit.officite.com/
+31-August-2020
+
+/********************************************/
+Case #: 03924925 https://officite.my.salesforce.com/5003x000021gOiM
+Site: http://my.dentrix.com/0035423/site/editor/cms
+Portal: https://www.smileedental.net/
+31-August-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03925158 https://officite.my.salesforce.com/5003x000021gY79
+Site: https://www.charicenter.com/
+Portal: https://my.onlinechiro.com/0023160/site/editor/cms
+28-August-2020
+
+/********************************************/
+Case #: 03924804 https://officite.my.salesforce.com/5003x000021gLCD
+Site: https://www.firstwellnessaustin.com/
+Portal: https://my.onlinechiro.com/0021169/site/editor/cms
+28-August-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03924929 https://officite.my.salesforce.com/5003x000021gP5k
+Site: copelandcreekdental.com
+Portal: https://my.officite.com/0024646/site/editor/cms
+27-August-2020
+
+/********************************************/
+Case #: 03924746 https://officite.my.salesforce.com/5003x000021gKLD
+Site: https://www.successfulstudentsnyc.com/
+Portal: https://my.onlinechiro.com/0042519/site/editor/cms
+27-August-2020
+
+/********************************************/
+Case #: 03924748 https://officite.my.salesforce.com/5003x000021gKOb
+Site: https://www.successfulstudentsnyc.com/
+Portal: https://my.onlinechiro.com/0042519/site/editor/cms
+27-August-2020
+
+/********************************************/
+Case #: 03924804 https://officite.my.salesforce.com/5003x000021gLCD
+Site: https://www.firstwellnessaustin.com/
+Portal: https://my.onlinechiro.com/0021169/site/editor/cms
+27-August-2020
+
+/********************************************/
+Case #: 03924513 https://officite.my.salesforce.com/5003x000021gCQw
+Site: https://www.albanyfoot.com/
+Portal: https://my.onlinepodiatrysites.com/0044181/site/editor/cms#
+27-August-2020
+
+/********************************************/
+Case #: 03924145 https://officite.my.salesforce.com/5003x000021g6st
+Site: https://www.dentistrytoyou.com/
+Portal: https://my.theonlinepractice.com/0006813/site/editor/cms
+27-August-2020
+
+/********************************************/
+Case #: 03923971 https://officite.my.salesforce.com/5003x000021g4uO
+Site: https://www.dentistrytoyou.com/
+Portal: https://my.theonlinepractice.com/0006813/site/editor/cms
+27-August-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03924271 https://officite.my.salesforce.com/5003x000021g99X
+Site: copelandcreekdental.com
+Portal: https://my.officite.com/0024646/site/editor/cms
+26-August-2020
+
+/********************************************/
+Case #: 03924274 https://officite.my.salesforce.com/5003x000021g9AB
+Site: copelandcreekdental.com
+Portal: https://my.officite.com/0024646/site/editor/cms
+26-August-2020
+
+/********************************************/
+Case #: 03924270 https://officite.my.salesforce.com/5003x000021g99I
+Site: copelandcreekdental.com
+Portal: https://my.officite.com/0024646/site/editor/cms
+26-August-2020
+
+/********************************************/
+Case #: 03924275 https://officite.my.salesforce.com/5003x000021g9AQ
+Site: copelandcreekdental.com
+Portal: https://my.officite.com/0024646/site/editor/cms
+26-August-2020
+
+/********************************************/
+Case #: 03923013 https://officite.my.salesforce.com/5003x000021fjNW
+Site: https://www.brannoncrossingfamilydental.com/
+Portal: https://my.theonlinepractice.com/0001831/site/editor/cms
+26-August-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03923731 https://officite.my.salesforce.com/5003x000021g1Gi
+Site: https://livelifenowwellnesscenter.com/
+Portal: https://my.onlinechiro.com/0001461/site/editor/cms
+25-August-2020
+
+/********************************************/
+Case #: 03923491 https://officite.my.salesforce.com/5003x000021fvay
+Site: dentistonbrand.com
+Portal: https://my.theonlinepractice.com/0011453/site/editor/cms
+25-August-2020
+
+/********************************************/
+Case #: 03923499 https://officite.my.salesforce.com/5003x000021fvix
+Site: kfamilydentistry.com
+Portal: https://my.theonlinepractice.com/0021784/site/editor/cms
+25-August-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03923384 https://officite.my.salesforce.com/5003x000021ftdC
+Site: http://www.elktonbeardental.com
+Portal: https://my.theonlinepractice.com/0008958/site/editor/cms
+24-August-2020
+
+/********************************************/
+Case #: 03921375 https://officite.my.salesforce.com/5003x000021f2pF
+Site: dentistwi.com
+Portal: https://my.officite.com/0050375/site/editor/cms#
+24-August-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03921867 https://officite.my.salesforce.com/5003x000021fDKG
+Site: https://afcenters.com/
+Portal: https://my.officite.com/0045919/site/editor/cms
+21-August-2020
+
+/********************************************/
+Case #: 03921863 https://officite.my.salesforce.com/5003x000021fDJN
+Site: https://afcenters.com/
+Portal: https://my.officite.com/0045919/site/editor/cms
+21-August-2020
+
+/********************************************/
+Case #: 03922181 https://officite.my.salesforce.com/5003x000021fMf7
+Site: https://footandanklespecialistsofcentralpa.com/
+Portal: https://my.onlinepodiatrysites.com/0001300/site/editor/cms
+21-August-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/Case #: 03922508 https://officite.my.salesforce.com/5003x000021fW1D
+Site: https://www.mercerdentalsociety.com/
+Portal: https://my.theonlinepractice.com/0003700/site/editor/cms
+20-August-2020
+
+/********************************************/
+Case #: 03921849 https://officite.my.salesforce.com/5003x000021fCzr
+Site: https://spine-well.com/
+Portal: https://my.onlinechiro.com/0048537/site/editor/cms#
+20-August-2020
+
+/********************************************/
+Case #: 03922155 https://officite.my.salesforce.com/5003x000021fM7d
+Site: drphillipklein.com
+Portal: https://my.onlinechiro.com/0015824/site/editor/cms
+20-August-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03921487 https://officite.my.salesforce.com/5003x000021f6hu
+Site: https://www.successfulstudentsnyc.com/
+Portal: https://my.onlinechiro.com/0042519/site/editor/cms
+19-August-2020
+
+/********************************************/
+Case #: 03920624 https://officite.my.salesforce.com/5003x000021euIe
+Site: https://www.pandentalcare.com/
+Portal: https://my.officite.com/0032005/site/editor/cms#
+19-August-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03920543 https://officite.my.salesforce.com/5003x000021errl
+Site: https://www.macfdoc.com/
+Portal: https://my.officite.com/0051764/site/editor/cms
+18-August-2020
+
+/********************************************/
+Case #: 03920434 https://officite.my.salesforce.com/5003x000021enXr
+Site: https://www.shalomdental.com/appointment-request
+Portal: https://my.theonlinepractice.com/0004480/site/editor/cms#
+18-August-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03919673 https://officite.my.salesforce.com/5003x000021eart
+Site: https://www.mpetersondds.com/
+Portal: https://my.theonlinepractice.com/0009092/site/editor/cms#
+17-August-2020
+
+/********************************************/
+Case #: 03913828 https://officite.my.salesforce.com/5003x000020w64T
+Site: https://www.pujataneja.com/
+Portal: https://my.theonlinepractice.com/0015978/site/editor/cms
+17-August-2020
+
+/********************************************/
+Case #: 03919437 https://officite.my.salesforce.com/5003x000020VB2g
+Site: https://www.rockyriverwellness.com/
+Portal: http://my.onlinechiro.com/0037641/site/editor/cms
+17-August-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03920397 https://officite.my.salesforce.com/5003x000021emHE
+Site: http://www.btschiropractic.com/
+Portal: https://my.onlinechiro.com/0036107/site/editor/cms
+14-August-2020
+/********************************************/
+Case #: 03919437 https://officite.my.salesforce.com/5003x000020VB2g
+Site: https://www.rockyriverwellness.com/
+Portal: http://my.onlinechiro.com/0037641/site/editor/cms
+14-August-2020
+
+/********************************************/
+Case #: 03919468 https://officite.my.salesforce.com/5003x000020VBaX
+Site: https://www.lasernailcenterdc.com/
+Portal: https://my.onlinepodiatrysites.com/0054071/site/editor/cms
+14-August-2020
+
+/********************************************/
+Case #: 03919161 https://officite.my.salesforce.com/5003x000020V6bF
+Site: https://coastalchiros.com/
+Portal: https://my.onlinechiro.com/0010822/site/editor/cms
+14-August-2020
+
+/********************************************/
+Case #: 03918947 https://officite.my.salesforce.com/5003x000020V1Xg
+Site: https://www.lifefirstchiropractic.com/
+Portal: https://my.onlinechiro.com/0030278/site/editor/cms
+14-August-2020
+
+/********************************************/
+Case #: 03918929 https://officite.my.salesforce.com/5003x000020V1Gf
+Site: www.drwarrensilver.com/
+Portal: https://my.onlinechiro.com/0032344/site/editor/cms
+14-August-2020
+
+/********************************************/
+Case #: 03919383 https://officite.my.salesforce.com/5003x000020V9xp
+Site: https://www.akimp.com/
+Portal: http://akimp.com.edit.officite.com/#
+14-August-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03918674 https://officite.my.salesforce.com/5003x000020Uy1v
+Site: https://www.atlanticdentistry.com/
+Portal: http://atlanticdentistry.com.edit.officite.com/
+13-August-2020
+
+/********************************************/
+Case #: 03918805 https://officite.my.salesforce.com/5003x000020Uztf
+Site: https://www.flatshoalsdental.com/
+Portal: https://my.officite.com/0049024/site/editor/cms
+13-August-2020
+
+/********************************************/
+Case #: 03917858 https://officite.my.salesforce.com/5003x000020xE2d
+Site: https://www.nwoodmeremedicalcare.com/
+Portal: https://my.officite.com/0052561/site/editor/cms
+13-August-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03919333 https://officite.my.salesforce.com/5003x000020V9BG
+Site: http://www.goldfarbandgoldfarb.com/
+Portal: old portal
+12-August-2020
+
+/********************************************/
+Case #: 03918019 https://officite.my.salesforce.com/5003x000020xHHT
+Site: https://www.successfulstudentsnyc.com/
+Portal: https://my.onlinechiro.com/0042519/site/editor/cms
+12-August-2020
+
+/********************************************/
+Case #: 03917422 https://officite.my.salesforce.com/5003x000020x4we
+Site: https://www.painreliefwellness.com/
+Portal: https://my.onlinechiro.com/0052985/site/editor/cms#
+12-August-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03912923 https://officite.my.salesforce.com/5003x000020voDu
+Site: https://www.thechiropracticdoctor.com/
+Portal: https://my.onlinechiro.com/0017739/site/editor/cms
+11-August-2020
+
+/********************************************/
+Case #: 03918283 https://officite.my.salesforce.com/5003x000020Uqs6
+Site: https://www.nguyendentalcare.com/
+Portal: https://my.officite.com/0051139/site/editor/cms
+11-August-2020
+
+/********************************************/
+Case #: 03918165 https://officite.my.salesforce.com/5003x000020UpCM
+Site: https://www.childrensdentalnh.com/
+Portal: childrensdentalnh.com.edit.officite.com
+11-August-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03918132 https://officite.my.salesforce.com/5003x000020UrEl
+Site: http://www.progressivedentalsolutions.com/dental-office
+Portal: https://my.officite.com/0037226/site/editor/cms
+10-August-2020
+
+/********************************************/
+Case #: 03918132 https://officite.my.salesforce.com/5003x000020Umip
+Site: https://www.southshoredentist.com/
+Portal: https://my.officite.com/0052142/site/editor/cms
+10-August-2020
+
+/********************************************/
+Case #: 03918162 https://officite.my.salesforce.com/5003x000020Up4N
+Site: https://fastanxietyhelp.com/
+Portal: https://my.onlinechiro.com/0022297/site/editor/cms
+10-August-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03917428 https://officite.my.salesforce.com/5003x000020x4yB
+Site: http://www.decaturchildrensdentistry.com/
+Portal: Old
+7-August-2020
+
+/********************************************/
+Case #: 03917623 https://officite.my.salesforce.com/5003x000020xAI1
+Site: https://fastanxietyhelp.com/
+Portal: https://my.onlinechiro.com/0022297/site/editor/cms
+7-August-2020
+
+/********************************************/
+Case #: 03916739 https://officite.my.salesforce.com/5003x000020wpEa
+Site: https://www.successfulstudentsnyc.com/
+Portal: https://my.onlinechiro.com/0042519/site/editor/cms
+7-August-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03916182 https://my.theonlinepractice.com/0001557/site/editor/cms
+Site: https://www.bensalemfamilydentistry.com/
+Portal: https://my.theonlinepractice.com/0001557/site/editor/cms
+6-August-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03915797 https://officite.my.salesforce.com/5003x000020wWoR
+Site: https://fastanxietyhelp.com/
+Portal: https://my.onlinechiro.com/0022297/site/editor/cms
+5-August-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03915267 https://officite.my.salesforce.com/5003x000020wLXu
+Site: https://www.thepeoplesdoktor.com/
+Portal: https://my.onlinechiro.com/0052002/site/editor/cms
+4-August-2020
+
+/********************************************/
+Case #: 03914229 https://officite.my.salesforce.com/5003x000020wD3l
+Site: https://www.drajrouche.com/
+Portal: https://my.onlinepodiatrysites.com/0010356/site/editor/cms
+4-August-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03914229 https://officite.my.salesforce.com/5003x000020wD3l
+Site: https://www.drajrouche.com/
+Portal: https://my.onlinepodiatrysites.com/0010356/site/editor/cms
+3-August-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03909119 https://officite.my.salesforce.com/5003x000020uRrz
+Site: http://www.mthoodpodiatry.com/newsletter
+Portal: https://my.onlinepodiatrysites.com/0004108/site/editor/cms
+31-July-2020
+
+/********************************************/
+Case #: 03914496 https://officite.my.salesforce.com/5003x000020wH6z
+Site: http://www.hamiltonhealth.us/
+Portal: https://my.onlinechiro.com/0003396/site/editor/cms
+31-July-2020
+
+/********************************************/
+Case #: 03914117 https://officite.my.salesforce.com/5003x000020wBV2
+Site: https://www.swankchiro.com/
+Portal: https://my.onlinechiro.com/0027849/site/editor/cms
+31-July-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03913489 https://officite.my.salesforce.com/5003x000020vzco
+Site: http://www.hamiltonhealth.us/
+Portal: https://my.onlinechiro.com/0003396/site/editor/cms
+30-July-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03913490 https://officite.my.salesforce.com/5003x000020vzmy
+Site: https://www.nicholascosmeticdentalcenter.com/
+Portal: https://my.theonlinepractice.com/0014524/site/editor/cms#!
+29-July-2020
+
+/********************************************/
+Case #: 03913948 https://officite.my.salesforce.com/5003x000020w6qP
+Site: https://www.idahoperio.com/
+Portal: https://my.theonlinepractice.com/0014415/site/editor/cms
+29-July-2020
+
+/********************************************/
+Case #: 03913227 https://officite.my.salesforce.com/5003x000020vuqR
+Site: https://www.mdelitedentistry.com/
+Portal: https://my.theonlinepractice.com/0019030/site/editor/cms#
+29-July-2020
+
+/********************************************/
+Case #: 03913891 https://officite.my.salesforce.com/5003x000020w6Uq
+Site: http://www.faucettedentistry.com/
+Portal: https://my.theonlinepractice.com/0001502/site/editor/cms
+29-July-2020
+
+/********************************************/
+Case #: 03913828 https://officite.my.salesforce.com/5003x000020w64T
+Site: https://www.pujataneja.com/
+Portal: https://my.theonlinepractice.com/0015978/site/editor/cms
+29-July-2020
+
+/********************************************/
+Case #: 03913111 https://officite.my.salesforce.com/5003x000020vt8W
+Site: https://www.unitedfamilydentist.com/
+Portal: https://my.theonlinepractice.com/0004925/site/editor/cms#
+29-July-2020
+
+/********************************************/
+Case #: 03912923 https://officite.my.salesforce.com/5003x000020voDu
+Site: https://www.thechiropracticdoctor.com/
+Portal: https://my.onlinechiro.com/0017739/site/editor/cms
+29-July-2020
+
+/********************************************/
+Case #: 03913006 https://officite.my.salesforce.com/5003x000020vpiG
+Site: https://www.cccdrdee.com/
+Portal: https://my.onlinechiro.com/0045114/site/editor/cms
+29-July-2020
+
+/********************************************/
+Case #: 03908777 https://officite.my.salesforce.com/5003x000020uPAe
+Site: http://www.humbledental.com/
+Portal: https://my.theonlinepractice.com/0001888/site/editor/cms
+29-July-2020
+
+/********************************************/
+Case #: 03913344 https://officite.my.salesforce.com/5003x000020vwst
+Site: https://www.kikuchichiro.com/
+Portal: https://my.onlinechiro.com/0043627/site/editor/cms
+29-July-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03912256 https://officite.my.salesforce.com/5003x000020vXxU
+Site: https://www.drscottdenny.com/
+Portal:
+28-July-2020
+
+/********************************************/
+Case #: 03913032 https://officite.my.salesforce.com/5003x000020vqAU
+Site: https://www.unionvillefamilychiropractic.com/
+Portal: https://my.onlinechiro.com/0044670/site/editor/cms
+28-July-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03909623 https://officite.my.salesforce.com/5003x000020uWRV
+Site: https://www.vitalitychirowellness.com/
+Portal: https://my.onlinechiro.com/0050405/site/editor/cms#!
+27-July-2020
+
+/********************************************/
+Case #: 03911470 https://officite.my.salesforce.com/5003x000020vEg9
+Site: https://www.vitalitychirowellness.com/
+Portal: https://my.onlinechiro.com/0050405/site/editor/cms#!
+27-July-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03911574 https://officite.my.salesforce.com/5003x000020vJc4
+Site: https://www.bwtotalhealth.com/
+Portal: https://my.onlinechiro.com/0030149/site/editor/cms
+24-July-2020
+
+/********************************************/
+Case #: 03912038 https://officite.my.salesforce.com/5003x000020vUNK
+Site: https://www.stonybrookchiropracticspinecare.com/appointment-request
+Portal: https://my.onlinechiro.com/0001384/site/editor/cms
+24-July-2020
+
+/********************************************/
+Case #: 03912098 https://officite.my.salesforce.com/5003x000020vVOo
+Site: https://www.metterchiro.com/
+Portal: https://my.onlinechiro.com/0038267/site/editor/cms
+24-July-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03911486 https://officite.my.salesforce.com/5003x000020vFCF
+Site: https://www.metterchiro.com/
+Portal: https://my.onlinechiro.com/0038267/site/editor/cms
+23-July-2020
+
+/********************************************/
+Case #: 03910962 https://officite.my.salesforce.com/5003x000020v2lx
+Site: https://www.bayshorefootcare.com/
+Portal: https://my.onlinepodiatrysites.com/0022182/site/editor/cms
+23-July-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03910962 https://officite.my.salesforce.com/5003x000020v2lx
+Site: https://www.bayshorefootcare.com/
+Portal: https://my.onlinepodiatrysites.com/0022182/site/editor/cms
+22-July-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03910962 https://officite.my.salesforce.com/5003x000020v2lx
+Site: https://www.bayshorefootcare.com/
+Portal: https://my.onlinepodiatrysites.com/0022182/site/editor/cms
+21-July-2020
+
+/********************************************/
+Case #: 03910569 https://officite.my.salesforce.com/5003x000020urd8
+Site: https://momentumhwi.com/
+Portal: https://my.onlinechiro.com/0002290/site/editor/cms
+21-July-2020
+
+/********************************************/
+Case #: 03909164 https://officite.my.salesforce.com/5003x000020uTmX
+Site: http://www.cheyennewydentist.com
+Portal: https://my.theonlinepractice.com/0000897/site/editor/cms
+21-July-2020
+
+/********************************************/
+Case #: 03910246 https://officite.my.salesforce.com/5003x000020ummm
+Site: https://www.harbinsdental.com/
+Portal: https://my.theonlinepractice.com/0005800/site/editor/cms
+21-July-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/Case #: 03910456 https://officite.my.salesforce.com/5003x000020upTb
+Site: https://www.unitedfamilydentist.com/our-technology
+Portal: https://my.theonlinepractice.com/0004925/site/editor/cms
+20-July-2020
+
+/********************************************/
+Case #: 03896960 https://officite.my.salesforce.com/5003x00001yv7lj
+Site: https://www.fossilcreekdental.com/
+Portal: https://my.theonlinepractice.com/0024068/site/editor/cms
+20-July-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03904883 https://officite.my.salesforce.com/5003x00001yw6JX
+Site: https://www.zephyrcovedentalcenter.com/
+Portal: https://my.theonlinepractice.com/0034487/site/editor/cms
+17-July-2020
+
+/********************************************/
+Case #: 03896960 https://officite.my.salesforce.com/5003x00001yv7lj
+Site: https://www.fossilcreekdental.com/
+Portal: https://my.theonlinepractice.com/0024068/site/editor/cms
+17-July-2020
+
+/********************************************/
+Case #: 03909490 https://officite.my.salesforce.com/5003x000020uVqF
+Site: https://www.drwarrensilver.com/
+Portal: https://my.onlinechiro.com/0032344/site/editor/cms#!
+17-July-2020
+
+/********************************************/
+Case #: 03909453 https://officite.my.salesforce.com/5003x000020uVbF
+Site: https://www.premiumdentistry.com/
+Portal: https://my.theonlinepractice.com/0009004/site/editor/cms
+17-July-2020
+
+/********************************************/
+Case #: 03908777 https://officite.my.salesforce.com/5003x000020uPAe
+Site: http://www.humbledental.com/
+Portal: https://my.theonlinepractice.com/0001888/site/editor/cms
+17-July-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03909164 https://officite.my.salesforce.com/5003x000020uTmX
+Site: http://www.cheyennewydentist.com
+Portal: https://my.theonlinepractice.com/0000897/site/editor/cms#!
+16-July-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03896960 https://officite.my.salesforce.com/5003x00001yv7lj
+Site: https://www.fossilcreekdental.com/
+Portal: https://my.theonlinepractice.com/0024068/site/editor/cms
+15-July-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03907510 https://officite.my.salesforce.com/5003x00001ywV69
+Site: https://www.woodridgefamilydental.com/testimonials
+Portal: https://my.theonlinepractice.com/0010302/site/editor/cms
+14-July-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03907553 https://officite.my.salesforce.com/5003x00001ywVSj
+Site: http://www.nodental.org/newsletter/
+Portal: https://preview.theonlinepractice.com/14608/editor/my-website.cfm
+13-July-2020
+
+/********************************************/
+Case #: 03907003 https://officite.my.salesforce.com/5003x00001ywRQV
+Site: https://www.northshorefootspecialists.com/
+Portal: https://my.onlinepodiatrysites.com/0011190/site/editor/cms
+13-July-2020
+
+/********************************************/
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03896960 https://officite.my.salesforce.com/5003x00001yv7lj
+Site: https://www.fossilcreekdental.com/
+Portal: https://my.theonlinepractice.com/0024068/site/editor/cms
+10-July-2020
+
+/********************************************/
+Case #: 03906861 https://officite.my.salesforce.com/5003x00001ywQnY
+Site: https://www.charicenter.com/
+Portal: https://my.onlinechiro.com/0023160/site/editor/cms
+10-July-2020
+
+/********************************************/
+Case #: 03906804 https://www.drajrouche.com/medical-spa-services
+Site: https://www.drajrouche.com/
+Portal: https://my.onlinepodiatrysites.com/0010356/site/editor/cms#
+10-July-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03906934 https://officite.my.salesforce.com/5003x00001ywR9K
+Site: https://www.visagedds.com/
+Portal: https://my.theonlinepractice.com/0005933/site/editor/cms
+9-July-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03905740 https://officite.my.salesforce.com/5003x00001ywEuq
+Site: https://momentumhwi.com/
+Portal: https://my.onlinechiro.com/0002290/site/editor/cms
+8-July-2020
+
+/********************************************/
+Case #: 03905149 https://officite.my.salesforce.com/5003x00001yw7nj
+Site: https://www.drschoene.com/
+Portal: https://my.onlinepodiatrysites.com/0005053/site/editor/cms
+8-July-2020
+
+/********************************************/
+Case #: 03905423 https://officite.my.salesforce.com/5003x00001ywBUR
+Site: https://www.charicenter.com/
+Portal: https://my.onlinechiro.com/0023160/site/editor/cms
+8-July-2020
+
+/********************************************/
+Case #: 03906404 https://officite.my.salesforce.com/5003x00001ywMDs
+Site: https://www.adjustchiropractic.com/
+Portal: https://my.onlinechiro.com/0003411/site/editor/cms
+8-July-2020
+
+/********************************************/
+Case #: 03894609 https://officite.my.salesforce.com/5003x00001yuwIM
+Site: https://www.theoralandimplantsurgerycenter.com/
+Portal: https://preview.theonlinepractice.com/13870/editor/my-website.cfm
+19-June-2020
+8-July-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03905320 https://officite.my.salesforce.com/5003x00001ywAiX
+Site: http://www.wainscottdental.com/
+Portal: https://preview.theonlinepractice.com/13640/editor/my-website.cfm#
+7-July-2020
+
+/********************************************/
+Case #: 03904883 https://officite.my.salesforce.com/5003x00001yw6JX
+Site: https://www.zephyrcovedentalcenter.com/
+Portal: https://my.theonlinepractice.com/0034487/site/editor/cms
+7-July-2020
+
+/********************************************/
+Case #: 03904629 https://officite.my.salesforce.com/5003x00001yw3CI
+Site: https://www.chirohealthgroupwi.com/
+Portal: https://my.onlinechiro.com/0046194/site/editor/cms
+7-July-2020
+
+/********************************************/
+Case #: 03895970 https://officite.my.salesforce.com/5003x00001yv1WT
+Site: https://www.smiledesignofgeorgia.com/
+Portal: https://my.theonlinepractice.com/0006350/site/editor/cms
+7-July-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03902737 https://officite.my.salesforce.com/5003x00001yvss0
+Site: https://www.petersonchiropracticfl.com/
+Portal: https://my.onlinechiro.com/0007602/site/editor/cms
+6-July-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03905030 https://officite.my.salesforce.com/5003x00001yw7D6
+Site: https://www.drajrouche.com/
+Portal: https://my.onlinepodiatrysites.com/0010356/site/editor/cms
+2-July-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03900624 https://officite.my.salesforce.com/5003x00001yvd3Z
+Site: https://www.hattiesburgchiro.com/
+Portal: https://my.onlinechiro.com/0000702/site/editor/cms
+1-July-2020
+
+/********************************************/
+Case #: 03900326 https://officite.my.salesforce.com/5003x00001yvZhG
+Site: https://www.moorechiropractor.com/
+Portal: https://my.onlinechiro.com/0004567/site/editor/cms
+1-July-2020
+
+/********************************************/
+Case #: 03898973 https://officite.my.salesforce.com/5003x00001yvOlf
+Site: https://www.luttrellseyewear.com/
+Portal: https://my.onlinechiro.com/0011700/site/editor/cms
+1-July-2020
+
+/********************************************/
+Case #: 03895690 https://officite.my.salesforce.com/5003x00001yv0Yq
+Site: http://www.flintfamilychiropractic.com/
+Portal: https://my.onlinechiro.com/0022177/site/editor/cms
+1-July-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03902188 https://officite.my.salesforce.com/5003x00001yvobv
+Site: http://drassalita.com/
+Portal: https://my.onlinepodiatrysites.com/0013852/site/editor/cms
+30-June-2020
+
+/********************************************/
+Case #: 03901574 https://officite.my.salesforce.com/5003x00001yvjI0
+Site: https://www.angelwaydental.com/
+Portal: https://preview.theonlinepractice.com/11861/editor/my-website.cfm
+30-June-2020
+
+/********************************************/
+Case #: 03899769 https://officite.my.salesforce.com/5003x00001yvVZ4
+Site: https://www.watsonchirocenter.com/
+Portal: https://my.onlinechiro.com/0000978/site/editor
+30-June-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03901680 https://officite.my.salesforce.com/5003x00001yvlEj
+Site: https://www.unitedfamilydentist.com/
+Portal: https://my.theonlinepractice.com/0004925/site/editor/cms
+29-June-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03900595 https://officite.my.salesforce.com/5003x00001yvcuX
+Site: https://www.dtowndentist.com/
+Portal: https://my.theonlinepractice.com/0020580/site/editor/cms
+26-June-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03901406 https://officite.my.salesforce.com/5003x00001yvidv
+Site: https://www.midvalechiropractor.com/
+Portal: https://my.onlinechiro.com/0006406/site/editor/cms
+25-June-2020
+
+/********************************************/
+Case #: 03900636 https://officite.my.salesforce.com/5003x00001yvd8y
+Site: https://www.hamiltonfamilychiro.com/
+Portal: https://my.onlinechiro.com/0042832/site/editor/cms
+25-June-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03900636 https://officite.my.salesforce.com/5003x00001yvd8y
+Site: https://www.hamiltonfamilychiro.com/
+Portal: https://my.onlinechiro.com/0042832/site/editor/cms
+24-June-2020
+
+/********************************************/
+Case #: 03900655 https://officite.my.salesforce.com/5003x00001yvdIZ
+Site: https://www.drlilysiu.com/
+Portal: https://preview.theonlinepractice.com/10632/editor/
+24-June-2020
+
+/********************************************/
+Case #: 03899499 https://officite.my.salesforce.com/5003x00001yvTmd
+Site: https://www.successfulstudentsnyc.com/bookclubs
+Portal: https://my.onlinechiro.com/0042519/site/editor/cms
+24-June-2020
+
+/********************************************/
+Case #: 03900436 https://officite.my.salesforce.com/5003x00001yva32
+Site: https://www.beyourdentist.com/
+Portal: https://my.theonlinepractice.com/0006908/site/editor/cms
+24-June-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03899677 https://officite.my.salesforce.com/5003x00001yvUvd
+Site: https://cheyennechiro.com/
+Portal: https://my.onlinechiro.com/0022619/site/editor/cms
+23-June-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03899173 https://officite.my.salesforce.com/5003x00001yvQHr
+Site: https://www.hamiltonfamilychiro.com/
+Portal: https://my.onlinechiro.com/0042832/site/editor/cms
+22-June-2020
+
+/********************************************/
+Case #: 03896600 https://officite.my.salesforce.com/5003x00001yv5Dt
+Site: https://www.smiledesignofgeorgia.com/
+Portal: https://my.theonlinepractice.com/0006350/site/editor/cms
+22-June-2020
+
+/********************************************/
+Case #: 03896596 https://officite.my.salesforce.com/5003x00001yv519
+Site: https://www.nagpalpediatrics.com/
+Portal: https://my.officite.com/0050048/site/editor/cms
+22-June-2020
+
+/********************************************/
+Case #: 03896437 https://officite.my.salesforce.com/5003x00001yv2zn
+Site: http://www.dianagalvisdds.com/
+Portal: https://preview.theonlinepractice.com/10688/editor/my-website.cfm
+22-June-2020
+
+/********************************************/
+Case #: 03897187 https://officite.my.salesforce.com/5003x00001yvAhe
+Site: https://www.accidentschiro.com/
+Portal: https://my.onlinechiro.com/0010453/site/editor/cms
+22-June-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03894609 https://officite.my.salesforce.com/5003x00001yuwIM
+Site: https://www.theoralandimplantsurgerycenter.com/
+Portal: https://preview.theonlinepractice.com/13870/editor/my-website.cfm
+19-June-2020
+
+/********************************************/
+Case #: 03894581 https://officite.my.salesforce.com/5003x00001yuwFD
+Site: https://www.allanrosenthaldpm.com/
+Portal: http://allanrosenthaldpm.com.edit.officite.com/
+19-June-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03894573 https://officite.my.salesforce.com/5003x00001yuwDv
+Site: https://www.sfcdg.com/
+Portal: https://my.theonlinepractice.com/0005186/site/editor/cms
+17-June-2020
+
+/********************************************/
+Case #: 03894573 https://officite.my.salesforce.com/5003x00001yuwDv
+Site: https://www.sfcdg.com/
+Portal: https://my.theonlinepractice.com/0005186/site/editor/cms
+17-June-2020
+
+/********************************************/
+Case #: 03894528 https://officite.my.salesforce.com/5003x00001yuw6f
+Site: https://www.rochestergastro.com/
+Portal: http://rochestergastro.com.edit.officite.com/
+17-June-2020
+
+/********************************************/
+Case #: 03894554 https://officite.my.salesforce.com/5003x00001yuwAr
+Site: https://www.johnstoneperio.com/
+Portal: http://johnstoneperio.com.edit.officite.com/
+17-June-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03890645 https://officite.my.salesforce.com/5003x00001yuhor
+Site: https://www.drgitto.com/
+Portal: https://my.onlinechiro.com/0007044/site/editor/cms
+16-June-2020
+
+/********************************************/
+Case #: 03895627 https://officite.my.salesforce.com/5003x00001yv0L3
+Site: https://www.orangetownchiropractic.com/
+Portal: https://my.onlinechiro.com/0001274/site/editor/cms
+16-June-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03894883 https://officite.my.salesforce.com/5003x00001yuxUr
+Site: https://www.countyseatchiroandnutritionhealingcenter.com/
+Portal: https://my.onlinechiro.com/0036507/site/editor/cms
+15-June-2020
+
+/********************************************/
+Case #: 03895643 https://officite.my.salesforce.com/5003x00001yv0O7
+Site: https://www.bolenchiropractic.com/
+Portal: https://my.onlinechiro.com/0026262/site/editor/cms
+15-June-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03895473 https://officite.my.salesforce.com/5003x00001yuzl3
+Site: http://drassalita.com/
+Portal: https://my.onlinepodiatrysites.com/0013852/site/editor/cms
+12-June-2020
+
+/********************************************/
+Case #: 03894244 https://officite.my.salesforce.com/5003x00001yuvID
+Site: https://www.drgitto.com/
+Portal: https://my.onlinechiro.com/0007044/site/editor/cms
+12-June-2020
+
+/********************************************/
+Case #: 03893013 https://officite.my.salesforce.com/5003x00001yuqpT
+Site: https://www.sandiegopodiatrygroup.com/
+Portal: https://my.onlinepodiatrysites.com/0004120/site/editor/cms
+12-June-2020
+
+/********************************************/
+Case #: 03893202 https://officite.my.salesforce.com/5003x00001yurOQ
+Site: https://www.pearlandperio.com/
+Portal: https://my.theonlinepractice.com/0009100/site/editor/cms
+12-June-2020
+
+/********************************************/
+
+Case #: 03893171 https://officite.my.salesforce.com/5003x00001yurHx
+Site: https://www.swanseadentalassociates.com/
+Portal: http://swanseadentalassociates.com.edit.officite.com/
+12-June-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03893158 https://officite.my.salesforce.com/5003x00001yurFI
+Site: http://www.gentledentalpractice.com/
+Portal: https://preview.theonlinepractice.com/4898/editor/my-website.cfm#
+11-June-2020
+
+/********************************************/
+Case #: 03890645 https://officite.my.salesforce.com/5003x00001yuhor
+Site: https://www.drgitto.com/
+Portal: https://my.onlinechiro.com/0007044/site/editor/cms
+11-June-2020
+
+/********************************************/
+Case #: 03893084 https://officite.my.salesforce.com/5003x00001yur28
+Site: https://www.drhowardsilverdds.com/
+Portal: https://my.theonlinepractice.com/0004408/site/editor/cms
+11-June-2020
+
+/********************************************/
+Case #: 03893043 https://officite.my.salesforce.com/5003x00001yuqvb
+Site: https://www.collettidds.com/
+Portal: http://collettidds.com.edit.officite.com/
+11-June-2020
+
+/********************************************/
+Case #: 03892597 https://officite.my.salesforce.com/5003x00001yupEv
+Site: https://www.angellfamilydentistry.com/
+Portal: https://my.theonlinepractice.com/0014516/site/editor/cms
+11-June-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03894883 https://officite.my.salesforce.com/5003x00001yuxUr
+Site: https://www.countyseatchiroandnutritionhealingcenter.com
+Portal: https://my.onlinechiro.com/0036507/site/editor/cms
+10-June-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03891318 https://officite.my.salesforce.com/5003x00001yukcd
+Site: https://www.precisionperio.net/
+Portal: https://preview.theonlinepractice.com/5154/editor/my-website.cfm
+9-June-2020
+
+/********************************************/
+Case #: 03892991 https://officite.my.salesforce.com/5003x00001yuqkO
+Site: https://www.beranekoptometry.com/
+Portal: https://my.onlinechiro.com/0037925/site/editor/cms
+9-June-2020
+
+/********************************************/
+Case #: 03891514 https://officite.my.salesforce.com/5003x00001yulg6
+Site: https://www.drlorimorris.com/
+Portal: https://my.onlinechiro.com/0042019/site/editor/cms
+9-June-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03887414 https://officite.my.salesforce.com/5003x00001yuYyu
+    Site: https://www.duckettddsfallschurch.com/
+Portal: https://preview.theonlinepractice.com/14020/editor/my-website.cfm#
+8-June-2020
+
+/********************************************/
+Case #: 03887526 https://officite.my.salesforce.com/5003x00001yuZIt
+Site: http://www.drvaleriewaddell.com/
+Portal: https://preview.theonlinepractice.com/3987/editor/
+8-June-2020
+
+/********************************************/
+Case #: 03892971 https://officite.my.salesforce.com/5003x00001yuqfn
+Site: https://www.drhartalternativehealth.com/
+Portal: https://my.onlinechiro.com/0051186/site/editor/cms
+8-June-2020
+
+/********************************************/
+Case #: 03891405 https://officite.my.salesforce.com/5003x00001yuktE
+Site: https://www.drchapple.com/
+Portal: https://my.onlinechiro.com/0002743/site/editor/cms
+8-June-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03889301 https://officite.my.salesforce.com/5003x00001yueiE
+Site: https://www.northbaypediatrics.com/
+Portal: https://my.officite.com/0040446/site/editor/cms
+4-June-2020
+
+/********************************************/
+Case #: 03889302 https://officite.my.salesforce.com/5003x00001yueiO
+Site: https://www.centennialfootandankle.com/
+Portal: https://my.officite.com/0049919/site/editor/cms
+4-June-2020
+
+/********************************************/
+Case #: 03889310 https://officite.my.salesforce.com/5003x00001yuej7
+Site: https://www.drtomcoleman.com/
+Portal: https://my.officite.com/0045664/site/editor/cms
+4-June-2020
+
+/********************************************/
+Case #: 03889312 https://officite.my.salesforce.com/5003x00001yuejM
+Site: https://www.stonybrookpediatrics.com/
+Portal: https://my.officite.com/0038714/site/editor/cms
+4-June-2020
+
+/********************************************/
+Case #: 03887958 https://officite.my.salesforce.com/5003x00001yuaUU
+Site: https://www.familycaredentalbirmingham.com/
+Portal: https://preview.theonlinepractice.com/13001/editor/
+4-June-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03887646 https://officite.my.salesforce.com/5003x00001yuZbq
+Site: https://www.smile2sparkle.com/
+Portal: https://preview.theonlinepractice.com/11435/editor/my-website.cfm
+2-June-2020
+
+/********************************************/
+Case #: 03888064 https://officite.my.salesforce.com/5003x00001yubAB
+Site: https://www.harbinsdental.com/
+Portal: https://my.theonlinepractice.com/0005800/site/editor/cms
+2-June-2020
+
+/********************************************/
+Case #: 03887958 https://officite.my.salesforce.com/5003x00001yuaUU
+Site: https://www.familycaredentalbirmingham.com/
+Portal: https://preview.theonlinepractice.com/13001/editor/my-website.cfm#
+2-June-2020
+
+/********************************************/
+Case #: 03887703 https://officite.my.salesforce.com/5003x00001yuZnS
+Site: http://www.venicedentalassociates.com/
+Portal: https://preview.theonlinepractice.com/3300/editor/my-website.cfm#
+2-June-2020
+
+/********************************************/
+Case #:  03887639 https://officite.my.salesforce.com/5003x00001yuZaJ
+Site: https://www.no7dental.com/
+Portal: https://my.theonlinepractice.com/0010106/site/editor/cms
+2-June-2020
+
+/********************************************/
+Case #: 03887635 https://officite.my.salesforce.com/5003x00001yuZZC
+Site: https://www.no7dental.com/
+Portal: https://my.theonlinepractice.com/0010106/site/editor/cms
+2-June-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03887572 https://officite.my.salesforce.com/5003x00001yuZSZ
+Site: https://www.richborofamilydentistry.com/
+Portal: https://preview.theonlinepractice.com/13058/editor/my-website.cfm
+1-June-2020
+
+/********************************************/
+Case #: 03887371 https://officite.my.salesforce.com/5003x00001yuYqz
+Site: https://www.richborofamilydentistry.com/
+Portal: https://preview.theonlinepractice.com/13058/editor/my-website.cfm
+1-June-2020
+
+/********************************************/
+Case #: 03886288 https://officite.my.salesforce.com/5003x00001yuUfz
+Site: https://www.warrentondermatology.com/
+Portal: http://warrentondermatology.com.edit.officite.com/
+1-June-2020
+
+/********************************************/
+Case #: 03885893 https://officite.my.salesforce.com/5003x00001yuTOJ
+Site: https://www.goldfederdmd.com/
+Portal: https://preview.theonlinepractice.com/4937/editor/my-website.cfm
+1-June-2020
+
+/********************************************/
+Case #: 03886566 https://officite.my.salesforce.com/5003x00001yuVu2
+Site: https://www.charicenter.com/
+Portal: https://my.onlinechiro.com/0023160/site/editor/cms
+1-June-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03889169 https://officite.my.salesforce.com/5003x00001yueKQ
+Site: https://www.lighthouse-health.com/
+Portal: https://my.onlinechiro.com/0044180/site/editor/cms
+29-May-2020
+
+/********************************************/
+Case #: 03887737 https://officite.my.salesforce.com/5003x00001yuZwF
+Site: https://www.drsuttonwellness.com/
+Portal: https://my.onlinechiro.com/0030505/site/editor/cms
+29-May-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03886659 https://officite.my.salesforce.com/5003x00001yuWF5
+Site: https://matthewschirofl.com/
+Portal: https://my.onlinechiro.com/0002294/site/editor/cms
+28-May-2020
+
+/********************************************/
+Case #: 03886655 https://officite.my.salesforce.com/5003x00001yuWEb
+Site: https://matthewschirofl.com/
+Portal: https://my.onlinechiro.com/0002294/site/editor/cms
+28-May-2020
+
+/********************************************/
+Case #: 03888326 https://officite.my.salesforce.com/5003x00001yuc8D
+Site: https://www.reboundchiropractic.com/
+Portal: https://my.onlinechiro.com/0011233/site/editor/cms
+27-May-2020
+
+/********************************************/
+Case #: 03886568 https://officite.my.salesforce.com/5003x00001yuVvA
+Site: https://www.charicenter.com/
+Portal: https://my.onlinechiro.com/0023160/site/editor/cms
+28-May-2020
+
+/********************************************/
+Case #: 03887224 https://officite.my.salesforce.com/5003x00001yuY8l
+Site: https://www.docmote.com/
+Portal: https://my.onlinechiro.com/0001561/site/editor/cms
+28-May-2020
+
+/********************************************/
+Case #: 03886566 https://officite.my.salesforce.com/5003x00001yuVu2
+Site: https://www.charicenter.com/
+Portal: https://my.onlinechiro.com/0023160/site/editor/cms
+28-May-2020
+
+/********************************************/
+Case #: 03886565 https://officite.my.salesforce.com/5003x00001yuVkM
+Site: https://www.docmote.com/
+Portal: https://my.onlinechiro.com/0001561/site/editor/cms
+28-May-2020
+
+/********************************************/
+Case #: 03886257 https://officite.my.salesforce.com/5003x00001yuUaf
+Site: https://drbryanv.com/
+Portal: https://my.onlinechiro.com/0044309/site/editor/cms
+28-May-2020
+
+/********************************************/
+Case #: 03886218 https://officite.my.salesforce.com/5003x00001yuUTV
+Site: https://www.hamiltonfamilychiro.com/
+Portal: https://my.onlinechiro.com/0042832/site/editor/cms
+28-May-2020
+
+/********************************************/
+Case #: 03885771 https://officite.my.salesforce.com/5003x00001yuSil
+Site: https://www.adjustchiropractic.com/
+Portal: https://my.onlinechiro.com/0003411/site/editor/cms
+28-May-2020
+
+/********************************************/
+Case #: 03887737 https://officite.my.salesforce.com/5003x00001yuZwF
+Site: https://www.drsuttonwellness.com/
+Portal: https://my.onlinechiro.com/0030505/site/editor/cms
+28-May-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: LIGHT HOUSE
+Site: http://www.knoxvillechiropracticcenter.com/
+Portal: http://my.lh360.com/0050955/site/editor/cms
+27-May-2020
 
 /********************************************/
 Case #: LIGHT HOUSE
-Site:
-Portal:
-21-May-2020
+Site: http://www.bradentonchiropracticcenter.com/
+Portal: http://my.lh360.com/0050958/site/editor/cms
+27-May-2020
 
 /********************************************/
+Case #: LIGHT HOUSE
+Site: http://www.lawrenceburgchiropracticcare.com/
+Portal: http://my.lh360.com/0050946/site/editor/cms
+27-May-2020
+
+/********************************************/
+/********************************************************************/
+/********************************************************************/
+Case #: 03885120 https://officite.my.salesforce.com/5003x00001yuQGC
+Site: http://www.rockcreekdds.com/
+Portal: https://preview.theonlinepractice.com/14813/editor/my-website.cfm
+26-May-2020
+
+/********************************************/
+Case #: LIGHT HOUSE
+Site: http://www.almondvalleychiropractor.com/
+Portal: http://my.lh360.com/0050942/site/editor/cms
+26-May-2020
+
+/********************************************/
+Case #: LIGHT HOUSE
+Site: http://www.moseslakechiropracticcenter.com/
+Portal: http://my.lh360.com/0050940/site/editor/cms
+26-May-2020
+
+/********************************************/
+Case #: LIGHT HOUSE
+Site: http://www.chiropracticcentersanantoniotx.com/
+Portal: http://my.lh360.com/0050938/site/editor/cms
+26-May-2020
+
+/********************************************/
+Case #: LIGHT HOUSE
+Site: http://www.turnersvillechiropracticcare.com/
+Portal: http://my.lh360.com/0050897/site/editor/cms
+26-May-2020
+
+/********************************************/
+Case #: LIGHT HOUSE
+Site: http://www.chiropracticcenterclarknj.com/
+Portal: http://my.lh360.com/0050872/site/editor/cms
+26-May-2020
+HAS CUSTOM OFFER FORM POP UP
+/********************************************/
+/********************************************************************/
+/********************************************************************/
 Case #: LIGHT HOUSE
   Site: http://www.chiropracticcenterpocatello.com/
 Portal: http://my.lh360.com/0050868/site/editor/cms
