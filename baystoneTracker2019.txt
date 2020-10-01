@@ -1,7 +1,7 @@
 Case #:
 Site:
 Portal:
--September-2020
+-October-2020
 
 /********************************************/
 /******************************************************************************/
@@ -9,19 +9,111 @@ Portal:
 Case #:
 Site:
 Portal:
-21-September-2020
+1-October-2020
 
 /********************************************/
-Case #:
-Site:
-Portal:
-21-September-2020
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03942590 https://my.officite.com/0054078/site/editor/cms#
+Site: https://312mainst.com
+Portal: https://my.officite.com/0054078/site/editor/cms#
+30-September-2020
 
 /********************************************/
+Case #: 03942447 https://officite.my.salesforce.com/5003x000022clmz
+Site: https://www.alignedmedicalgroup.com
+Portal: https://my.officite.com/0054801/site/editor/cms
+30-September-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #:03942336 https://officite.my.salesforce.com/5003x000022ckPx
+Site: myfootandanklecenter.com
+Portal: https://my.officite.com/0052726/site/editor/cms
+29-September-2020
+
+/********************************************/
+Case #: 03942215 https://officite.my.salesforce.com/5003x000022cjI4
+Site: drstevenfrank.com
+Portal: https://my.onlinepodiatrysites.com/0011739/site/editor/cms
+29-September-2020
+
+/********************************************/
+Case #: 03942217 https://officite.my.salesforce.com/5003x000022cjLw
+Site: http://www.dentistrybydesigndmd.com/
+Portal: https://dentistrybydesigndmd.com.edit.officite.com/
+29-September-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03942472 https://officite.my.salesforce.com/5003x000022cmBu
+Site: sridental.com
+Portal: https://my.officite.com/0052454/site/editor/cms
+28-September-2020
+
+/********************************************/
+Case #: 03942037 https://officite.my.salesforce.com/5003x000022cdTl
+Site: https://www.conroefamilydentistry.com/
+Portal: https://conroefamilydentistry.com.edit.officite.com/
+28-September-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03941775 https://officite.my.salesforce.com/5003x000022cZfv
+Site: http://www.brannoncrossingfamilydental.com
+Portal: https://my.theonlinepractice.com/0001831/site/editor/cms
+25-September-2020
+
+/********************************************/
+Case #: 03941033 https://officite.my.salesforce.com/5003x000022cKMW
+Site: olympiadentaloffice.com
+Portal: https://my.officite.com/0042358/site/editor/cms
+25-September-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03941054 https://officite.my.salesforce.com/5003x000022cKvC
+Site: https://www.emeraldhillsdentalcenter.com/
+Portal: http://emeraldhillsdentalcenter.com.edit.officite.com/staff.html
+24-September-2020
+
+/********************************************/
+Case #: 03941050 https://officite.my.salesforce.com/5003x000022cKnh
+Site: https://www.drgeorgesalem.com/
+Portal: http://drgeorgesalem.com.edit.officite.com/dental-staff.html
+24-September-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
+Case #: 03940693 https://officite.my.salesforce.com/5003x000022cEzb
+Site: skylightdental.com
+Portal: https://skylightdental.com.edit.officite.com/staff.html
+23-September-2020
+
+/********************************************/
+Case #: 03940692 https://officite.my.salesforce.com/5003x000022cEzH
+Site: townedentalandortho.com
+Portal: https://my.officite.com/0029356/site/editor/cms
+23-September-2020
+
+/********************************************/
+Case #: 03932232 https://officite.my.salesforce.com/5003x000022bQp0
+Site: https://www.sorrentodentalcare.com/
+Portal: https://my.officite.com/0053722/site/editor/cms
+23-September-2020
+
+/********************************************/
+/******************************************************************************/
+/******************************************************************************/
 Case #: 03932384 https://officite.my.salesforce.com/5003x000022bVXV
 Site: citrusparkmedicalcare.org
 Portal: https://citrusparkmedicalcare.org.edit.officite.com/brandon-contact-us.html
-21-September-2020
+22-September-2020
 
 /********************************************/
 Case #: 03932541 https://officite.my.salesforce.com/5003x000022bXqf
