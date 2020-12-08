@@ -1,3 +1,219 @@
+setInterval(function(){
+    var x = $('.classinit').attr('class');
+    if (x === undefined){
+    	//$( append script here).addClass('classinit');
+    	console.log(x);
+    }
+    else {
+        return;
+    }
+},500);
+
+
+
+
+
+
+You could use .data():
+
+$("#element").click(function(){
+    $(this).data('clicked', true);
+});
+
+and then check it with:
+
+if($('#element').data('clicked')) {
+    alert('yes');
+}
+
+
+
+
+
+$("#element").click(function(){
+    var $this = $(this);
+    if($this.data('clicked')) {
+        func(some, other, parameters);
+    }
+    else {
+        $this.data('clicked', true);
+        func(some, parameter);
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+(function( $ ){
+   $.fn.myfunction = function() {
+      alert('hello world');
+      return this;
+   };
+})( jQuery );
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==================================================================================
+LAZY LOADING
+==================================================================================
+<img src="blank.gif" class="lazy" data-src="/images/full-size.jpg" width="240" height="152">
+/* lazyload.js (c) Lorenzo Giuliani
+ * MIT License (http://www.opensource.org/licenses/mit-license.html)
+ *
+ * expects a list of:
+ * `<img src="blank.gif" data-src="my_image.png" width="600" height="400" class="lazy">`
+ */
+
+!function(window){
+  var $q = function(q, res){
+        if (document.querySelectorAll) {
+          res = document.querySelectorAll(q);
+        } else {
+          var d=document
+            , a=d.styleSheets[0] || d.createStyleSheet();
+          a.addRule(q,'f:b');
+          for(var l=d.all,b=0,c=[],f=l.length;b<f;b++)
+            l[b].currentStyle.f && c.push(l[b]);
+
+          a.removeRule(0);
+          res = c;
+        }
+        return res;
+      }
+    , addEventListener = function(evt, fn){
+        window.addEventListener
+          ? this.addEventListener(evt, fn, false)
+          : (window.attachEvent)
+            ? this.attachEvent('on' + evt, fn)
+            : this['on' + evt] = fn;
+      }
+    , _has = function(obj, key) {
+        return Object.prototype.hasOwnProperty.call(obj, key);
+      }
+    ;
+
+  function loadImage (el, fn) {
+    var img = new Image()
+      , src = el.getAttribute('data-src');
+    img.onload = function() {
+      if (!! el.parent)
+        el.parent.replaceChild(img, el)
+      else
+        el.src = src;
+
+      fn? fn() : null;
+    }
+    img.src = src;
+  }
+
+  function elementInViewport(el) {
+    var rect = el.getBoundingClientRect()
+
+    return (
+       rect.top    >= 0
+    && rect.left   >= 0
+    && rect.top <= (window.innerHeight || document.documentElement.clientHeight)
+    )
+  }
+
+    var images = new Array()
+      , query = $q('img.lazy')
+      , processScroll = function(){
+          for (var i = 0; i < images.length; i++) {
+            if (elementInViewport(images[i])) {
+              loadImage(images[i], function () {
+                images.splice(i, i);
+              });
+            }
+          };
+        }
+      ;
+    // Array.prototype.slice.call is not callable under our lovely IE8
+    for (var i = 0; i < query.length; i++) {
+      images.push(query[i]);
+    };
+
+    processScroll();
+    addEventListener('scroll',processScroll);
+
+}(this);​
+
+
+
+
+
+
+
+
+==================================================================================
+JUST A NORMAL POPUP WITH TIMER
+==================================================================================
+
+// 	TURN THIS ON FOR MAINTENANCE ONLY THIS AUTOMATICALLY REMOVES POPUP
+// Set the date we're counting down to
+var countDownDate = new Date("Nov 20, 2020 07:00:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Display the result in the element with id="demo"
+  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+
+  // If the count down is finished, write some text
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "EXPIRED";
+    $('#ac-wrapper, #popup, .eksbtn').hide();
+  }
+}, 1000);
+
+
+$('<div id="ac-wrapper" style="position:fixed;width:100%;top:0;height:100vh;z-index:9999;background-color: #000000c9;"></div>').insertAfter('body');
+$('<center id="popup" style="position:fixed;margin-top:25px;top:0;z-index: 9999;left: 50%;transform: translateX(-50%);"><div><div style="padding:15% 8%;background:white;width:100%;height: auto;border: solid 5px;border-radius:5px;" border="0" ><br><br><h1>Site Under Maintenance</h1><p style="display:inline;">Approximately </p><p style="display:inline;" id="demo"></p><br><em><h3>We are adding some exciting stuff. Please bear with us! Thank You!</h3></em></div></div></center>').insertAfter('#ac-wrapper');
+
+$('#ac-wrapper, .eksbtn').on('click',function(){
+    $('#ac-wrapper, #popup, .eksbtn').hide();
+});
+
 
 
 ==================================================================================
